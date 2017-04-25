@@ -1,0 +1,1001 @@
+ID,ID,Address,Latitude,Longitude,SalePrice,IsAStudio,Beds,Baths,Size,SizeUnit,LotSize,LotSizeUnit,BuiltInYear,YearOfSale,MonthOfSale,DayOfSale,WeekDayOfSale
+0,15063471,"55 Vandewater St APT 9, San Francisco, CA",37805103,-122412856,0.71,False,1.0,,550.0,sqft,,,1980.0,2015,12,4,<built-in method weekday of Timestamp object at 0x1090fa7d0>
+1,15063505,"740 Francisco St, San Francisco, CA",37804420,-122417389,2.15,False,,2.0,1430.0,sqft,2435.0,sqft,1948.0,2015,11,30,<built-in method weekday of Timestamp object at 0x1090fac50>
+2,15063609,"819 Francisco St, San Francisco, CA",37803728,-122419055,5.6,False,2.0,3.5,2040.0,sqft,3920.0,sqft,1976.0,2015,11,12,<built-in method weekday of Timestamp object at 0x1090fa850>
+3,15064044,"199 Chestnut St APT 5, San Francisco, CA",37804392,-122406590,1.5,False,1.0,1.0,1060.0,sqft,,,1930.0,2015,12,11,<built-in method weekday of Timestamp object at 0x1090fa950>
+4,15064257,"111 Chestnut St APT 403, San Francisco, CA",37804240,-122405509,0.97,False,2.0,2.0,1299.0,sqft,,,1993.0,2016,1,15,<built-in method weekday of Timestamp object at 0x1090faad0>
+5,15064295,"111 Chestnut St APT 702, San Francisco, CA",37804240,-122405509,0.94,False,2.0,2.0,1033.0,sqft,,,1993.0,2015,12,17,<built-in method weekday of Timestamp object at 0x1090fa9d0>
+6,15064391,"1821 Grant Ave APT 101, San Francisco, CA",37803748,-122408531,0.835,False,1.0,1.0,1048.0,sqft,,,1975.0,2015,12,15,<built-in method weekday of Timestamp object at 0x1090facd0>
+7,15064536,"2300 Leavenworth St, San Francisco, CA",37802408,-122417537,2.83,False,3.0,2.0,2115.0,sqft,1271.0,sqft,1913.0,2015,12,4,<built-in method weekday of Timestamp object at 0x1090fa8d0>
+8,15064640,"1047-1049 Lombard St, San Francisco, CA",37801889,-122418704,4.05,True,,,4102.0,sqft,3049.0,sqft,1948.0,2016,1,14,<built-in method weekday of Timestamp object at 0x1090fab50>
+9,15064669,"1055 Lombard St # C, San Francisco, CA",37801873,-122418834,2.19,False,2.0,3.0,1182.0,sqft,,,1986.0,2015,12,31,<built-in method weekday of Timestamp object at 0x1090faed0>
+10,15065032,"101 Lombard St APT 116E, San Francisco, CA",37803470,-122404090,0.8,False,1.0,1.0,1000.0,sqft,,,1983.0,2015,12,7,<built-in method weekday of Timestamp object at 0x1090faf50>
+11,15065140,"1407 Montgomery St APT 2, San Francisco, CA",37802299,-122404941,0.976,False,1.0,1.0,1000.0,sqft,,,1870.0,2016,1,28,<built-in method weekday of Timestamp object at 0x1090fadd0>
+12,15065727,"1360 Montgomery St APT 1, San Francisco, CA",37801802,-122404269,0.72,False,1.0,1.0,552.0,sqft,,,1937.0,2015,11,16,<built-in method weekday of Timestamp object at 0x1090faa50>
+13,15065810,"1327-1329 Kearny St, San Francisco, CA",37800260,-122406123,2.25,False,,4.0,2658.0,sqft,1600.0,sqft,1906.0,2015,11,25,<built-in method weekday of Timestamp object at 0x1090fabd0>
+14,15065946,"44 Macondray Ln APT 2E, San Francisco, CA",37799474,-122414835,1.29,False,2.0,2.0,1165.0,sqft,,,1980.0,2015,11,30,<built-in method weekday of Timestamp object at 0x1090fae50>
+15,15066001,"1070 Green St APT 201, San Francisco, CA",37798792,-122416797,2.9,False,2.0,2.0,1465.0,sqft,,,1963.0,2015,11,18,<built-in method weekday of Timestamp object at 0x109981f50>
+16,15066036,"1070 Green St APT 1402, San Francisco, CA",37798792,-122416797,2.6,False,3.0,2.5,2017.0,sqft,,,1963.0,2015,12,31,<built-in method weekday of Timestamp object at 0x109981ed0>
+17,15066085,"1907 Leavenworth St APT 8, San Francisco, CA",37798645,-122417500,0.908,False,2.0,1.0,956.0,sqft,,,1907.0,2015,11,12,<built-in method weekday of Timestamp object at 0x109981e50>
+18,15066201,"1101 Green St # 303, San Francisco, CA",37798234,-122417394,1.21,False,2.0,1.0,1003.0,sqft,,,1930.0,2015,11,16,<built-in method weekday of Timestamp object at 0x109981dd0>
+19,15066281,"1807 Jones St, San Francisco, CA",37797920,-122415745,1.7,False,2.0,2.0,1467.0,sqft,3023.0,sqft,1922.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109981d50>
+20,15066344,"999 Green St APT 905, San Francisco, CA",37798451,-122415218,1.28,False,1.0,1.0,986.0,sqft,,,1964.0,2015,12,10,<built-in method weekday of Timestamp object at 0x109981cd0>
+21,15066608,"455 Vallejo St APT 111, San Francisco, CA",37798796,-122404766,0.875,False,1.0,1.0,825.0,sqft,,,1973.0,2015,12,16,<built-in method weekday of Timestamp object at 0x109981c50>
+22,15066839,"1163-1165 Vallejo St, San Francisco, CA",37797445,-122416366,0.3,False,,2.0,2344.0,sqft,1376.0,sqft,1913.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109981bd0>
+23,15066959,"1300 Pacific Ave, San Francisco, CA",37795805,-122416840,0.425,True,,2.0,989.0,sqft,,,1910.0,2016,1,14,<built-in method weekday of Timestamp object at 0x109981b50>
+24,15067302,"948 Jackson St, San Francisco, CA",37795662,-122410789,1.95,False,,4.0,4362.0,sqft,1459.0,sqft,1908.0,2015,11,13,<built-in method weekday of Timestamp object at 0x109981ad0>
+25,15067583,"946 Stockton St APT 6B, San Francisco, CA",37794715,-122407810,0.775,False,,2.0,710.0,sqft,,,1970.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109981a50>
+26,15067604,"946 Stockton St APT 9E, San Francisco, CA",37794715,-122407810,0.705,False,2.0,2.0,744.0,sqft,,,1970.0,2015,12,2,<built-in method weekday of Timestamp object at 0x1099819d0>
+27,15067755,"1250 Clay St APT 306, San Francisco, CA",37793575,-122413670,0.695,False,1.0,1.0,541.0,sqft,,,1950.0,2016,1,10,<built-in method weekday of Timestamp object at 0x109981950>
+28,15067890,"1250 Jones St APT 503, San Francisco, CA",37793071,-122414049,1.41,False,1.0,1.0,1250.0,sqft,,,1929.0,2015,12,4,<built-in method weekday of Timestamp object at 0x1099818d0>
+29,15067896,"1250 Jones St APT 802, San Francisco, CA",37793071,-122414049,1.68,False,1.0,1.0,1115.0,sqft,,,1929.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109981850>
+30,15068039,"1170 Sacramento St APT 9B, San Francisco, CA",37792930,-122412195,3.8,False,2.0,2.0,1961.0,sqft,,,1963.0,2015,12,3,<built-in method weekday of Timestamp object at 0x1099817d0>
+31,15068514,"1177 California St APT 702, San Francisco, CA",37791089,-122413658,0.665,False,1.0,1.0,511.0,sqft,,,1978.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109981750>
+32,15068551,"1177 California St APT 501, San Francisco, CA",37791089,-122413658,0.9,False,1.0,1.0,884.0,sqft,,,1978.0,2015,12,15,<built-in method weekday of Timestamp object at 0x1099816d0>
+33,15068580,"1177 California St APT 423, San Francisco, CA",37791089,-122413658,0.738,True,,1.0,706.0,sqft,,,1978.0,2015,12,29,<built-in method weekday of Timestamp object at 0x109981650>
+34,15068592,"1177 California St APT 304, San Francisco, CA",37791089,-122413658,0.79,False,1.0,1.0,645.0,sqft,,,1977.0,2015,12,1,<built-in method weekday of Timestamp object at 0x1099815d0>
+35,15068767,"767-771 Pine St, San Francisco, CA",37790971,-122408473,2.49,False,,4.0,4605.0,sqft,1376.0,sqft,1909.0,2015,12,31,<built-in method weekday of Timestamp object at 0x109981550>
+36,15068857,"1001 Pine St APT 608, San Francisco, CA",37790348,-122412568,0.535,True,,1.0,450.0,sqft,,,1964.0,2015,12,7,<built-in method weekday of Timestamp object at 0x1099814d0>
+37,15068874,"1001 Pine St APT 801, San Francisco, CA",37790348,-122412568,0.65,False,,1.0,650.0,sqft,,,1963.0,2015,12,24,<built-in method weekday of Timestamp object at 0x109981450>
+38,15069276,"795 Sutter St # 303, San Francisco, CA",37788404,-122413260,1.2,False,3.0,2.0,1753.0,sqft,,,1913.0,2015,11,15,<built-in method weekday of Timestamp object at 0x1099813d0>
+39,15069477,"631 Ofarrell St APT 816, San Francisco, CA",37785240,-122415125,0.485,True,,1.0,480.0,sqft,,,1930.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109981350>
+40,15069628,"47-49 Casa Way, San Francisco, CA",37805371,-122439029,3.8,False,3.0,,3905.0,sqft,2748.0,sqft,1939.0,2015,11,25,<built-in method weekday of Timestamp object at 0x1099812d0>
+41,15069883,"59 Rico Way, San Francisco, CA",37804909,-122439650,2.55,False,3.0,1.5,1675.0,sqft,2613.0,sqft,1925.0,2015,12,21,<built-in method weekday of Timestamp object at 0x109981250>
+42,15070227,"134 Alhambra St, San Francisco, CA",37802318,-122438801,3.08,False,3.0,3.0,2599.0,sqft,3005.0,sqft,1925.0,2016,1,18,<built-in method weekday of Timestamp object at 0x1099811d0>
+43,15070235,"180 Alhambra St, San Francisco, CA",37801939,-122439299,3.33,False,,2.0,2864.0,sqft,2286.0,sqft,1925.0,2015,12,7,<built-in method weekday of Timestamp object at 0x109981150>
+44,15070255,"146 Avila St, San Francisco, CA",37801998,-122440411,3.02,False,3.0,3.0,2100.0,sqft,2495.0,sqft,1924.0,2015,12,23,<built-in method weekday of Timestamp object at 0x1099810d0>
+45,15070544,"1051-1053 Francisco St, San Francisco, CA",37803239,-122422458,9.71,False,5.0,6.0,4650.0,sqft,4726.0,sqft,1953.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109981050>
+46,15070728,"3315 Pierce St, San Francisco, CA",37800650,-122439786,2.5,False,3.0,3.5,2255.0,sqft,2500.0,sqft,1925.0,2016,1,6,<built-in method weekday of Timestamp object at 0x109980f50>
+47,15070807,"1763-1765 Chestnut St, San Francisco, CA",37801061,-122432273,1.38,False,,3.0,3260.0,sqft,3000.0,sqft,1920.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109980ed0>
+48,15071012,"2701 Van Ness Ave APT 207, San Francisco, CA",37800573,-122424849,0.885,False,,1.0,885.0,sqft,,,1929.0,2015,11,30,<built-in method weekday of Timestamp object at 0x109980e50>
+49,15071070,"2701 Van Ness Ave APT 702, San Francisco, CA",37800573,-122424849,0.718,False,,1.0,793.0,sqft,,,1929.0,2015,12,2,<built-in method weekday of Timestamp object at 0x109980dd0>
+50,15071199,"2374-2376 Greenwich St, San Francisco, CA",37798820,-122438743,6.0,False,4.0,5.0,4178.0,sqft,2495.0,sqft,1938.0,2015,11,23,<built-in method weekday of Timestamp object at 0x109980d50>
+51,15071224,"3126 Scott St APT 2, San Francisco, CA",37798778,-122440578,1.35,False,2.0,2.0,1367.0,sqft,,,1970.0,2015,12,7,<built-in method weekday of Timestamp object at 0x109980cd0>
+52,15071286,"3038 Pierce St, San Francisco, CA",37798140,-122438775,1.15,False,2.0,2.0,1150.0,sqft,,,1906.0,2015,12,7,<built-in method weekday of Timestamp object at 0x109980c50>
+53,15071577,"1374 Union St, San Francisco, CA",37798870,-122421845,3.0,False,3.0,3.5,3105.0,sqft,,,1907.0,2015,12,2,<built-in method weekday of Timestamp object at 0x109980bd0>
+54,15072128,"1438 Green St UNIT 5A, San Francisco, CA",37798116,-122422880,1.28,False,2.0,2.0,1206.0,sqft,,,1998.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109980b50>
+55,15072153,"1353 Green St, San Francisco, CA",37797685,-122421335,2.3,False,2.0,2.0,1764.0,sqft,,,1941.0,2015,11,24,<built-in method weekday of Timestamp object at 0x109980ad0>
+56,15072263,"1795 Green St, San Francisco, CA",37796780,-122428519,2.5,False,3.0,2.0,1647.0,sqft,,,1908.0,2015,11,20,<built-in method weekday of Timestamp object at 0x109980a50>
+57,15072504,"2660 Scott St, San Francisco, CA",37794473,-122439703,13.1,False,7.0,8.0,9190.0,sqft,5623.0,sqft,1908.0,2015,12,8,<built-in method weekday of Timestamp object at 0x1099809d0>
+58,15072510,"2535 Vallejo St, San Francisco, CA",37794444,-122438979,5.6,False,,4.0,4065.0,sqft,3781.0,sqft,1908.0,2015,11,23,<built-in method weekday of Timestamp object at 0x109980950>
+59,15072951,"1770 Pacific Ave APT 103, San Francisco, CA",37794927,-122424508,1.76,False,2.0,2.0,1500.0,sqft,,,1902.0,2015,11,25,<built-in method weekday of Timestamp object at 0x1099808d0>
+60,15072997,"1896 Pacific Ave APT 802, San Francisco, CA",37794706,-122426347,0.25,False,2.0,2.5,2272.0,sqft,,,1924.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109980850>
+61,15073090,"2002 Pacific Ave APT 4, San Francisco, CA",37794429,-122428513,4.2,False,3.0,3.5,3291.0,sqft,,,1961.0,2016,1,20,<built-in method weekday of Timestamp object at 0x1099807d0>
+62,15073657,"1895 Pacific Ave APT 506, San Francisco, CA",37794168,-122426243,0.975,False,1.0,1.0,1165.0,sqft,,,1931.0,2015,11,20,<built-in method weekday of Timestamp object at 0x109980750>
+63,15074158,"1945 Washington St APT 411, San Francisco, CA",37792472,-122425281,0.665,False,1.0,1.0,653.0,sqft,,,1987.0,2015,12,16,<built-in method weekday of Timestamp object at 0x1099806d0>
+64,15074306,"1950 Gough St APT 306, San Francisco, CA",37791558,-122425677,1.15,False,1.0,1.0,1000.0,sqft,,,1926.0,2015,12,21,<built-in method weekday of Timestamp object at 0x109980650>
+65,15074558,"2684-2686 Sacramento St, San Francisco, CA",37789686,-122437098,2.71,False,,,2840.0,sqft,2674.0,sqft,1900.0,2015,12,8,<built-in method weekday of Timestamp object at 0x1099805d0>
+66,15074647,"2619-2621 Sacramento St, San Francisco, CA",37789373,-122436057,2.9,False,7.0,5.0,2930.0,sqft,2038.0,sqft,1900.0,2015,12,3,<built-in method weekday of Timestamp object at 0x109980550>
+67,15075139,"2215 California St, San Francisco, CA",37788944,-122431099,5.05,False,5.0,6.0,3485.0,sqft,3454.0,sqft,1900.0,2015,12,11,<built-in method weekday of Timestamp object at 0x1099804d0>
+68,15075278,"2440 Bush St # C, San Francisco, CA",37786788,-122437531,2.0,False,3.0,2.5,1810.0,sqft,,,1985.0,2015,11,16,<built-in method weekday of Timestamp object at 0x109980450>
+69,15075410,"2015 Pine St # A, San Francisco, CA",37788219,-122429286,0.795,False,1.0,1.0,708.0,sqft,,,1900.0,2015,12,1,<built-in method weekday of Timestamp object at 0x1099803d0>
+70,15075714,"1880 Steiner St APT 101, San Francisco, CA",37786575,-122434720,1.35,False,2.0,3.0,1332.0,sqft,,,1999.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109980350>
+71,15076120,"2075 Sutter St APT 507, San Francisco, CA",37785647,-122434462,1.31,False,2.0,2.0,1084.0,sqft,,,1992.0,2015,12,4,<built-in method weekday of Timestamp object at 0x1099802d0>
+72,15076156,"1533 Sutter St, San Francisco, CA",37786658,-122426481,5.53,False,6.0,7.5,7375.0,sqft,2748.0,sqft,1890.0,2015,11,12,<built-in method weekday of Timestamp object at 0x109980250>
+73,15076294,"1450 Post St APT 1006, San Francisco, CA",37786361,-122425831,0.17,False,,,545.0,sqft,,,1992.0,2015,11,16,<built-in method weekday of Timestamp object at 0x1099801d0>
+74,15076310,"1450 Post St APT 1108, San Francisco, CA",37786361,-122425831,0.399,False,1.0,1.0,595.0,sqft,,,1992.0,2015,11,24,<built-in method weekday of Timestamp object at 0x109980150>
+75,15076450,"1483 Sutter St APT 1102, San Francisco, CA",37786750,-122424235,0.69,False,1.0,1.0,650.0,sqft,,,1993.0,2015,11,19,<built-in method weekday of Timestamp object at 0x1099800d0>
+76,15076699,"1 Daniel Burnham Ct APT 1202, San Francisco, CA",37786755,-122422500,0.795,False,1.0,1.0,772.0,sqft,,,1988.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109980050>
+77,15076711,"1 Daniel Burnham Ct APT 1404, San Francisco, CA",37786755,-122422500,0.975,False,2.0,2.0,1009.0,sqft,,,1988.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10997ff50>
+78,15076978,"66 Cleary Ct APT 1408, San Francisco, CA",37784298,-122427058,0.895,False,2.0,2.0,1106.0,sqft,,,1963.0,2015,12,21,<built-in method weekday of Timestamp object at 0x10997fed0>
+79,15077111,"1200 Gough St APT 22B, San Francisco, CA",37784820,-122423994,0.65,True,,1.0,550.0,sqft,,,1966.0,2016,1,29,<built-in method weekday of Timestamp object at 0x10997fe50>
+80,15077403,"1310 Scott St # 40, San Francisco, CA",37782280,-122436820,0.958,False,3.0,2.0,1270.0,sqft,,,1986.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10997fdd0>
+81,15077572,"601 Van Ness Ave APT 48, San Francisco, CA",37781386,-122421406,0.83,False,2.0,2.0,1090.0,sqft,,,1982.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10997fd50>
+82,15077602,"601 Van Ness Ave APT 78, San Francisco, CA",37781386,-122421406,0.81,False,2.0,2.0,952.0,sqft,,,1982.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10997fcd0>
+83,15077705,"601 Van Ness Ave APT 605, San Francisco, CA",37781386,-122421406,0.825,False,2.0,2.0,1072.0,sqft,,,1982.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10997fc50>
+84,15077725,"601 Van Ness Ave APT 201, San Francisco, CA",37781386,-122421406,0.555,False,1.0,1.0,750.0,sqft,,,1982.0,2016,1,5,<built-in method weekday of Timestamp object at 0x10997fbd0>
+85,15077902,"601 Van Ness Ave APT 944, San Francisco, CA",37781386,-122421406,0.6,False,1.0,1.0,894.0,sqft,,,1982.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10997fb50>
+86,15077929,"601 Van Ness Ave APT 405, San Francisco, CA",37781386,-122421406,0.825,False,2.0,2.0,881.0,sqft,,,1982.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10997fad0>
+87,15078419,"301 Gough St APT 3, San Francisco, CA",37776184,-122423007,0.81,False,1.0,1.0,626.0,sqft,,,1999.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10997fa50>
+88,15078423,"301 Gough St # G, San Francisco, CA",37776184,-122423007,1.15,False,,,936.0,sqft,,,,2015,11,10,<built-in method weekday of Timestamp object at 0x10997f9d0>
+89,15078434,"412-414 Linden St, San Francisco, CA",37776282,-122424850,0.835,False,4.0,2.0,2200.0,sqft,1297.0,sqft,1909.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10997f950>
+90,15078460,"622-626 Buchanan St, San Francisco, CA",37775745,-122427543,1.25,False,,,2785.0,sqft,1637.0,sqft,1900.0,2015,11,12,<built-in method weekday of Timestamp object at 0x10997f8d0>
+91,15078536,"640 Steiner St, San Francisco, CA",37775399,-122432491,1.5,False,2.0,2.0,1593.0,sqft,,,1895.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10997f850>
+92,15078815,"545-547 Oak St, San Francisco, CA",37774030,-122428306,1.77,False,5.0,3.0,2610.0,sqft,3297.0,sqft,1900.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10997f7d0>
+93,15078866,"753-755 Oak St, San Francisco, CA",37773576,-122431663,0.375,False,,2.0,2430.0,sqft,3781.0,sqft,1890.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10997f750>
+94,15078940,"706 Haight St, San Francisco, CA",37771865,-122434050,1.68,False,2.0,2.0,1463.0,sqft,,,1997.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10997f6d0>
+95,15078953,"789-793 Page St, San Francisco, CA",37772439,-122433608,1.7,False,6.0,3.0,3825.0,sqft,2247.0,sqft,1911.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997f650>
+96,15079164,"544 Waller St # 1, San Francisco, CA",37771145,-122432750,1.9,False,3.0,3.0,860.0,sqft,,,1983.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10997f5d0>
+97,15079269,"591-595 Waller St, San Francisco, CA",37770560,-122433330,1.23,False,,7.0,7240.0,sqft,2696.0,sqft,1900.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10997f550>
+98,15079279,"101-105 Steiner St, San Francisco, CA",37769994,-122431983,2.7,False,,3.0,6726.0,sqft,2735.0,sqft,1900.0,2015,12,9,<built-in method weekday of Timestamp object at 0x10997f4d0>
+99,15079314,"457-461 Waller St, San Francisco, CA",37770797,-122431159,1.55,True,,,3750.0,sqft,3000.0,sqft,1900.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10997f450>
+100,15079585,"3835 Scott St APT 105, San Francisco, CA",37805235,-122442515,1.12,False,1.0,1.0,1118.0,sqft,,,1928.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10997f3d0>
+101,15079836,"2146 Bay St, San Francisco, CA",37802227,-122442439,7.1,False,2.0,4.5,1500.0,sqft,3436.0,sqft,1925.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997f350>
+102,15080238,"2646-2648 Greenwich St, San Francisco, CA",37798286,-122443351,5.15,False,,2.0,2692.0,sqft,3436.0,sqft,1911.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10997f2d0>
+103,15080315,"2953 Broderick St, San Francisco, CA",37797633,-122444344,3.0,False,2.0,2.5,1876.0,sqft,1637.0,sqft,1923.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10997f250>
+104,15080609,"2769 Union St, San Francisco, CA",37795620,-122444820,3.13,False,3.0,2.0,2800.0,sqft,,,1984.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10997f1d0>
+105,15080826,"2780 Broadway St, San Francisco, CA",37793580,-122442803,17.1,False,5.0,6.0,6800.0,sqft,3460.0,sqft,1962.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997f150>
+106,15080894,"2950 Pacific Ave, San Francisco, CA",37792769,-122444342,16.0,False,7.0,6.5,11500.0,sqft,0.28,ac,1907.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997f0d0>
+107,15081067,"46 Presidio Ave, San Francisco, CA",37791250,-122447325,3.9,False,4.0,3.5,2750.0,sqft,2705.0,sqft,1916.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997f050>
+108,15081147,"2955 Pacific Ave, San Francisco, CA",37791900,-122443975,3.65,False,3.0,2.0,2160.0,sqft,,,1995.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10997ef50>
+109,15081160,"2820 Jackson St, San Francisco, CA",37791799,-122441680,4.0,False,5.0,3.5,3212.0,sqft,3000.0,sqft,1900.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10997eed0>
+110,15081273,"2801 Jackson St # 12, San Francisco, CA",37791415,-122441445,1.42,False,2.0,1.0,1330.0,sqft,,,1906.0,2015,12,24,<built-in method weekday of Timestamp object at 0x10997ee50>
+111,15081334,"2947 Jackson St, San Francisco, CA",37791050,-122443590,1.87,False,3.0,2.0,2100.0,sqft,,,1939.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10997edd0>
+112,15081395,"3100 Washington St #6, San Francisco, CA",37790530,-122444565,0.825,False,1.0,1.0,808.0,sqft,,,1964.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10997ed50>
+113,15081736,"3515 Washington St, San Francisco, CA",37789217,-122450906,3.8,False,2.0,3.0,2760.0,sqft,4464.0,sqft,1941.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10997ecd0>
+114,15081960,"2921 Washington St APT 5, San Francisco, CA",37790535,-122441409,1.0,False,1.0,1.0,1070.0,sqft,,,1916.0,2015,11,23,<built-in method weekday of Timestamp object at 0x10997ec50>
+115,15082108,"3016 Sacramento St, San Francisco, CA",37788970,-122442995,1.85,False,2.0,1.5,1408.0,sqft,,,1890.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10997ebd0>
+116,15082200,"333 Presidio Ave APT 4, San Francisco, CA",37788551,-122447336,0.738,False,1.0,1.0,770.0,sqft,,,1907.0,2015,12,9,<built-in method weekday of Timestamp object at 0x10997eb50>
+117,15082795,"25-29 Parker Ave #27, San Francisco, CA",37785632,-122455073,1.07,False,2.0,2.0,1092.0,sqft,,,1909.0,2015,11,19,<built-in method weekday of Timestamp object at 0x10997ead0>
+118,15083161,"1825 Scott St, San Francisco, CA",37786681,-122438711,32.7,False,,1.0,1100.0,sqft,1694.0,sqft,1900.0,2015,11,23,<built-in method weekday of Timestamp object at 0x10997ea50>
+119,15084143,"270 Ewing Ter, San Francisco, CA",37779676,-122449096,1.57,False,2.0,1.0,1250.0,sqft,2178.0,sqft,1940.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10997e9d0>
+120,15084385,"1213 Scott St, San Francisco, CA",37781300,-122437649,1.5,False,3.0,1.5,1439.0,sqft,,,1900.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997e950>
+121,15084557,"26 Rossi Ave, San Francisco, CA",37779640,-122456218,0.259,False,7.0,3.0,4361.0,sqft,3428.0,sqft,1941.0,2015,12,31,<built-in method weekday of Timestamp object at 0x10997e8d0>
+122,15084949,"1912 Golden Gate Ave, San Francisco, CA",37778500,-122442563,1.77,False,3.0,2.0,1154.0,sqft,3436.0,sqft,1900.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10997e850>
+123,15084954,"1954 Golden Gate Ave, San Francisco, CA",37778420,-122443073,1.1,False,2.0,1.0,1515.0,sqft,,,1895.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10997e7d0>
+124,15085630,"650-652 Broderick St, San Francisco, CA",37776420,-122439479,1.8,False,8.0,2.0,3350.0,sqft,2809.0,sqft,1907.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10997e750>
+125,15085696,"532-534 Lyon St, San Francisco, CA",37775802,-122442710,4.5,False,,2.0,2696.0,sqft,3044.0,sqft,1904.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997e6d0>
+126,15085726,"1667C-1667B Fulton St, San Francisco, CA",37775695,-122444175,0.822,False,,2.0,1750.0,sqft,1437.0,sqft,1908.0,2016,1,21,<built-in method weekday of Timestamp object at 0x10997e650>
+127,15086718,"1260 Haight St APT 5, San Francisco, CA",37770785,-122443090,1.05,False,2.0,1.0,1082.0,sqft,3438.0,sqft,1928.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10997e5d0>
+128,15086964,"1576 Waller St, San Francisco, CA",37768882,-122450080,1.5,False,3.0,1.0,1668.0,sqft,,,1900.0,2016,1,8,<built-in method weekday of Timestamp object at 0x10997e550>
+129,15087483,"721 Frederick St, San Francisco, CA",37765465,-122456295,0.725,False,1.0,1.0,590.0,sqft,,,1990.0,2015,12,24,<built-in method weekday of Timestamp object at 0x10997e4d0>
+130,15087641,"805-807 Clayton St, San Francisco, CA",37766773,-122448261,2.55,False,,,2950.0,sqft,2495.0,sqft,1910.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10997e450>
+131,15087654,"814 Cole St, San Francisco, CA",37766481,-122449790,1.77,False,5.0,2.0,3000.0,sqft,2687.0,sqft,1906.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10997e3d0>
+132,15087801,"978 Clayton St, San Francisco, CA",37764210,-122447030,1.8,False,2.0,1.0,1585.0,sqft,,,1924.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10997e350>
+133,15088159,"1043-1045 Clayton St, San Francisco, CA",37763286,-122447391,1.21,False,,4.0,5736.0,sqft,,,1974.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10997e2d0>
+134,15088460,"4855-4857 17TH St, San Francisco, CA",37761346,-122450034,0.85,False,,2.0,2310.0,sqft,3009.0,sqft,1926.0,2015,12,31,<built-in method weekday of Timestamp object at 0x10997e250>
+135,15088722,"520 El Camino Del Mar, San Francisco, CA",37787975,-122488862,6.1,False,6.0,5.5,4840.0,sqft,6926.0,sqft,1926.0,2015,12,31,<built-in method weekday of Timestamp object at 0x10997e1d0>
+136,15088769,"80 Mclaren Ave, San Francisco, CA",37786532,-122489620,11.6,False,4.0,5.0,6473.0,sqft,9628.0,sqft,1924.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997e150>
+137,15089097,"78 22nd Ave, San Francisco, CA",37786394,-122481641,4.3,False,4.0,4.5,4017.0,sqft,3001.0,sqft,1907.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10997e0d0>
+138,15089098,"22 22nd Ave, San Francisco, CA",37786828,-122481673,4.97,False,5.0,5.0,5610.0,sqft,0.32,ac,1926.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10997e050>
+139,15090454,"286 27th Ave, San Francisco, CA",37784078,-122486930,0.95,False,2.0,1.0,1367.0,sqft,,,1924.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10997cf50>
+140,15090770,"2730-2732 Clement St, San Francisco, CA",37782092,-122488723,1.2,False,4.0,2.0,3040.0,sqft,2538.0,sqft,1924.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10997ced0>
+141,15090783,"326 29th Ave, San Francisco, CA",37783151,-122488922,1.5,False,3.0,1.0,1675.0,sqft,3049.0,sqft,1910.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997ce50>
+142,15090866,"323-325 25TH Ave, San Francisco, CA",37783380,-122485309,1.44,False,2.0,1.0,3130.0,sqft,2996.0,sqft,1923.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10997cdd0>
+143,15091143,"262-264 17TH Ave, San Francisco, CA",37783126,-122476032,1.62,False,2.0,1.0,3410.0,sqft,3000.0,sqft,1916.0,2015,11,19,<built-in method weekday of Timestamp object at 0x10997cd50>
+144,15091950,"333-337 20TH Ave, San Francisco, CA",37781556,-122479793,1.75,False,4.0,,2600.0,sqft,3000.0,sqft,1907.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10997ccd0>
+145,15092065,"455 25th Ave APT 2, San Francisco, CA",37780970,-122485155,1.04,False,3.0,2.0,1287.0,sqft,,,1996.0,2016,1,21,<built-in method weekday of Timestamp object at 0x10997cc50>
+146,15092455,"3535 Clement St, San Francisco, CA",37781184,-122497425,1.83,False,4.0,3.0,2500.0,sqft,3886.0,sqft,1919.0,2015,12,8,<built-in method weekday of Timestamp object at 0x10997cbd0>
+147,15092620,"3945 Clement St, San Francisco, CA",37781101,-122501742,1.7,False,3.0,2.5,2209.0,sqft,2500.0,sqft,1930.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10997cb50>
+148,15092835,"149 Seal Rock Dr, San Francisco, CA",37780446,-122508816,0.7,False,2.0,1.0,1275.0,sqft,2500.0,sqft,1941.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10997cad0>
+149,15093047,"554 46th Ave, San Francisco, CA",37778042,-122506661,0.665,False,2.0,1.0,830.0,sqft,644.0,sqft,1900.0,2016,1,12,<built-in method weekday of Timestamp object at 0x10997ca50>
+150,15093075,"539 44th Ave, San Francisco, CA",37778322,-122505364,0.9985,False,2.0,1.0,1290.0,sqft,3000.0,sqft,1922.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10997c9d0>
+151,15093237,"586-588 42ND Ave, San Francisco, CA",37777620,-122502614,0.74,False,2.0,1.0,864.0,sqft,1438.0,sqft,1945.0,2015,12,24,<built-in method weekday of Timestamp object at 0x10997c950>
+152,15093645,"505-507 32ND Ave, San Francisco, CA",37779468,-122492435,1.47,False,,4.0,2376.0,sqft,1437.0,sqft,1958.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10997c8d0>
+153,15093664,"591 29th Ave, San Francisco, CA",37778174,-122489141,1.75,False,3.0,2.5,1800.0,sqft,1875.0,sqft,1936.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10997c850>
+154,15093745,"591 27th Ave, San Francisco, CA",37778299,-122486969,0.897,False,2.0,1.0,900.0,sqft,1760.0,sqft,1915.0,2015,12,31,<built-in method weekday of Timestamp object at 0x10997c7d0>
+155,15093965,"2920 Anza St, San Francisco, CA",37778636,-122479699,0.31,False,4.0,2.0,2102.0,sqft,2666.0,sqft,1920.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10997c750>
+156,15094244,"470 12th Ave, San Francisco, CA",37779375,-122470285,1.48,False,2.0,1.5,1630.0,sqft,,,1931.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10997c6d0>
+157,15094520,"3701 Geary Blvd # 304, San Francisco, CA",37780939,-122459167,0.7855,False,2.0,2.0,1214.0,sqft,8250.0,sqft,1986.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10997c650>
+158,15094548,"528 2nd Ave, San Francisco, CA",37778685,-122459484,1.45,True,,,2810.0,sqft,3049.0,sqft,1906.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997c5d0>
+159,15094694,"539 5th Ave, San Francisco, CA",37778372,-122463348,1.24,False,,1.0,925.0,sqft,3000.0,sqft,1907.0,2015,12,9,<built-in method weekday of Timestamp object at 0x10997c550>
+160,15094710,"570-572 6TH Ave, San Francisco, CA",37777803,-122463721,1.7,False,3.0,,2750.0,sqft,3000.0,sqft,1906.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10997c4d0>
+161,15095208,"574 18th Ave, San Francisco, CA",37777141,-122476669,1.83,False,3.0,1.5,2050.0,sqft,3000.0,sqft,1916.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10997c450>
+162,15095382,"559 21st Ave, San Francisco, CA",37777240,-122480556,1.25,False,2.0,1.0,1400.0,sqft,3001.0,sqft,1918.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10997c3d0>
+163,15095541,"3321 Anza St, San Francisco, CA",37777956,-122483984,2.27,False,8.0,6.0,4729.0,sqft,2430.0,sqft,1905.0,2015,12,31,<built-in method weekday of Timestamp object at 0x10997c350>
+164,15095745,"654 30th Ave, San Francisco, CA",37776903,-122489545,1.58,False,3.0,1.5,1900.0,sqft,3049.0,sqft,1927.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997c2d0>
+165,15095966,"699 36th Ave APT 408, San Francisco, CA",37775999,-122496550,0.925,False,3.0,3.0,1639.0,sqft,1742.0,sqft,1997.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10997c250>
+166,15096484,"716 Great Hwy # 1, San Francisco, CA",37774947,-122510650,0.912,False,3.0,2.0,1600.0,sqft,,,1990.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10997c1d0>
+167,15096544,"783 La Playa St # 2, San Francisco, CA",37773690,-122510340,0.535,False,1.0,1.0,667.0,sqft,,,1991.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10997c150>
+168,15096577,"739 48th Ave, San Francisco, CA",37774398,-122509364,0.945,False,,2.0,1368.0,sqft,3000.0,sqft,1957.0,2016,1,5,<built-in method weekday of Timestamp object at 0x10997c0d0>
+169,15096806,"744 44th Ave, San Francisco, CA",37774487,-122504423,1.23,False,4.0,3.0,2380.0,sqft,4199.0,sqft,1926.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10997c050>
+170,15097178,"760 35th Ave, San Francisco, CA",37774688,-122494764,1.81,False,8.0,5.0,3905.0,sqft,3598.0,sqft,1965.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109965f50>
+171,15097633,"623 23rd Ave, San Francisco, CA",37775847,-122482595,0.955,False,2.0,1.0,1085.0,sqft,2770.0,sqft,1920.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109965ed0>
+172,15097709,"668 23rd Ave, San Francisco, CA",37775173,-122481902,1.12,False,,1.0,1325.0,sqft,2996.0,sqft,1922.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109965e50>
+173,15098770,"790 7th Ave APT 104, San Francisco, CA",37773831,-122464603,0.6,False,2.0,1.0,560.0,sqft,,,1981.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109965dd0>
+174,15099387,"735 22nd Ave, San Francisco, CA",37773876,-122481388,0.005995,False,4.0,2.0,1800.0,sqft,2996.0,sqft,1921.0,2015,12,14,<built-in method weekday of Timestamp object at 0x109965d50>
+175,15099711,"886 30th Ave, San Francisco, CA",37772625,-122489280,1.38,False,2.0,3.0,1990.0,sqft,2375.0,sqft,1929.0,2015,11,12,<built-in method weekday of Timestamp object at 0x109965cd0>
+176,15100149,"806 39th Ave, San Francisco, CA",37773556,-122499019,1.05,False,,1.0,1375.0,sqft,2374.0,sqft,1926.0,2015,11,20,<built-in method weekday of Timestamp object at 0x109965c50>
+177,15100309,"801 42nd Ave, San Francisco, CA",37773449,-122502803,1.46,False,3.0,3.0,2730.0,sqft,2250.0,sqft,1923.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109965bd0>
+178,15100665,"855 La Playa St APT 360, San Francisco, CA",37772199,-122510375,0.75,False,2.0,2.0,1193.0,sqft,,,1982.0,2016,1,20,<built-in method weekday of Timestamp object at 0x109965b50>
+179,15100990,"4220 Irving St, San Francisco, CA",37762654,-122503312,1.15,False,3.0,2.0,1675.0,sqft,2495.0,sqft,1950.0,2016,1,21,<built-in method weekday of Timestamp object at 0x109965ad0>
+180,15101068,"1223 41st Ave, San Francisco, CA",37763885,-122501124,1.1,False,3.0,2.0,1771.0,sqft,2996.0,sqft,1938.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109965a50>
+181,15101712,"1216 28th Ave, San Francisco, CA",37764647,-122486547,2.02,False,5.0,2.5,2666.0,sqft,4791.0,sqft,1924.0,2015,11,18,<built-in method weekday of Timestamp object at 0x1099659d0>
+182,15101817,"1246 25th Ave, San Francisco, CA",37764260,-122483293,1.16,False,2.0,2.0,1760.0,sqft,3000.0,sqft,1940.0,2015,12,31,<built-in method weekday of Timestamp object at 0x109965950>
+183,15101927,"1271 21st Ave, San Francisco, CA",37764011,-122479634,1.85,True,,,3170.0,sqft,3001.0,sqft,1983.0,2016,1,4,<built-in method weekday of Timestamp object at 0x1099658d0>
+184,15101998,"1259 18th Ave, San Francisco, CA",37764358,-122476436,1.5,False,3.0,3.0,2236.0,sqft,3049.0,sqft,1924.0,2015,11,24,<built-in method weekday of Timestamp object at 0x109965850>
+185,15102413,"1251 2nd Ave, San Francisco, CA",37765164,-122459097,1.6,False,,3.0,4480.0,sqft,2108.0,sqft,1908.0,2015,12,17,<built-in method weekday of Timestamp object at 0x1099657d0>
+186,15102663,"1337-1339 8TH Ave, San Francisco, CA",37763311,-122465518,0.78,False,,3.0,1800.0,sqft,2996.0,sqft,1912.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109965750>
+187,15102698,"1310 10th Ave, San Francisco, CA",37763697,-122467077,1.83,False,3.0,3.0,1880.0,sqft,2374.0,sqft,1908.0,2015,11,24,<built-in method weekday of Timestamp object at 0x1099656d0>
+188,15102704,"1351 10th Ave, San Francisco, CA",37763010,-122467642,1.67,False,2.0,1.0,1152.0,sqft,2996.0,sqft,1940.0,2015,11,13,<built-in method weekday of Timestamp object at 0x109965650>
+189,15102806,"1300 Funston Ave, San Francisco, CA",37763717,-122470365,1.15,False,,2.0,1050.0,sqft,1438.0,sqft,1941.0,2015,12,11,<built-in method weekday of Timestamp object at 0x1099655d0>
+190,15102829,"1387 14th Ave, San Francisco, CA",37762208,-122471851,1.66,False,4.0,2.0,1926.0,sqft,2495.0,sqft,1931.0,2016,1,4,<built-in method weekday of Timestamp object at 0x109965550>
+191,15103364,"1383 29th Ave, San Francisco, CA",37761563,-122488023,1.18,False,4.0,2.0,1475.0,sqft,2500.0,sqft,1941.0,2015,12,17,<built-in method weekday of Timestamp object at 0x1099654d0>
+192,15103435,"1343 31st Ave, San Francisco, CA",37762152,-122490254,1.25,False,3.0,2.0,1886.0,sqft,3000.0,sqft,1934.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109965450>
+193,15103440,"1363 31st Ave, San Francisco, CA",37761810,-122490230,1.13,False,3.0,2.0,1822.0,sqft,3000.0,sqft,1940.0,2015,11,10,<built-in method weekday of Timestamp object at 0x1099653d0>
+194,15103467,"1300-1302 32ND Ave, San Francisco, CA",37762778,-122490867,1.13,False,,,1680.0,sqft,2375.0,sqft,1944.0,2015,11,11,<built-in method weekday of Timestamp object at 0x109965350>
+195,15103472,"3015-3017 Irving St, San Francisco, CA",37762731,-122490325,1.04,False,,2.0,2300.0,sqft,2495.0,sqft,1948.0,2015,12,2,<built-in method weekday of Timestamp object at 0x1099652d0>
+196,15103550,"1394-1396 34TH Ave, San Francisco, CA",37761142,-122492858,1.24,False,,2.0,2024.0,sqft,1437.0,sqft,1946.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109965250>
+197,15103602,"1394-1396 35TH Ave, San Francisco, CA",37761121,-122493960,1.08,False,,2.0,1700.0,sqft,1738.0,sqft,1944.0,2015,12,8,<built-in method weekday of Timestamp object at 0x1099651d0>
+198,15104164,"1440 La Playa St, San Francisco, CA",37759503,-122508756,1.3,False,3.0,2.0,1313.0,sqft,2996.0,sqft,1900.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109965150>
+199,15104379,"1466 44th Ave, San Francisco, CA",37759294,-122503370,0.892,False,2.0,1.0,1130.0,sqft,3049.0,sqft,1926.0,2015,11,20,<built-in method weekday of Timestamp object at 0x1099650d0>
+200,15104496,"1422 42nd Ave, San Francisco, CA",37760143,-122501274,1.22,False,3.0,1.0,1325.0,sqft,2996.0,sqft,1951.0,2015,11,20,<built-in method weekday of Timestamp object at 0x109965050>
+201,15104676,"1475 37th Ave, San Francisco, CA",37759458,-122496532,1.14,False,2.0,1.5,1713.0,sqft,3049.0,sqft,1937.0,2015,12,7,<built-in method weekday of Timestamp object at 0x10997af50>
+202,15104925,"1459 31st Ave, San Francisco, CA",37760017,-122490103,1.29,False,4.0,2.0,2281.0,sqft,3001.0,sqft,1937.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10997aed0>
+203,15105121,"2338 Kirkham St, San Francisco, CA",37759673,-122486164,0.9,False,2.0,2.5,1305.0,sqft,2613.0,sqft,1946.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10997ae50>
+204,15105664,"1444 17th Ave # 101, San Francisco, CA",37760979,-122474469,1.6,False,3.0,3.0,1902.0,sqft,,,1996.0,2016,2,8,<built-in method weekday of Timestamp object at 0x10997add0>
+205,15106658,"1527 18th Ave, San Francisco, CA",37759314,-122476084,1.48,False,4.0,3.5,2125.0,sqft,2996.0,sqft,1930.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10997ad50>
+206,15106778,"1555 21st Ave, San Francisco, CA",37758688,-122479261,1.1,False,2.0,2.0,1204.0,sqft,3049.0,sqft,1926.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10997acd0>
+207,15107313,"1551 32nd Ave, San Francisco, CA",37758242,-122491054,0.3125,False,2.0,1.0,1300.0,sqft,2996.0,sqft,1937.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10997ac50>
+208,15107396,"1518 34th Ave, San Francisco, CA",37758722,-122492580,1.35,False,3.0,3.0,1375.0,sqft,3049.0,sqft,1935.0,2015,12,9,<built-in method weekday of Timestamp object at 0x10997abd0>
+209,15107419,"1573 34th Ave, San Francisco, CA",37757766,-122493171,1.62,False,3.0,2.0,2400.0,sqft,3300.0,sqft,1933.0,2015,11,19,<built-in method weekday of Timestamp object at 0x10997ab50>
+210,15107430,"1578 35th Ave, San Francisco, CA",37757673,-122493580,0.675,False,,2.0,2301.0,sqft,3267.0,sqft,1932.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10997aad0>
+211,15107765,"1587 43rd Ave, San Francisco, CA",37757107,-122502756,0.994,False,3.0,4.0,2165.0,sqft,2374.0,sqft,1936.0,2015,12,29,<built-in method weekday of Timestamp object at 0x10997aa50>
+212,15107784,"1534 44th Ave, San Francisco, CA",37757978,-122503277,1.28,False,3.0,3.0,1325.0,sqft,3000.0,sqft,1936.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10997a9d0>
+213,15107837,"1526 45th Ave, San Francisco, CA",37758060,-122504358,0.925,False,2.0,2.0,1350.0,sqft,3000.0,sqft,1916.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10997a950>
+214,15108109,"4116-4118 Moraga St, San Francisco, CA",37755014,-122507015,0.655,False,4.0,,1460.0,sqft,3049.0,sqft,1910.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10997a8d0>
+215,15108159,"4036 Moraga St, San Francisco, CA",37755048,-122506217,0.75,False,2.0,1.0,850.0,sqft,2495.0,sqft,1941.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10997a850>
+216,15108650,"1618 38th Ave, San Francisco, CA",37756672,-122496738,1.2,False,3.0,1.0,1775.0,sqft,3001.0,sqft,1941.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10997a7d0>
+217,15108727,"1667 34th Ave, San Francisco, CA",37756010,-122493047,1.05,False,2.0,1.0,1350.0,sqft,3049.0,sqft,1940.0,2015,12,24,<built-in method weekday of Timestamp object at 0x10997a750>
+218,15108819,"2601 Lawton St, San Francisco, CA",37757201,-122490916,1.25,False,3.0,1.0,1450.0,sqft,2178.0,sqft,1942.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10997a6d0>
+219,15108913,"1626 32nd Ave, San Francisco, CA",37756819,-122490297,1.43,False,4.0,3.0,2100.0,sqft,3001.0,sqft,1935.0,2016,1,4,<built-in method weekday of Timestamp object at 0x10997a650>
+220,15109011,"1630 30th Ave, San Francisco, CA",37756845,-122488146,1.01,False,,1.0,1300.0,sqft,2996.0,sqft,1945.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10997a5d0>
+221,15109410,"1622 21st Ave, San Francisco, CA",37757408,-122478512,0.851,False,2.0,1.0,1275.0,sqft,3049.0,sqft,1936.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10997a550>
+222,15110595,"1727 34th Ave, San Francisco, CA",37754831,-122492968,1.33,False,3.0,2.0,1845.0,sqft,3001.0,sqft,1940.0,2015,11,23,<built-in method weekday of Timestamp object at 0x10997a4d0>
+223,15110823,"1727 29th Ave, San Francisco, CA",37755068,-122487595,1.88,False,4.0,3.5,2580.0,sqft,3001.0,sqft,1939.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10997a450>
+224,15111172,"1750 23rd Ave, San Francisco, CA",37754969,-122480493,1.16,False,3.0,3.0,2028.0,sqft,3000.0,sqft,1949.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10997a3d0>
+225,15111486,"1700 14th Ave, San Francisco, CA",37756259,-122470752,0.76,False,3.0,3.0,1756.0,sqft,2078.0,sqft,1978.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10997a350>
+226,15111533,"1732-1734 Funston Ave, San Francisco, CA",37755857,-122469707,1.65,False,,2.0,2524.0,sqft,2996.0,sqft,1954.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10997a2d0>
+227,15111559,"1755 11th Ave, San Francisco, CA",37755442,-122468189,1.0,False,2.0,1.5,1250.0,sqft,3000.0,sqft,1924.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10997a250>
+228,15111575,"1706 12th Ave, San Francisco, CA",37756240,-122468725,1.5,False,4.0,2.0,1861.0,sqft,2021.0,sqft,1938.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10997a1d0>
+229,15111695,"124 Noriega St, San Francisco, CA",37754991,-122465119,1.26,False,3.0,2.0,1484.0,sqft,2500.0,sqft,1941.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10997a150>
+230,15111963,"870 Pacheco St, San Francisco, CA",37754014,-122469527,1.58,False,3.0,4.0,1983.0,sqft,3798.0,sqft,1940.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10997a0d0>
+231,15112556,"1819 26th Ave, San Francisco, CA",37753480,-122484273,1.0,False,2.0,1.0,1175.0,sqft,2996.0,sqft,1939.0,2016,1,14,<built-in method weekday of Timestamp object at 0x10997a050>
+232,15112775,"1863 30th Ave, San Francisco, CA",37752537,-122488501,0.076,False,2.0,1.0,1319.0,sqft,2996.0,sqft,1939.0,2015,12,8,<built-in method weekday of Timestamp object at 0x109978f50>
+233,15112892,"1863 32nd Ave, San Francisco, CA",37752439,-122490647,1.1,False,2.0,2.0,1150.0,sqft,3049.0,sqft,1941.0,2015,12,2,<built-in method weekday of Timestamp object at 0x109978ed0>
+234,15113076,"2845 Noriega St, San Francisco, CA",37753250,-122494457,1.23,False,3.0,2.5,2180.0,sqft,2931.0,sqft,1947.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109978e50>
+235,15113584,"1858 47th Ave, San Francisco, CA",37751825,-122506072,0.895,False,3.0,2.0,1135.0,sqft,3000.0,sqft,1958.0,2015,12,21,<built-in method weekday of Timestamp object at 0x109978dd0>
+236,15114102,"1922 42nd Ave, San Francisco, CA",37750815,-122500625,2.88,False,2.0,1.0,1076.0,sqft,3000.0,sqft,1952.0,2015,12,10,<built-in method weekday of Timestamp object at 0x109978d50>
+237,15114562,"1937 23rd Ave, San Francisco, CA",37751431,-122480904,1.4,False,3.0,3.0,1900.0,sqft,3001.0,sqft,1941.0,2015,12,23,<built-in method weekday of Timestamp object at 0x109978cd0>
+238,15114643,"1962 23rd Ave, San Francisco, CA",37751021,-122480217,0.8,False,,1.0,1500.0,sqft,2996.0,sqft,1940.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109978c50>
+239,15115459,"2076 14th Ave, San Francisco, CA",37749428,-122470497,1.28,False,2.0,1.0,1374.0,sqft,3484.0,sqft,1941.0,2015,12,17,<built-in method weekday of Timestamp object at 0x109978bd0>
+240,15116499,"2047 44th Ave, San Francisco, CA",37748414,-122503266,1.0,False,2.0,1.0,1214.0,sqft,2996.0,sqft,1946.0,2015,11,30,<built-in method weekday of Timestamp object at 0x109978b50>
+241,15116598,"2007 46th Ave, San Francisco, CA",37749009,-122505371,0.905,False,3.0,2.0,1300.0,sqft,1742.0,sqft,1940.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109978ad0>
+242,15117639,"2195 28th Ave, San Francisco, CA",37746487,-122485890,1.35,False,4.0,3.0,2260.0,sqft,2375.0,sqft,1939.0,2015,12,23,<built-in method weekday of Timestamp object at 0x109978a50>
+243,15117892,"2178 22nd Ave, San Francisco, CA",37747074,-122478867,1.44,False,3.0,3.0,1518.0,sqft,2996.0,sqft,1928.0,2015,12,18,<built-in method weekday of Timestamp object at 0x1099789d0>
+244,15118458,"2279 47th Ave, San Francisco, CA",37743999,-122506182,1.03,False,4.0,3.0,2570.0,sqft,2996.0,sqft,1900.0,2015,11,20,<built-in method weekday of Timestamp object at 0x109978950>
+245,15118633,"2287 43rd Ave, San Francisco, CA",37744054,-122501820,0.968,False,3.0,2.0,1331.0,sqft,2060.0,sqft,1941.0,2015,12,23,<built-in method weekday of Timestamp object at 0x1099788d0>
+246,15118743,"2294 42nd Ave, San Francisco, CA",37743988,-122500211,1.06,False,3.0,2.0,1650.0,sqft,2060.0,sqft,1946.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109978850>
+247,15119410,"2223 27th Ave, San Francisco, CA",37745903,-122484820,1.6,False,3.0,2.0,2378.0,sqft,3001.0,sqft,1940.0,2015,12,1,<built-in method weekday of Timestamp object at 0x1099787d0>
+248,15119582,"2283 24th Ave, San Francisco, CA",37745018,-122481490,1.62,False,5.0,4.0,2415.0,sqft,2374.0,sqft,1931.0,2015,12,24,<built-in method weekday of Timestamp object at 0x109978750>
+249,15120387,"2339 20th Ave, San Francisco, CA",37744092,-122477170,1.1,False,3.0,2.0,1425.0,sqft,3000.0,sqft,1924.0,2015,12,9,<built-in method weekday of Timestamp object at 0x1099786d0>
+250,15120436,"2375-2377 21ST Ave, San Francisco, CA",37743429,-122478198,1.41,True,,,3250.0,sqft,3049.0,sqft,1939.0,2015,11,16,<built-in method weekday of Timestamp object at 0x109978650>
+251,15120641,"2340 29th Ave, San Francisco, CA",37743660,-122486153,1.19,False,4.0,2.0,1805.0,sqft,3484.0,sqft,1927.0,2015,11,13,<built-in method weekday of Timestamp object at 0x1099785d0>
+252,15120712,"2343 30th Ave, San Francisco, CA",37743553,-122487877,0.9815,False,2.0,1.0,1340.0,sqft,3049.0,sqft,1938.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109978550>
+253,15121139,"2339 41st Ave, San Francisco, CA",37743033,-122499663,1.2,False,,3.0,2250.0,sqft,2996.0,sqft,1967.0,2015,12,16,<built-in method weekday of Timestamp object at 0x1099784d0>
+254,15121430,"2394-2396 48TH Ave, San Francisco, CA",37741834,-122506557,1.1,False,,2.0,2300.0,sqft,1438.0,sqft,1949.0,2015,12,31,<built-in method weekday of Timestamp object at 0x109978450>
+255,15121661,"2471 43rd Ave, San Francisco, CA",37740591,-122501641,0.905,False,2.0,1.0,1275.0,sqft,3000.0,sqft,1940.0,2015,11,30,<built-in method weekday of Timestamp object at 0x1099783d0>
+256,15122750,"2466 18th Ave, San Francisco, CA",37741870,-122474209,1.02,False,2.0,1.0,1150.0,sqft,2996.0,sqft,1923.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109978350>
+257,15123111,"2563 16th Ave, San Francisco, CA",37740144,-122472598,1.5,False,3.0,2.0,1625.0,sqft,3049.0,sqft,1927.0,2015,12,30,<built-in method weekday of Timestamp object at 0x1099782d0>
+258,15123561,"2555 28th Ave, San Francisco, CA",37739715,-122485461,1.01,False,4.0,2.0,1360.0,sqft,3049.0,sqft,1910.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109978250>
+259,15123597,"2745 Ulloa St, San Francisco, CA",37740517,-122485872,1.18,False,4.0,2.5,1303.0,sqft,2195.0,sqft,1974.0,2015,11,30,<built-in method weekday of Timestamp object at 0x1099781d0>
+260,15123671,"2579 30th Ave, San Francisco, CA",37739209,-122487574,0.65,False,,2.0,1475.0,sqft,3000.0,sqft,1955.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109978150>
+261,15124103,"2514 40th Ave, San Francisco, CA",37739858,-122497704,1.02,False,3.0,2.0,1490.0,sqft,3049.0,sqft,1945.0,2015,11,20,<built-in method weekday of Timestamp object at 0x1099780d0>
+262,15124281,"2559 44th Ave, San Francisco, CA",37738891,-122502597,0.625,False,2.0,1.0,1214.0,sqft,3000.0,sqft,1945.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109978050>
+263,15124521,"27 Cutler Ave, San Francisco, CA",37736824,-122505856,1.32,False,4.0,3.0,1622.0,sqft,2495.0,sqft,1949.0,2016,1,28,<built-in method weekday of Timestamp object at 0x109977f50>
+264,15124522,"2646-2648 Great Hwy, San Francisco, CA",37737392,-122506065,1.67,False,4.0,2.0,2550.0,sqft,2674.0,sqft,1948.0,2015,12,4,<built-in method weekday of Timestamp object at 0x109977ed0>
+265,15124563,"2670 47th Ave, San Francisco, CA",37736702,-122505008,1.07,False,4.0,3.0,1546.0,sqft,3049.0,sqft,1944.0,2016,1,15,<built-in method weekday of Timestamp object at 0x109977e50>
+266,15124603,"2627 45th Ave, San Francisco, CA",37737526,-122503577,1.16,False,3.0,2.0,1400.0,sqft,2996.0,sqft,1937.0,2016,1,5,<built-in method weekday of Timestamp object at 0x109977dd0>
+267,15124706,"2647 43rd Ave, San Francisco, CA",37737279,-122501408,1.05,False,3.0,2.0,1232.0,sqft,2996.0,sqft,1948.0,2015,12,7,<built-in method weekday of Timestamp object at 0x109977d50>
+268,15125268,"2623 22nd Ave, San Francisco, CA",37738682,-122478940,1.19,False,2.0,1.0,1000.0,sqft,,,1938.0,2015,11,10,<built-in method weekday of Timestamp object at 0x109977cd0>
+269,15125578,"2651 15th Ave, San Francisco, CA",37738534,-122471369,1.5,False,2.0,2.0,2057.0,sqft,3188.0,sqft,1948.0,2015,12,3,<built-in method weekday of Timestamp object at 0x109977c50>
+270,15125727,"496 Crestlake Dr, San Francisco, CA",37735772,-122489950,1.6,False,4.0,4.0,3085.0,sqft,7426.0,sqft,1931.0,2015,12,30,<built-in method weekday of Timestamp object at 0x109977bd0>
+271,15125969,"2771 38th Ave, San Francisco, CA",37735233,-122495898,1.18,False,3.0,2.0,1655.0,sqft,3001.0,sqft,1948.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109977b50>
+272,15125990,"2754 39th Ave, San Francisco, CA",37735490,-122496329,0.985,False,3.0,2.0,1350.0,sqft,3000.0,sqft,1948.0,2015,12,9,<built-in method weekday of Timestamp object at 0x109977ad0>
+273,15126467,"130 Vale Ave, San Francisco, CA",37734905,-122483854,1.11,False,3.0,1.5,1272.0,sqft,4199.0,sqft,1939.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109977a50>
+274,15126767,"355 Buena Vista Ave E UNIT 506, San Francisco, CA",37767292,-122439918,0.915,False,1.0,1.0,815.0,sqft,,,1986.0,2015,11,13,<built-in method weekday of Timestamp object at 0x1099779d0>
+275,15127090,"262 Castro St, San Francisco, CA",37764602,-122435716,1.7,False,2.0,2.0,848.0,sqft,3358.0,sqft,1906.0,2015,11,20,<built-in method weekday of Timestamp object at 0x109977950>
+276,15127170,"1554 Masonic Ave, San Francisco, CA",37765936,-122443759,1.86,False,3.0,2.0,1540.0,sqft,3123.0,sqft,1910.0,2015,12,11,<built-in method weekday of Timestamp object at 0x1099778d0>
+277,15127261,"38 Levant St, San Francisco, CA",37764521,-122442597,1.59,False,2.0,1.5,1090.0,sqft,3123.0,sqft,1938.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109977850>
+278,15127373,"4 Ord Ct, San Francisco, CA",37763598,-122439848,1.52,False,2.0,2.0,1170.0,sqft,1232.0,sqft,1900.0,2015,12,18,<built-in method weekday of Timestamp object at 0x1099777d0>
+279,15127442,"300 Castro St, San Francisco, CA",37763918,-122435614,2.4,False,4.0,3.0,2451.0,sqft,4691.0,sqft,1900.0,2016,1,22,<built-in method weekday of Timestamp object at 0x109977750>
+280,15128468,"3092 Market St, San Francisco, CA",37761083,-122443454,1.88,False,3.0,3.0,2115.0,sqft,1742.0,sqft,2003.0,2015,12,10,<built-in method weekday of Timestamp object at 0x1099776d0>
+281,15128696,"49 Christopher Dr, San Francisco, CA",37756492,-122456012,1.24,False,3.0,2.0,1402.0,sqft,3088.0,sqft,1961.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109977650>
+282,15128931,"39 Warren Dr, San Francisco, CA",37754501,-122456405,0.0165,False,3.0,3.0,1265.0,sqft,3301.0,sqft,1959.0,2015,11,12,<built-in method weekday of Timestamp object at 0x1099775d0>
+283,15129033,"547 Oak Park Dr, San Francisco, CA",37756130,-122460657,1.67,False,2.0,2.0,1245.0,sqft,3624.0,sqft,1962.0,2015,12,30,<built-in method weekday of Timestamp object at 0x109977550>
+284,15129224,"152 Eureka St, San Francisco, CA",37759797,-122438496,2.4,False,4.0,2.0,2280.0,sqft,3049.0,sqft,1932.0,2015,11,20,<built-in method weekday of Timestamp object at 0x1099774d0>
+285,15129565,"83 Seward St, San Francisco, CA",37758694,-122440807,2.1,False,3.0,2.0,2650.0,sqft,2613.0,sqft,1929.0,2015,12,23,<built-in method weekday of Timestamp object at 0x109977450>
+286,15129685,"53 Clarendon Ave, San Francisco, CA",37758639,-122449963,3.14,False,4.0,3.0,3016.0,sqft,4656.0,sqft,1920.0,2016,1,24,<built-in method weekday of Timestamp object at 0x1099773d0>
+287,15129888,"3358-3360 Market St, San Francisco, CA",37757699,-122443641,1.95,False,,3.0,3025.0,sqft,5488.0,sqft,1906.0,2015,11,12,<built-in method weekday of Timestamp object at 0x109977350>
+288,15130317,"350 Eureka St, San Francisco, CA",37756462,-122438189,2.4,False,4.0,2.0,1720.0,sqft,3250.0,sqft,1910.0,2015,12,22,<built-in method weekday of Timestamp object at 0x1099772d0>
+289,15130377,"4142 21st St, San Francisco, CA",37756134,-122437506,1.05,False,3.0,3.0,2682.0,sqft,2438.0,sqft,1908.0,2015,12,16,<built-in method weekday of Timestamp object at 0x109977250>
+290,15130492,"4354 21st St, San Francisco, CA",37755507,-122439791,0.6475,False,3.0,2.0,1553.0,sqft,2478.0,sqft,1925.0,2015,12,16,<built-in method weekday of Timestamp object at 0x1099771d0>
+291,15130589,"264 Grand View Ave, San Francisco, CA",37754001,-122441489,1.19,False,1.0,1.0,590.0,sqft,2613.0,sqft,1907.0,2016,1,21,<built-in method weekday of Timestamp object at 0x109977150>
+292,15130980,"4217 22nd St, San Francisco, CA",37754011,-122439170,1.8,False,2.0,2.0,1913.0,sqft,1742.0,sqft,1908.0,2015,12,1,<built-in method weekday of Timestamp object at 0x1099770d0>
+293,15131186,"616 Panorama Dr, San Francisco, CA",37754174,-122451479,1.3,False,4.0,2.0,1931.0,sqft,3998.0,sqft,1957.0,2015,12,9,<built-in method weekday of Timestamp object at 0x109977050>
+294,15131253,"333 Dellbrook Ave, San Francisco, CA",37752037,-122452846,1.15,False,2.0,1.0,1054.0,sqft,4412.0,sqft,1957.0,2015,11,19,<built-in method weekday of Timestamp object at 0x10994af50>
+295,15131271,"681 Panorama Dr, San Francisco, CA",37753465,-122452131,1.2,False,3.0,2.0,1237.0,sqft,3049.0,sqft,1957.0,2015,11,23,<built-in method weekday of Timestamp object at 0x10994aed0>
+296,15131525,"688-690 Douglass St, San Francisco, CA",37752805,-122438922,3.15,False,5.0,4.0,3500.0,sqft,2495.0,sqft,1908.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10994ae50>
+297,15131740,"4365 23rd St, San Francisco, CA",37752297,-122440046,2.1,False,3.0,2.0,1567.0,sqft,2835.0,sqft,1939.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10994add0>
+298,15131782,"401 Grand View Ave APT 3, San Francisco, CA",37752157,-122442356,1.03,False,2.0,2.0,937.0,sqft,,,1983.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10994ad50>
+299,15131869,"1950 8th Ave, San Francisco, CA",37751815,-122463924,2.77,False,4.0,4.0,3673.0,sqft,7775.0,sqft,1925.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10994acd0>
+300,15131992,"6 Longview Ct, San Francisco, CA",37748307,-122449855,0.955,False,2.0,1.0,939.0,sqft,2613.0,sqft,1958.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10994ac50>
+301,15132481,"48 Dellbrook Ave, San Francisco, CA",37749920,-122454366,0.85,False,2.0,1.0,1056.0,sqft,4939.0,sqft,1956.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10994abd0>
+302,15132690,"256 Glenview Dr, San Francisco, CA",37748056,-122445877,1.19,False,3.0,2.0,1213.0,sqft,3249.0,sqft,1958.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10994ab50>
+303,15132921,"2270 9th Ave, San Francisco, CA",37747082,-122466367,2.15,False,4.0,3.5,3548.0,sqft,5699.0,sqft,1935.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10994aad0>
+304,15133056,"159 Glenview Dr, San Francisco, CA",37748824,-122447752,0.76,False,2.0,1.0,833.0,sqft,3001.0,sqft,1951.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10994aa50>
+305,15133303,"584 Dewey Blvd, San Francisco, CA",37744232,-122463546,0.184,False,3.0,2.25,2282.0,sqft,3833.0,sqft,1923.0,2015,12,24,<built-in method weekday of Timestamp object at 0x10994a9d0>
+306,15133321,"365 Magellan Ave, San Francisco, CA",37744952,-122463110,2.35,False,5.0,3.5,3094.0,sqft,3920.0,sqft,1926.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10994a950>
+307,15133509,"120 Oshaughnessy Blvd, San Francisco, CA",37743896,-122450674,0.99,False,3.0,1.0,1300.0,sqft,2639.0,sqft,1952.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10994a8d0>
+308,15133540,"15 Teresita Blvd APT 14, San Francisco, CA",37745036,-122451740,0.691,False,2.0,2.0,886.0,sqft,,,1990.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10994a850>
+309,15133658,"120 Ulloa St, San Francisco, CA",37744348,-122455305,1.7,False,2.0,2.5,2063.0,sqft,3101.0,sqft,1937.0,2016,2,12,<built-in method weekday of Timestamp object at 0x10994a7d0>
+310,15133668,"815 Laguna Honda Blvd, San Francisco, CA",37743955,-122456084,1.25,False,2.0,1.5,1791.0,sqft,3345.0,sqft,1935.0,2015,12,9,<built-in method weekday of Timestamp object at 0x10994a750>
+311,15133807,"644 Laguna Honda Blvd, San Francisco, CA",37745140,-122457306,1.57,False,,2.5,1945.0,sqft,3685.0,sqft,1927.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10994a6d0>
+312,15134099,"521 Magellan Ave, San Francisco, CA",37744034,-122466614,1.51,False,2.0,1.0,1216.0,sqft,3920.0,sqft,1920.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10994a650>
+313,15134204,"80 Edgehill Way, San Francisco, CA",37742482,-122460233,2.38,False,4.0,4.0,3495.0,sqft,5314.0,sqft,1960.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10994a5d0>
+314,15134371,"331 Teresita Blvd, San Francisco, CA",37741738,-122449895,2.23,False,2.0,1.0,1645.0,sqft,3750.0,sqft,1931.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10994a550>
+315,15134464,"634 Rockdale Dr, San Francisco, CA",37740939,-122450120,1.01,False,,1.0,1150.0,sqft,3310.0,sqft,1930.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10994a4d0>
+316,15134585,"132 Marietta Dr, San Francisco, CA",37740617,-122448119,0.92,False,2.0,1.0,750.0,sqft,2613.0,sqft,1943.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10994a450>
+317,15134804,"571 Myra Way, San Francisco, CA",37738625,-122450835,1.12,False,3.0,1.5,1460.0,sqft,2169.0,sqft,1949.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10994a3d0>
+318,15134909,"450 Teresita Blvd, San Francisco, CA",37739963,-122448495,1.09,False,2.0,1.0,1464.0,sqft,3920.0,sqft,1939.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10994a350>
+319,15134945,"27 Gaviota Way, San Francisco, CA",37739232,-122447580,1.75,False,3.0,3.0,2155.0,sqft,2526.0,sqft,1942.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10994a2d0>
+320,15135197,"280 Dalewood Way, San Francisco, CA",37738566,-122458678,1.27,False,3.0,2.5,1941.0,sqft,3297.0,sqft,1966.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10994a250>
+321,15135298,"251 Kensington Way, San Francisco, CA",37742605,-122461714,1.6,False,3.0,1.25,2000.0,sqft,3070.0,sqft,1936.0,2016,1,6,<built-in method weekday of Timestamp object at 0x10994a1d0>
+322,15135411,"52 Marne Ave, San Francisco, CA",37739544,-122459379,1.3,False,4.0,2.5,1648.0,sqft,3484.0,sqft,1926.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10994a150>
+323,15135625,"15 Santa Clara Ave, San Francisco, CA",37739074,-122465767,2.0,False,5.0,2.0,2515.0,sqft,2922.0,sqft,1921.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10994a0d0>
+324,15136211,"656 Teresita Blvd, San Francisco, CA",37736383,-122446101,1.23,False,3.0,2.0,1218.0,sqft,2191.0,sqft,1940.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10994a050>
+325,15136326,"495 Los Palmos Dr, San Francisco, CA",37734290,-122452633,1.1,False,3.0,1.0,1300.0,sqft,2774.0,sqft,1947.0,2015,12,10,<built-in method weekday of Timestamp object at 0x109967f50>
+326,15136476,"646 Los Palmos Dr, San Francisco, CA",37735214,-122456586,1.36,False,5.0,3.0,2956.0,sqft,3027.0,sqft,1979.0,2015,12,23,<built-in method weekday of Timestamp object at 0x109967ed0>
+327,15136743,"16 Miraloma Dr, San Francisco, CA",37739831,-122460533,2.7,False,6.0,4.0,4883.0,sqft,10454.0,sqft,1928.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109967e50>
+328,15137033,"71 Los Palmos Dr, San Francisco, CA",37734774,-122447415,1.08,False,3.0,1.5,1278.0,sqft,2178.0,sqft,1955.0,2015,12,16,<built-in method weekday of Timestamp object at 0x109967dd0>
+329,15137133,"82 Malta Dr, San Francisco, CA",37736196,-122444114,1.7,False,,1.0,1881.0,sqft,,,1976.0,2015,12,30,<built-in method weekday of Timestamp object at 0x109967d50>
+330,15137303,"22 Fernwood Dr, San Francisco, CA",37734117,-122461758,1.75,False,4.0,2.5,2090.0,sqft,4103.0,sqft,1931.0,2015,11,30,<built-in method weekday of Timestamp object at 0x109967cd0>
+331,15137378,"287 Brentwood Ave, San Francisco, CA",37732494,-122460211,2.72,False,4.0,4.5,4544.0,sqft,6098.0,sqft,1927.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109967c50>
+332,15137489,"1100 Monterey Blvd, San Francisco, CA",37730397,-122460959,2.51,False,4.0,3.5,2562.0,sqft,4700.0,sqft,1930.0,2015,12,17,<built-in method weekday of Timestamp object at 0x109967bd0>
+333,15137743,"814 Detroit St, San Francisco, CA",37734098,-122444051,1.31,False,3.0,2.0,1510.0,sqft,2613.0,sqft,1941.0,2015,12,2,<built-in method weekday of Timestamp object at 0x109967b50>
+334,15137757,"147 Stillings Ave, San Francisco, CA",37734342,-122443147,1.3,False,3.0,2.0,1700.0,sqft,2500.0,sqft,1942.0,2015,11,18,<built-in method weekday of Timestamp object at 0x109967ad0>
+335,15137860,"430 Mangels Ave, San Francisco, CA",37733308,-122447346,1.1,False,2.0,1.0,1200.0,sqft,2500.0,sqft,1931.0,2015,12,29,<built-in method weekday of Timestamp object at 0x109967a50>
+336,15137936,"618 Mangels Ave, San Francisco, CA",37733290,-122451660,1.42,False,3.0,3.0,1600.0,sqft,3746.0,sqft,1912.0,2015,11,18,<built-in method weekday of Timestamp object at 0x1099679d0>
+337,15138245,"154 Yerba Buena Ave, San Francisco, CA",37736032,-122462007,2.05,False,2.0,1.5,1700.0,sqft,3963.0,sqft,1922.0,2015,11,10,<built-in method weekday of Timestamp object at 0x109967950>
+338,15138251,"1635 Plymouth Ave, San Francisco, CA",37731667,-122457878,1.8,False,4.0,3.0,2754.0,sqft,5301.0,sqft,1925.0,2015,11,17,<built-in method weekday of Timestamp object at 0x1099678d0>
+339,15138329,"842 Monterey Blvd, San Francisco, CA",37731787,-122454448,0.935,False,4.0,1.5,1368.0,sqft,5998.0,sqft,1925.0,2015,12,7,<built-in method weekday of Timestamp object at 0x109967850>
+340,15138442,"587 Mangels Ave, San Francisco, CA",37732860,-122450922,1.01,False,3.0,2.0,1190.0,sqft,1742.0,sqft,1936.0,2016,2,2,<built-in method weekday of Timestamp object at 0x1099677d0>
+341,15138591,"231 Mangels Ave, San Francisco, CA",37732878,-122442869,1.4,False,3.0,2.0,1354.0,sqft,2613.0,sqft,1957.0,2015,11,10,<built-in method weekday of Timestamp object at 0x109967750>
+342,15139010,"2 Northwood Dr, San Francisco, CA",37729820,-122456873,1.8,False,3.0,2.0,1960.0,sqft,5662.0,sqft,1924.0,2015,12,23,<built-in method weekday of Timestamp object at 0x1099676d0>
+343,15139435,"322 Flood Ave, San Francisco, CA",37730137,-122447150,0.85,False,2.0,1.5,827.0,sqft,2613.0,sqft,1924.0,2015,12,24,<built-in method weekday of Timestamp object at 0x109967650>
+344,15139677,"107 Foerster St, San Francisco, CA",37729273,-122449109,0.3965,False,4.0,2.0,1453.0,sqft,2250.0,sqft,1922.0,2015,12,8,<built-in method weekday of Timestamp object at 0x1099675d0>
+345,15139810,"221 Flood Ave, San Francisco, CA",37729648,-122444867,1.41,False,9.0,6.0,5000.0,sqft,2809.0,sqft,1900.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109967550>
+346,15139841,"179 Flood Ave, San Francisco, CA",37729648,-122443800,1.54,False,4.0,4.0,1900.0,sqft,2809.0,sqft,1924.0,2015,12,29,<built-in method weekday of Timestamp object at 0x1099674d0>
+347,15140158,"390 Capistrano Ave, San Francisco, CA",37725816,-122438926,1.25,False,4.0,4.0,2314.0,sqft,3049.0,sqft,1924.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109967450>
+348,15140244,"1874 San Jose Ave, San Francisco, CA",37727313,-122441507,0.975,False,3.0,2.0,1771.0,sqft,2178.0,sqft,1937.0,2015,11,20,<built-in method weekday of Timestamp object at 0x1099673d0>
+349,15140288,"28 Raleigh Ave, San Francisco, CA",37727461,-122442447,0.9,False,2.0,1.0,1000.0,sqft,2613.0,sqft,1926.0,2015,11,30,<built-in method weekday of Timestamp object at 0x109967350>
+350,15140632,"154 Westwood Dr, San Francisco, CA",37728721,-122458881,1.11,False,3.0,2.0,1200.0,sqft,4499.0,sqft,1925.0,2015,12,11,<built-in method weekday of Timestamp object at 0x1099672d0>
+351,15140802,"528 Miramar Ave, San Francisco, CA",37726323,-122457891,0.918,False,2.0,1.0,1328.0,sqft,3798.0,sqft,1919.0,2015,12,17,<built-in method weekday of Timestamp object at 0x109967250>
+352,15140890,"54 Marston Ave, San Francisco, CA",37727716,-122445802,1.65,False,5.0,5.0,2500.0,sqft,2813.0,sqft,1927.0,2016,1,3,<built-in method weekday of Timestamp object at 0x1099671d0>
+353,15141355,"367 Delano Ave, San Francisco, CA",37723475,-122442739,1.15,False,3.0,2.0,1696.0,sqft,2339.0,sqft,1926.0,2015,11,24,<built-in method weekday of Timestamp object at 0x109967150>
+354,15141477,"135 Darien Way, San Francisco, CA",37731990,-122469888,1.6,False,5.0,4.0,2956.0,sqft,3484.0,sqft,1927.0,2016,1,14,<built-in method weekday of Timestamp object at 0x1099670d0>
+355,15141495,"280 San Leandro Way, San Francisco, CA",37732070,-122469002,1.23,False,,1.0,1524.0,sqft,3998.0,sqft,1923.0,2015,11,13,<built-in method weekday of Timestamp object at 0x109967050>
+356,15141526,"220 San Benito Way, San Francisco, CA",37732698,-122467210,1.59,False,4.0,2.5,1941.0,sqft,3846.0,sqft,1922.0,2015,11,23,<built-in method weekday of Timestamp object at 0x10996cf50>
+357,15141568,"306 Santa Ana Ave, San Francisco, CA",37731590,-122468143,1.95,False,4.0,3.0,2663.0,sqft,4499.0,sqft,1925.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10996ced0>
+358,15141807,"61 Pinehurst Way, San Francisco, CA",37727776,-122465400,1.45,False,5.0,3.0,2730.0,sqft,3097.0,sqft,1928.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10996ce50>
+359,15142024,"59 Manor Dr, San Francisco, CA",37727581,-122464761,1.25,False,3.0,1.5,1575.0,sqft,3009.0,sqft,1930.0,2016,1,12,<built-in method weekday of Timestamp object at 0x10996cdd0>
+360,15142776,"35-37 Sanchez St, San Francisco, CA",37768628,-122430930,1.3,False,2.0,3.0,2580.0,sqft,3125.0,sqft,1900.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10996cd50>
+361,15142782,"30 Belcher St, San Francisco, CA",37768790,-122430511,2.9,False,3.0,2.0,1410.0,sqft,,,1900.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10996ccd0>
+362,15142858,"46 Sanchez St, San Francisco, CA",37768490,-122431645,1.7,False,3.0,2.0,1515.0,sqft,,,1906.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10996cc50>
+363,15143034,"66-70 Landers St, San Francisco, CA",37766736,-122428085,1.65,True,,,3775.0,sqft,3123.0,sqft,1905.0,2015,12,28,<built-in method weekday of Timestamp object at 0x10996cbd0>
+364,15143292,"1839 15th St APT 356, San Francisco, CA",37765474,-122424915,0.853,False,1.0,1.0,897.0,sqft,,,1983.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10996cb50>
+365,15143562,"348 Church St APT 104, San Francisco, CA",37765370,-122429115,1.32,False,2.0,2.0,1197.0,sqft,,,1995.0,2015,12,24,<built-in method weekday of Timestamp object at 0x10996cad0>
+366,15143661,"2253-2255 15TH St, San Francisco, CA",37765546,-122434375,2.3,False,,2.0,2088.0,sqft,4312.0,sqft,1905.0,2015,11,19,<built-in method weekday of Timestamp object at 0x10996ca50>
+367,15143800,"30 Abbey St, San Francisco, CA",37763451,-122427635,1.18,False,3.0,2.0,1115.0,sqft,,,1900.0,2015,12,8,<built-in method weekday of Timestamp object at 0x10996c9d0>
+368,15143887,"3065-3069 16TH St, San Francisco, CA",37764699,-122420993,2.1,False,,4.0,5325.0,sqft,2896.0,sqft,1909.0,2015,12,31,<built-in method weekday of Timestamp object at 0x10996c950>
+369,15143913,"550 S Van Ness Ave APT 102, San Francisco, CA",37764353,-122417854,0.397,False,1.0,1.0,718.0,sqft,,,1992.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10996c8d0>
+370,15143976,"648-652 S Van Ness Ave, San Francisco, CA",37762704,-122417605,1.49,False,2.0,1.0,4275.0,sqft,3062.0,sqft,1911.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10996c850>
+371,15144087,"29 Dorland St, San Francisco, CA",37762093,-122424584,4.8,False,4.0,3.5,3455.0,sqft,2613.0,sqft,1907.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10996c7d0>
+372,15144135,"3657-3661 17TH St, San Francisco, CA",37762719,-122427562,1.38,False,,4.0,5720.0,sqft,2495.0,sqft,1907.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10996c750>
+373,15144348,"4024-4026 18TH St, San Francisco, CA",37761209,-122433429,1.6,False,2.0,,2148.0,sqft,2500.0,sqft,1900.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10996c6d0>
+374,15144522,"155 Hancock St APT 1, San Francisco, CA",37760034,-122431770,0.957,False,1.0,1.0,712.0,sqft,,,1979.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10996c650>
+375,15144527,"155 Hancock St APT 6, San Francisco, CA",37760035,-122431771,0.957,False,1.0,1.0,712.0,sqft,,,1979.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10996c5d0>
+376,15144738,"3452-3456 19TH St, San Francisco, CA",37760364,-122420463,0.0951,False,,3.0,3081.0,sqft,2125.0,sqft,1907.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10996c550>
+377,15145020,"3928 20th St, San Francisco, CA",37758289,-122428794,4.8,False,4.0,4.0,3500.0,sqft,2848.0,sqft,1913.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10996c4d0>
+378,15145308,"4121-4123 20TH St, San Francisco, CA",37757539,-122433070,2.07,False,4.0,2.0,2100.0,sqft,2848.0,sqft,1900.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10996c450>
+379,15145355,"429 Liberty St, San Francisco, CA",37756871,-122430875,2.65,False,2.0,2.0,1990.0,sqft,3049.0,sqft,1907.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10996c3d0>
+380,15145720,"956 S Van Ness Ave, San Francisco, CA",37757832,-122417139,2.67,False,4.0,4.0,3500.0,sqft,4165.0,sqft,1872.0,2015,11,23,<built-in method weekday of Timestamp object at 0x10996c350>
+381,15145732,"507 Capp St, San Francisco, CA",37758302,-122417615,4.1,False,4.0,2.5,2262.0,sqft,4800.0,sqft,1900.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10996c2d0>
+382,15146014,"62-64 Fair Oaks St, San Francisco, CA",37755706,-122424652,1.02,False,,2.0,1816.0,sqft,2583.0,sqft,1900.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10996c250>
+383,15146149,"849 Sanchez St, San Francisco, CA",37755720,-122429819,4.1,False,3.0,3.5,2935.0,sqft,2212.0,sqft,1938.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10996c1d0>
+384,15146224,"419 Hill St, San Francisco, CA",37755283,-122430545,2.5,False,3.0,2.0,2000.0,sqft,2848.0,sqft,1908.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10996c150>
+385,15146597,"3615 22nd St, San Francisco, CA",37754704,-122428164,1.48,False,3.0,2.5,1519.0,sqft,,,1911.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10996c0d0>
+386,15146666,"979 Dolores St, San Francisco, CA",37753745,-122424926,1.88,False,3.0,2.0,1405.0,sqft,,,1907.0,2015,11,12,<built-in method weekday of Timestamp object at 0x10996c050>
+387,15146704,"62-64 San Jose Ave, San Francisco, CA",37754174,-122421710,1.8,True,,,2720.0,sqft,1742.0,sqft,1922.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109966f50>
+388,15146876,"934 Shotwell St, San Francisco, CA",37752854,-122415524,0.6155,False,,1.0,1590.0,sqft,4896.0,sqft,1900.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109966ed0>
+389,15147178,"456 Elizabeth St, San Francisco, CA",37752523,-122431083,2.25,False,2.0,2.0,1410.0,sqft,2905.0,sqft,1934.0,2015,11,10,<built-in method weekday of Timestamp object at 0x109966e50>
+390,15147213,"1059 Noe St, San Francisco, CA",37752026,-122431666,2.5,False,3.0,2.5,2545.0,sqft,2269.0,sqft,1912.0,2015,12,23,<built-in method weekday of Timestamp object at 0x109966dd0>
+391,15147285,"533 Elizabeth St, San Francisco, CA",37751929,-122432815,1.88,False,4.0,3.0,1744.0,sqft,2850.0,sqft,1955.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109966d50>
+392,15147343,"643 Natoma St, San Francisco, CA",37777525,-122410787,0.875,False,2.0,1.0,875.0,sqft,,,1910.0,2015,12,17,<built-in method weekday of Timestamp object at 0x109966cd0>
+393,15147378,"180 7th St # 408, San Francisco, CA",37778082,-122410082,0.55,False,1.0,1.0,470.0,sqft,,,1992.0,2015,12,31,<built-in method weekday of Timestamp object at 0x109966c50>
+394,15147481,"469 Clementina St APT 12, San Francisco, CA",37779336,-122405351,0.65,False,1.0,1.0,600.0,sqft,,,1993.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109966bd0>
+395,15147528,"75 Folsom St APT 801, San Francisco, CA",37789800,-122389765,1.55,False,2.0,2.0,1287.0,sqft,,,1991.0,2015,12,9,<built-in method weekday of Timestamp object at 0x109966b50>
+396,15147628,"81 Lansing St APT 410, San Francisco, CA",37785651,-122394030,0.778,False,1.0,1.0,855.0,sqft,,,1995.0,2015,12,29,<built-in method weekday of Timestamp object at 0x109966ad0>
+397,15147936,"271 Clara St # 2, San Francisco, CA",37778136,-122403785,0.8,False,1.0,1.0,985.0,sqft,1685.0,sqft,1907.0,2015,12,31,<built-in method weekday of Timestamp object at 0x109966a50>
+398,15147987,"130A Langton St # A, San Francisco, CA",37775760,-122407960,0.75,False,2.0,1.5,1000.0,sqft,,,1906.0,2015,12,14,<built-in method weekday of Timestamp object at 0x1099669d0>
+399,15147990,"134 Langton St, San Francisco, CA",37775715,-122407900,0.765,False,2.0,1.5,1000.0,sqft,,,1906.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109966950>
+400,15148102,"461 2nd St APT T354, San Francisco, CA",37783699,-122393590,0.62,False,1.0,1.0,619.0,sqft,,,1907.0,2015,12,9,<built-in method weekday of Timestamp object at 0x1099668d0>
+401,15148103,"461 2nd St APT T355, San Francisco, CA",37783699,-122393590,0.303,False,1.0,1.0,653.0,sqft,,,1907.0,2015,12,9,<built-in method weekday of Timestamp object at 0x109966850>
+402,15148222,"201 Harrison St APT 407, San Francisco, CA",37787585,-122390480,0.525,True,,1.0,410.0,sqft,,,1991.0,2015,12,29,<built-in method weekday of Timestamp object at 0x1099667d0>
+403,15148444,"38 Bryant St APT 606, San Francisco, CA",37787466,-122388980,0.65,False,1.0,1.0,582.0,sqft,,,1994.0,2015,12,21,<built-in method weekday of Timestamp object at 0x109966750>
+404,15148570,"403 Main St APT 313N, San Francisco, CA",37788008,-122389643,0.81,False,1.0,1.0,811.0,sqft,,,1997.0,2015,11,23,<built-in method weekday of Timestamp object at 0x1099666d0>
+405,15148755,"39 Boardman Pl APT 101, San Francisco, CA",37774794,-122402799,0.905,False,1.0,1.5,1255.0,sqft,,,1996.0,2015,11,20,<built-in method weekday of Timestamp object at 0x109966650>
+406,15148821,"354-358 Utah St, San Francisco, CA",37765066,-122406787,1.04,False,5.0,3.0,4350.0,sqft,2500.0,sqft,1908.0,2015,12,10,<built-in method weekday of Timestamp object at 0x1099665d0>
+407,15148902,"456 Kansas St, San Francisco, CA",37764050,-122403778,1.75,False,6.0,2.0,2546.0,sqft,2500.0,sqft,1900.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109966550>
+408,15149005,"251-253 Missouri St, San Francisco, CA",37763202,-122396270,1e-06,False,7.0,6.0,2904.0,sqft,2482.0,sqft,1900.0,2015,12,23,<built-in method weekday of Timestamp object at 0x1099664d0>
+409,15149093,"548 Rhode Island St, San Francisco, CA",37762814,-122402695,1.77,False,2.0,1.0,1025.0,sqft,2495.0,sqft,1938.0,2015,12,10,<built-in method weekday of Timestamp object at 0x109966450>
+410,15149454,"362-364 Connecticut St, San Francisco, CA",37761690,-122397727,1.8,False,4.0,3.5,1725.0,sqft,2495.0,sqft,1907.0,2015,11,25,<built-in method weekday of Timestamp object at 0x1099663d0>
+411,15149547,"361 Texas St, San Francisco, CA",37761845,-122395171,2.3,False,3.0,2.0,2080.0,sqft,2495.0,sqft,1906.0,2016,2,10,<built-in method weekday of Timestamp object at 0x109966350>
+412,15149594,"730-732 Tennessee St, San Francisco, CA",37762502,-122389995,2.9,False,,2.0,2270.0,sqft,2495.0,sqft,1900.0,2015,12,22,<built-in method weekday of Timestamp object at 0x1099662d0>
+413,15149654,"1324 20th St, San Francisco, CA",37760291,-122394893,1.32,False,2.0,1.0,1000.0,sqft,1646.0,sqft,1925.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109966250>
+414,15149977,"734 Vermont St, San Francisco, CA",37759734,-122404338,0.2325,False,,2.0,2360.0,sqft,2495.0,sqft,1907.0,2015,12,16,<built-in method weekday of Timestamp object at 0x1099661d0>
+415,15150032,"725 Hampshire St, San Francisco, CA",37759765,-122407671,1.57,False,2.0,1.0,1740.0,sqft,2500.0,sqft,1900.0,2015,12,4,<built-in method weekday of Timestamp object at 0x109966150>
+416,15150214,"2724 21st St, San Francisco, CA",37757795,-122409332,0.55,False,2.0,1.0,1250.0,sqft,1698.0,sqft,1900.0,2015,12,3,<built-in method weekday of Timestamp object at 0x1099660d0>
+417,15150325,"900-904 Kansas St, San Francisco, CA",37758283,-122403228,1.58,False,,3.0,2795.0,sqft,2700.0,sqft,1913.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109966050>
+418,15150465,"825 Rhode Island St, San Francisco, CA",37759320,-122401735,1.75,False,4.0,3.5,2882.0,sqft,2495.0,sqft,1910.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109964f50>
+419,15150570,"817 Carolina St, San Francisco, CA",37758273,-122399694,1.27,False,3.0,1.0,1644.0,sqft,2495.0,sqft,1907.0,2015,12,4,<built-in method weekday of Timestamp object at 0x109964ed0>
+420,15150777,"540 Texas St, San Francisco, CA",37759462,-122395570,2.16,False,2.0,4.0,1700.0,sqft,2700.0,sqft,1926.0,2015,12,17,<built-in method weekday of Timestamp object at 0x109964e50>
+421,15150841,"632 Mississippi St, San Francisco, CA",37758382,-122394495,1.42,False,2.0,1.0,1100.0,sqft,2495.0,sqft,1922.0,2016,1,4,<built-in method weekday of Timestamp object at 0x109964dd0>
+422,15151012,"961 San Bruno Ave, San Francisco, CA",37757433,-122404508,0.98,False,2.0,2.0,1297.0,sqft,1920.0,sqft,1927.0,2015,12,31,<built-in method weekday of Timestamp object at 0x109964d50>
+423,15151054,"948 Hampshire St, San Francisco, CA",37756888,-122407955,3.8,True,,1.0,1215.0,sqft,2495.0,sqft,1900.0,2015,12,4,<built-in method weekday of Timestamp object at 0x109964cd0>
+424,15151294,"2874 23rd St, San Francisco, CA",37754595,-122409835,0.5625,False,,1.0,1167.0,sqft,2596.0,sqft,1900.0,2015,11,17,<built-in method weekday of Timestamp object at 0x109964c50>
+425,15151407,"1052 Rhode Island St, San Francisco, CA",37756432,-122402082,0.85,False,,1.0,1080.0,sqft,2495.0,sqft,1927.0,2015,11,18,<built-in method weekday of Timestamp object at 0x109964bd0>
+426,15151414,"1088 Rhode Island St, San Francisco, CA",37755952,-122402036,1.8,False,3.0,3.0,1550.0,sqft,2500.0,sqft,1912.0,2015,12,17,<built-in method weekday of Timestamp object at 0x109964b50>
+427,15151520,"1015 Rhode Island St, San Francisco, CA",37756469,-122401462,2.0,False,4.0,4.0,2381.0,sqft,2613.0,sqft,1938.0,2015,11,30,<built-in method weekday of Timestamp object at 0x109964ad0>
+428,15151740,"1129 Tennessee St, San Francisco, CA",37757301,-122388882,0.64,False,2.0,2.0,3479.0,sqft,2500.0,sqft,1989.0,2015,11,24,<built-in method weekday of Timestamp object at 0x109964a50>
+429,15151938,"1248 Utah St, San Francisco, CA",37753647,-122405683,2.5,False,4.0,4.0,2770.0,sqft,2247.0,sqft,1915.0,2015,12,15,<built-in method weekday of Timestamp object at 0x1099649d0>
+430,15152040,"2250 24th St APT 223, San Francisco, CA",37753905,-122402020,0.64,False,2.0,1.0,839.0,sqft,,,1989.0,2015,11,17,<built-in method weekday of Timestamp object at 0x109964950>
+431,15152257,"2107-2109 24TH St, San Francisco, CA",37753108,-122400748,1.21,False,,2.0,1500.0,sqft,2500.0,sqft,1908.0,2015,12,21,<built-in method weekday of Timestamp object at 0x1099648d0>
+432,15152280,"2127 24th St, San Francisco, CA",37753090,-122401105,0.875,False,,1.0,1345.0,sqft,,,1900.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109964850>
+433,15152307,"1315-1317 Kansas St, San Francisco, CA",37752990,-122402141,1.14,False,,2.0,2520.0,sqft,1875.0,sqft,1924.0,2015,12,15,<built-in method weekday of Timestamp object at 0x1099647d0>
+434,15152389,"1251-1253 Hampshire St, San Francisco, CA",37752069,-122406936,0.68,False,,2.0,3020.0,sqft,2500.0,sqft,1925.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109964750>
+435,15153012,"118 Jerrold Ave, San Francisco, CA",37728539,-122371160,0.8,False,3.0,2.0,1325.0,sqft,,,1989.0,2015,11,24,<built-in method weekday of Timestamp object at 0x1099646d0>
+436,15153517,"19 Rebecca Ln, San Francisco, CA",37737383,-122382397,0.61,False,2.0,2.0,1210.0,sqft,871.0,sqft,1992.0,2015,11,23,<built-in method weekday of Timestamp object at 0x109964650>
+437,15153559,"1314 Palou Ave, San Francisco, CA",37731189,-122385454,0.78,False,4.0,3.0,1275.0,sqft,2613.0,sqft,1941.0,2015,11,17,<built-in method weekday of Timestamp object at 0x1099645d0>
+438,15153617,"1087 Palou Ave, San Francisco, CA",37728354,-122381454,0.43,False,3.0,2.0,1452.0,sqft,1873.0,sqft,1900.0,2016,2,11,<built-in method weekday of Timestamp object at 0x109964550>
+439,15153741,"1371 Palou Ave, San Francisco, CA",37731344,-122386797,0.003,False,2.0,1.0,1000.0,sqft,2495.0,sqft,1900.0,2015,11,16,<built-in method weekday of Timestamp object at 0x1099644d0>
+440,15153753,"1311 Palou Ave, San Francisco, CA",37730765,-122385777,0.875,True,,,2645.0,sqft,4996.0,sqft,1923.0,2016,1,11,<built-in method weekday of Timestamp object at 0x109964450>
+441,15153811,"1386 Revere Ave, San Francisco, CA",37729593,-122385972,0.65,False,,1.0,1255.0,sqft,2495.0,sqft,1954.0,2015,11,23,<built-in method weekday of Timestamp object at 0x1099643d0>
+442,15153857,"1243 Quesada Ave, San Francisco, CA",37728318,-122383131,0.61,False,2.0,1.0,1250.0,sqft,2613.0,sqft,1927.0,2016,1,4,<built-in method weekday of Timestamp object at 0x109964350>
+443,15153995,"1480 Shafter Ave, San Francisco, CA",37729988,-122388333,0.5,False,2.0,1.0,952.0,sqft,2613.0,sqft,1926.0,2015,12,15,<built-in method weekday of Timestamp object at 0x1099642d0>
+444,15154015,"1401 Shafter Ave, San Francisco, CA",37728789,-122387291,0.755,False,2.0,2.0,1412.0,sqft,2613.0,sqft,1929.0,2015,12,17,<built-in method weekday of Timestamp object at 0x109964250>
+445,15154183,"1459-1461 Thomas Ave, San Francisco, CA",37728719,-122388835,0.655,False,6.0,3.0,1950.0,sqft,2500.0,sqft,1900.0,2015,12,23,<built-in method weekday of Timestamp object at 0x1099641d0>
+446,15154370,"1201 Egbert Ave, San Francisco, CA",37720438,-122389171,0.41,False,,1.0,1157.0,sqft,2000.0,sqft,1925.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109964150>
+447,15154657,"884 Ingerson Ave, San Francisco, CA",37718050,-122390617,0.85,False,5.0,3.0,1789.0,sqft,2613.0,sqft,1964.0,2016,2,4,<built-in method weekday of Timestamp object at 0x1099640d0>
+448,15154660,"991 Hollister Ave, San Francisco, CA",37718354,-122390556,0.525,False,3.0,1.0,1062.0,sqft,2500.0,sqft,1917.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109964050>
+449,15154832,"1027 Ingerson Ave, San Francisco, CA",37719206,-122393725,0.375,False,3.0,2.0,1430.0,sqft,2500.0,sqft,1929.0,2015,11,13,<built-in method weekday of Timestamp object at 0x109976f50>
+450,15154997,"76 Jennings Ct, San Francisco, CA",37717061,-122397018,0.575,False,3.0,2.0,1212.0,sqft,,,1995.0,2015,11,18,<built-in method weekday of Timestamp object at 0x109976ed0>
+451,15155000,"1 Jennings Ct, San Francisco, CA",37717794,-122397510,0.74,False,3.0,2.0,1310.0,sqft,,,1995.0,2016,1,14,<built-in method weekday of Timestamp object at 0x109976e50>
+452,15155751,"1546 Innes Ave, San Francisco, CA",37739068,-122387681,0.665,False,2.0,2.0,1629.0,sqft,2500.0,sqft,1938.0,2015,11,10,<built-in method weekday of Timestamp object at 0x109976dd0>
+453,15156203,"1448 Oakdale Ave, San Francisco, CA",37733196,-122387320,0.86,False,3.0,2.0,2066.0,sqft,2500.0,sqft,1910.0,2015,12,4,<built-in method weekday of Timestamp object at 0x109976d50>
+454,15156278,"1783 Newcomb Ave, San Francisco, CA",37736956,-122393362,0.68,False,2.0,1.0,1385.0,sqft,2500.0,sqft,1925.0,2015,12,17,<built-in method weekday of Timestamp object at 0x109976cd0>
+455,15156378,"1740-1742 Palou Ave, San Francisco, CA",37735707,-122393424,0.18,False,,2.0,3073.0,sqft,2495.0,sqft,1950.0,2015,12,30,<built-in method weekday of Timestamp object at 0x109976c50>
+456,15156497,"1455 Oakdale Ave, San Francisco, CA",37732869,-122387815,0.935,False,5.0,3.0,1594.0,sqft,2495.0,sqft,1964.0,2016,1,12,<built-in method weekday of Timestamp object at 0x109976bd0>
+457,15156520,"1497 Palou Ave, San Francisco, CA",37732644,-122389092,0.905,False,4.0,3.0,1750.0,sqft,2500.0,sqft,1977.0,2015,11,20,<built-in method weekday of Timestamp object at 0x109976b50>
+458,15156770,"2179 Quesada Ave, San Francisco, CA",37738219,-122400582,0.22,False,,1.0,,,2495.0,sqft,1900.0,2015,12,17,<built-in method weekday of Timestamp object at 0x109976ad0>
+459,15156830,"250 Bayview Cir, San Francisco, CA",37734490,-122396289,0.765,False,2.0,2.0,1301.0,sqft,1845.0,sqft,1986.0,2015,12,8,<built-in method weekday of Timestamp object at 0x109976a50>
+460,15157040,"1939 Quesada Ave, San Francisco, CA",37735715,-122396123,0.705,False,2.0,1.5,875.0,sqft,2831.0,sqft,1947.0,2015,11,13,<built-in method weekday of Timestamp object at 0x1099769d0>
+461,15157054,"19 Bridgeview Dr, San Francisco, CA",37734200,-122394079,0.64,False,3.0,2.0,1092.0,sqft,2062.0,sqft,1944.0,2015,12,31,<built-in method weekday of Timestamp object at 0x109976950>
+462,15157208,"1574 Shafter Ave, San Francisco, CA",37730968,-122390069,0.4,False,,1.0,1422.0,sqft,2495.0,sqft,1921.0,2015,12,18,<built-in method weekday of Timestamp object at 0x1099768d0>
+463,15157264,"1731-1733 Revere Ave, San Francisco, CA",37732919,-122392787,0.553,False,,1.0,800.0,sqft,1500.0,sqft,1908.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109976850>
+464,15157891,"61 Waterville St, San Francisco, CA",37735270,-122402488,0.768,False,,7.0,1734.0,sqft,2495.0,sqft,1912.0,2015,12,22,<built-in method weekday of Timestamp object at 0x1099767d0>
+465,15157943,"15 Scotia Ave, San Francisco, CA",37734337,-122401708,0.868,False,3.0,2.0,1482.0,sqft,2417.0,sqft,1936.0,2015,11,16,<built-in method weekday of Timestamp object at 0x109976750>
+466,15158058,"2015 Thomas Ave, San Francisco, CA",37734273,-122398821,0.75,False,3.0,1.0,1512.0,sqft,2796.0,sqft,1941.0,2015,12,4,<built-in method weekday of Timestamp object at 0x1099766d0>
+467,15158124,"2058 Thomas Ave, San Francisco, CA",37735148,-122399495,0.6,False,2.0,1.0,1222.0,sqft,1972.0,sqft,1941.0,2015,12,4,<built-in method weekday of Timestamp object at 0x109976650>
+468,15158253,"1554 Van Dyke Ave, San Francisco, CA",37728891,-122391405,0.7,False,,1.0,1375.0,sqft,2495.0,sqft,1939.0,2015,12,21,<built-in method weekday of Timestamp object at 0x1099765d0>
+469,15158905,"28 Williams Ave, San Francisco, CA",37729497,-122393183,0.66,False,2.0,2.0,1250.0,sqft,1250.0,sqft,1930.0,2016,1,3,<built-in method weekday of Timestamp object at 0x109976550>
+470,15159016,"2076 Carroll Ave, San Francisco, CA",37730201,-122402046,0.197,False,,1.0,735.0,sqft,2495.0,sqft,1908.0,2015,12,17,<built-in method weekday of Timestamp object at 0x1099764d0>
+471,15159044,"2091 Bancroft Ave, San Francisco, CA",37730545,-122402057,0.86,False,4.0,3.0,2350.0,sqft,2613.0,sqft,1992.0,2015,11,19,<built-in method weekday of Timestamp object at 0x109976450>
+472,15159610,"3455 Keith St, San Francisco, CA",37719522,-122397995,0.403,False,,1.0,1125.0,sqft,1925.0,sqft,1924.0,2015,12,16,<built-in method weekday of Timestamp object at 0x1099763d0>
+473,15159823,"630 Precita Ave, San Francisco, CA",37747591,-122408740,1.08,False,3.0,1.0,1675.0,sqft,3750.0,sqft,1905.0,2015,11,19,<built-in method weekday of Timestamp object at 0x109976350>
+474,15159831,"684 Precita Ave, San Francisco, CA",37747997,-122407987,1.71,False,4.0,3.0,2459.0,sqft,2495.0,sqft,1913.0,2015,12,7,<built-in method weekday of Timestamp object at 0x1099762d0>
+475,15159837,"1650-1652 Florida St, San Francisco, CA",37746900,-122409305,0.97,False,,2.0,2312.0,sqft,3125.0,sqft,1904.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109976250>
+476,15159894,"51 Mirabel Ave, San Francisco, CA",37746731,-122416518,1.32,False,2.0,1.0,875.0,sqft,3197.0,sqft,1900.0,2015,12,8,<built-in method weekday of Timestamp object at 0x1099761d0>
+477,15159949,"256-258 Precita Ave, San Francisco, CA",37747136,-122414649,0.85,False,,2.0,1700.0,sqft,1873.0,sqft,1910.0,2015,11,30,<built-in method weekday of Timestamp object at 0x109976150>
+478,15160348,"249 Mullen Ave, San Francisco, CA",37746969,-122407362,1.02,False,2.0,2.0,1275.0,sqft,1746.0,sqft,1907.0,2015,12,18,<built-in method weekday of Timestamp object at 0x1099760d0>
+479,15160369,"123 Peralta Ave, San Francisco, CA",37747171,-122407400,1.22,False,2.0,1.0,800.0,sqft,1750.0,sqft,1908.0,2015,11,23,<built-in method weekday of Timestamp object at 0x109976050>
+480,15160509,"233 Franconia St, San Francisco, CA",37745780,-122407425,1.59,False,3.0,,1594.0,sqft,4253.0,sqft,1964.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109974f50>
+481,15161351,"157 Winfield St, San Francisco, CA",37742237,-122418547,1.15,True,,,1375.0,sqft,1742.0,sqft,1907.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109974ed0>
+482,15161389,"199 Elsie St, San Francisco, CA",37741023,-122418609,0.9,False,,1.0,1010.0,sqft,1393.0,sqft,1931.0,2015,12,16,<built-in method weekday of Timestamp object at 0x109974e50>
+483,15161653,"79 Bradford St, San Francisco, CA",37741748,-122409262,0.875,False,2.0,2.0,900.0,sqft,1751.0,sqft,1933.0,2015,12,2,<built-in method weekday of Timestamp object at 0x109974dd0>
+484,15161660,"73 Carver St, San Francisco, CA",37742053,-122409855,1.52,False,3.0,2.0,1325.0,sqft,1750.0,sqft,1951.0,2015,11,30,<built-in method weekday of Timestamp object at 0x109974d50>
+485,15161805,"183 Bocana St, San Francisco, CA",37740976,-122417224,1.1,False,,1.0,1275.0,sqft,2500.0,sqft,1922.0,2015,11,17,<built-in method weekday of Timestamp object at 0x109974cd0>
+486,15161979,"3660 Folsom St, San Francisco, CA",37740726,-122413458,1.95,False,3.0,3.0,650.0,sqft,1750.0,sqft,1902.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109974c50>
+487,15162350,"204 Anderson St, San Francisco, CA",37740230,-122415369,1.43,False,2.0,2.0,1140.0,sqft,1746.0,sqft,1928.0,2015,12,2,<built-in method weekday of Timestamp object at 0x109974bd0>
+488,15162353,"222 Anderson St, San Francisco, CA",37740024,-122415385,1.3,False,2.0,1.0,1280.0,sqft,1742.0,sqft,1906.0,2015,11,24,<built-in method weekday of Timestamp object at 0x109974b50>
+489,15162638,"116 Eugenia Ave, San Francisco, CA",37741436,-122420620,0.975,False,2.0,1.0,1075.0,sqft,1751.0,sqft,1900.0,2015,11,24,<built-in method weekday of Timestamp object at 0x109974ad0>
+490,15162879,"270 Nevada St, San Francisco, CA",37738665,-122411652,2.08,False,3.0,4.0,2371.0,sqft,1742.0,sqft,1900.0,2015,12,30,<built-in method weekday of Timestamp object at 0x109974a50>
+491,15163177,"450 Prentiss St, San Francisco, CA",37737609,-122412376,0.999,False,2.0,1.0,1070.0,sqft,1751.0,sqft,1926.0,2015,12,10,<built-in method weekday of Timestamp object at 0x1099749d0>
+492,15163205,"3942 Folsom St, San Francisco, CA",37737742,-122413610,1.8,False,3.0,2.5,860.0,sqft,1742.0,sqft,1908.0,2015,12,2,<built-in method weekday of Timestamp object at 0x109974950>
+493,15163213,"3990 Folsom St, San Francisco, CA",37737197,-122413659,1.55,False,3.0,2.0,1200.0,sqft,1751.0,sqft,1968.0,2015,11,25,<built-in method weekday of Timestamp object at 0x1099748d0>
+494,15163518,"201 Holly Park Cir, San Francisco, CA",37737764,-122418634,0.255,False,3.0,2.0,2250.0,sqft,1712.0,sqft,1910.0,2015,12,28,<built-in method weekday of Timestamp object at 0x109974850>
+495,15163654,"281 Richland Ave, San Francisco, CA",37735998,-122420814,1.0,False,3.0,2.0,1300.0,sqft,1937.0,sqft,1900.0,2015,11,24,<built-in method weekday of Timestamp object at 0x1099747d0>
+496,15163807,"554 Anderson St, San Francisco, CA",37736454,-122415593,0.92,False,2.0,1.0,1015.0,sqft,1751.0,sqft,1910.0,2016,1,22,<built-in method weekday of Timestamp object at 0x109974750>
+497,15163943,"580 Prentiss St, San Francisco, CA",37736075,-122412513,0.95,False,2.0,1.0,918.0,sqft,1750.0,sqft,1951.0,2015,12,3,<built-in method weekday of Timestamp object at 0x1099746d0>
+498,15163952,"412 Nevada St, San Francisco, CA",37736718,-122411831,0.725,False,2.0,1.0,1150.0,sqft,1750.0,sqft,1916.0,2015,12,8,<built-in method weekday of Timestamp object at 0x109974650>
+499,15164106,"4142 Folsom St, San Francisco, CA",37735325,-122413825,1.32,False,2.0,2.0,1156.0,sqft,1750.0,sqft,1996.0,2015,11,12,<built-in method weekday of Timestamp object at 0x1099745d0>
+500,15164191,"650 Anderson St, San Francisco, CA",37735368,-122415694,1.05,False,,1.0,1000.0,sqft,1751.0,sqft,1927.0,2015,11,17,<built-in method weekday of Timestamp object at 0x109974550>
+501,15164199,"501 Crescent Ave, San Francisco, CA",37735041,-122416045,0.87,True,,,960.0,sqft,1751.0,sqft,1905.0,2015,12,31,<built-in method weekday of Timestamp object at 0x1099744d0>
+502,15164877,"4021 Mission St, San Francisco, CA",37733106,-122426556,1.05,False,2.0,1.0,1239.0,sqft,2495.0,sqft,1941.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109974450>
+503,15165309,"676 Sweeny St, San Francisco, CA",37730425,-122416758,0.72,False,2.0,1.0,850.0,sqft,2439.0,sqft,1942.0,2015,12,18,<built-in method weekday of Timestamp object at 0x1099743d0>
+504,15165568,"47 Colby St, San Francisco, CA",37729916,-122414496,1.04,False,2.0,1.0,1655.0,sqft,2622.0,sqft,1937.0,2015,12,3,<built-in method weekday of Timestamp object at 0x109974350>
+505,15165652,"374 Hale St, San Francisco, CA",37731143,-122412404,0.467,False,2.0,1.0,1044.0,sqft,2173.0,sqft,1927.0,2015,12,22,<built-in method weekday of Timestamp object at 0x1099742d0>
+506,15165922,"95 Stoneyford Ave, San Francisco, CA",37729425,-122421110,0.91,False,3.0,2.0,1400.0,sqft,2208.0,sqft,1942.0,2016,1,25,<built-in method weekday of Timestamp object at 0x109974250>
+507,15165953,"14 Stoneyford Ave, San Francisco, CA",37730923,-122421186,0.65,False,3.0,1.0,1158.0,sqft,2291.0,sqft,1942.0,2016,1,5,<built-in method weekday of Timestamp object at 0x1099741d0>
+508,15166004,"26 Stoneybrook Ave, San Francisco, CA",37730479,-122421986,0.7,False,2.0,1.0,862.0,sqft,2151.0,sqft,1942.0,2015,12,31,<built-in method weekday of Timestamp object at 0x109974150>
+509,15166222,"387-389 Silver Ave, San Francisco, CA",37728757,-122428615,0.3175,False,,2.0,2750.0,sqft,2491.0,sqft,1910.0,2015,12,29,<built-in method weekday of Timestamp object at 0x1099740d0>
+510,15166257,"52 Maynard St, San Francisco, CA",37729024,-122429396,0.9005,False,4.0,3.0,2064.0,sqft,2949.0,sqft,1979.0,2015,12,4,<built-in method weekday of Timestamp object at 0x109974050>
+511,15166601,"412 Pioche St, San Francisco, CA",37728074,-122422730,0.71,False,1.0,1.0,890.0,sqft,1097.0,sqft,1942.0,2015,12,7,<built-in method weekday of Timestamp object at 0x109971f50>
+512,15167071,"131 Brussels St, San Francisco, CA",37730359,-122406597,1.25,False,4.0,3.0,2269.0,sqft,2761.0,sqft,1916.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109971ed0>
+513,15167131,"155 Somerset St, San Francisco, CA",37729580,-122408459,0.975,False,2.0,1.0,1550.0,sqft,3000.0,sqft,1937.0,2015,11,20,<built-in method weekday of Timestamp object at 0x109971e50>
+514,15167958,"134 Naples St, San Francisco, CA",37726623,-122427192,0.6475,False,2.0,1.0,1125.0,sqft,2495.0,sqft,1925.0,2015,12,8,<built-in method weekday of Timestamp object at 0x109971dd0>
+515,15168004,"130 Vienna St, San Francisco, CA",37726299,-122426347,0.95,False,4.0,3.0,1853.0,sqft,2500.0,sqft,1907.0,2015,12,21,<built-in method weekday of Timestamp object at 0x109971d50>
+516,15168015,"180 Vienna St, San Francisco, CA",37725652,-122426836,0.191,False,,1.0,432.0,sqft,2495.0,sqft,1904.0,2015,12,7,<built-in method weekday of Timestamp object at 0x109971cd0>
+517,15168186,"888 Peru Ave, San Francisco, CA",37724048,-122423156,0.975,False,4.0,3.0,1590.0,sqft,2375.0,sqft,1931.0,2015,12,8,<built-in method weekday of Timestamp object at 0x109971c50>
+518,15168244,"332 Gambier St, San Francisco, CA",37725141,-122421470,0.95,False,3.0,1.0,1435.0,sqft,2996.0,sqft,1910.0,2015,12,7,<built-in method weekday of Timestamp object at 0x109971bd0>
+519,15168424,"238 Princeton St, San Francisco, CA",37726682,-122415563,0.97,False,,2.0,2028.0,sqft,2975.0,sqft,1958.0,2015,11,12,<built-in method weekday of Timestamp object at 0x109971b50>
+520,15169434,"184 London St, San Francisco, CA",37726328,-122432852,0.52,False,3.0,1.0,750.0,sqft,2495.0,sqft,1910.0,2015,12,9,<built-in method weekday of Timestamp object at 0x109971ad0>
+521,15170366,"558 Brussels St, San Francisco, CA",37725076,-122405063,1.0,False,,2.0,1500.0,sqft,,,1971.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109971a50>
+522,15170571,"182 Prague St, San Francisco, CA",37719320,-122427198,0.855,False,2.0,1.0,1125.0,sqft,1742.0,sqft,1930.0,2015,11,20,<built-in method weekday of Timestamp object at 0x1099719d0>
+523,15170822,"445 Persia Ave, San Francisco, CA",37721458,-122432181,0.95,False,4.0,2.0,1435.0,sqft,2613.0,sqft,1955.0,2015,12,30,<built-in method weekday of Timestamp object at 0x109971950>
+524,15171058,"437 London St, San Francisco, CA",37722014,-122435432,0.76,False,2.0,1.0,900.0,sqft,2495.0,sqft,1925.0,2015,12,17,<built-in method weekday of Timestamp object at 0x1099718d0>
+525,15171998,"1150 Bowdoin St, San Francisco, CA",37721520,-122409051,0.77,False,3.0,1.0,924.0,sqft,2996.0,sqft,1951.0,2015,11,16,<built-in method weekday of Timestamp object at 0x109971850>
+526,15172663,"50 Ankeny St, San Francisco, CA",37719098,-122404078,0.98,False,3.0,3.0,2264.0,sqft,2614.0,sqft,1976.0,2015,12,7,<built-in method weekday of Timestamp object at 0x1099717d0>
+527,15172689,"1015 Goettingen St, San Francisco, CA",37719474,-122403272,0.88,False,3.0,2.0,1500.0,sqft,1751.0,sqft,1954.0,2015,12,29,<built-in method weekday of Timestamp object at 0x109971750>
+528,15172839,"1132 Goettingen St, San Francisco, CA",37717968,-122403125,0.85,False,4.0,2.5,1586.0,sqft,1742.0,sqft,1947.0,2015,12,15,<built-in method weekday of Timestamp object at 0x1099716d0>
+529,15173186,"3524-3526 San Bruno Ave, San Francisco, CA",37717460,-122400260,0.934,False,5.0,2.0,2250.0,sqft,1668.0,sqft,1908.0,2015,11,17,<built-in method weekday of Timestamp object at 0x109971650>
+530,15173285,"31 Alpha St, San Francisco, CA",37715264,-122402542,0.05,False,4.0,3.0,2325.0,sqft,2500.0,sqft,1900.0,2015,12,16,<built-in method weekday of Timestamp object at 0x1099715d0>
+531,15173423,"187 Tucker Ave, San Francisco, CA",37716222,-122407819,0.639,False,3.0,1.0,1060.0,sqft,2500.0,sqft,1949.0,2015,12,23,<built-in method weekday of Timestamp object at 0x109971550>
+532,15173647,"547 Campbell Ave, San Francisco, CA",37715323,-122407298,0.6,False,3.0,1.0,1030.0,sqft,2495.0,sqft,1944.0,2015,12,8,<built-in method weekday of Timestamp object at 0x1099714d0>
+533,15173656,"227 Delta St, San Francisco, CA",37715410,-122408311,0.642,False,3.0,1.0,825.0,sqft,1498.0,sqft,1958.0,2015,12,18,<built-in method weekday of Timestamp object at 0x109971450>
+534,15173965,"200 Raymond Ave, San Francisco, CA",37713467,-122407091,0.81,False,4.0,3.0,1953.0,sqft,2495.0,sqft,1925.0,2015,11,13,<built-in method weekday of Timestamp object at 0x1099713d0>
+535,15174292,"51 Peabody St, San Francisco, CA",37711481,-122406571,0.588,False,,2.0,1525.0,sqft,2639.0,sqft,1940.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109971350>
+536,15174728,"660 Naples St, San Francisco, CA",37718376,-122433420,0.2425,False,,1.0,800.0,sqft,2500.0,sqft,1912.0,2015,12,18,<built-in method weekday of Timestamp object at 0x1099712d0>
+537,15174828,"666 Athens St, San Francisco, CA",37717609,-122431819,0.678,False,,1.0,1250.0,sqft,2495.0,sqft,1950.0,2015,11,13,<built-in method weekday of Timestamp object at 0x109971250>
+538,15175282,"128-130 Cora St, San Francisco, CA",37711288,-122409324,0.023,False,2.0,2.0,832.0,sqft,3646.0,sqft,1917.0,2015,11,10,<built-in method weekday of Timestamp object at 0x1099711d0>
+539,15176077,"797 Athens St, San Francisco, CA",37715461,-122432755,0.57,False,2.0,1.0,925.0,sqft,2613.0,sqft,1908.0,2015,11,18,<built-in method weekday of Timestamp object at 0x109971150>
+540,15176538,"701 Paris St, San Francisco, CA",37717498,-122437757,1.1,False,4.0,2.0,1990.0,sqft,2500.0,sqft,1928.0,2015,12,10,<built-in method weekday of Timestamp object at 0x1099710d0>
+541,15176924,"638 Sawyer St, San Francisco, CA",37709184,-122416225,0.6,False,3.0,2.0,1320.0,sqft,2613.0,sqft,1947.0,2016,1,20,<built-in method weekday of Timestamp object at 0x109971050>
+542,15177121,"924 Naples St, San Francisco, CA",37715138,-122435856,0.795,False,3.0,1.0,1500.0,sqft,2509.0,sqft,1919.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10996bf50>
+543,15177425,"749 Prague St, San Francisco, CA",37711050,-122432921,0.83,False,,1.0,1250.0,sqft,3127.0,sqft,1925.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10996bed0>
+544,15177658,"1012 Saddleback Dr, San Francisco, CA",37709595,-122426935,0.5411,False,3.0,2.0,963.0,sqft,,,1989.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10996be50>
+545,15178123,"1143 Naples St, San Francisco, CA",37712673,-122436874,0.95,False,5.0,3.0,3034.0,sqft,3049.0,sqft,1920.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10996bdd0>
+546,15178142,"136 Seville St, San Francisco, CA",37711670,-122436488,0.89,False,3.0,2.0,1257.0,sqft,2421.0,sqft,1921.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10996bd50>
+547,15178217,"137 Seville St, San Francisco, CA",37711226,-122436500,0.6,False,4.0,1.0,1288.0,sqft,2657.0,sqft,1926.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10996bcd0>
+548,15178486,"34 Pope St, San Francisco, CA",37714288,-122441638,0.92,False,4.0,3.0,2083.0,sqft,3000.0,sqft,1991.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10996bc50>
+549,15178871,"4 Brumiss Ter, Daly City, CA",37708581,-122451809,0.738,False,,1.0,1446.0,sqft,2108.0,sqft,1927.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10996bbd0>
+550,15179059,"681 Morse St, San Francisco, CA",37710979,-122445586,0.0955,False,3.0,1.0,1150.0,sqft,2825.0,sqft,1906.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10996bb50>
+551,15179263,"48 Brunswick St, San Francisco, CA",37711962,-122439018,0.92,False,2.0,1.0,1120.0,sqft,1800.0,sqft,1917.0,2016,1,14,<built-in method weekday of Timestamp object at 0x10996bad0>
+552,15179361,"1142 Prague St, San Francisco, CA",37710290,-122438850,0.981,True,,2.0,1770.0,sqft,3349.0,sqft,1946.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10996ba50>
+553,15179502,"250 Concord St, San Francisco, CA",37710141,-122442063,0.815,False,4.0,3.0,1574.0,sqft,1947.0,sqft,1959.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10996b9d0>
+554,15179745,"305 Guttenberg St, San Francisco, CA",37709222,-122442361,0.828,False,4.0,2.5,1655.0,sqft,1960.0,sqft,1964.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10996b950>
+555,15179953,"4475 24th St APT 2, San Francisco, CA",37750616,-122442268,0.8395,False,2.0,1.0,837.0,sqft,,,1976.0,2015,12,8,<built-in method weekday of Timestamp object at 0x10996b8d0>
+556,15180236,"168 Jersey St, San Francisco, CA",37751043,-122428983,5.7,False,4.0,4.5,1140.0,sqft,2848.0,sqft,1900.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10996b850>
+557,15180636,"1069 Capp St, San Francisco, CA",37749612,-122416789,1.68,True,,,3140.0,sqft,3737.0,sqft,1900.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10996b7d0>
+558,15180778,"3709 25th St, San Francisco, CA",37750214,-122423153,1.38,False,2.0,1.0,1160.0,sqft,750.0,sqft,1925.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10996b750>
+559,15180783,"430 Fair Oaks St, San Francisco, CA",37749725,-122424094,2.29,False,4.0,3.0,2678.0,sqft,,,1911.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10996b6d0>
+560,15180812,"1257 Dolores St # A, San Francisco, CA",37749335,-122424491,0.86,False,1.0,1.0,950.0,sqft,,,1910.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10996b650>
+561,15180820,"1188-1192 Dolores St, San Francisco, CA",37750404,-122425418,1.05,False,3.0,2.0,4650.0,sqft,2848.0,sqft,1909.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10996b5d0>
+562,15181090,"720-722 Clipper St, San Francisco, CA",37748866,-122440925,1.5,False,5.0,4.0,3202.0,sqft,2581.0,sqft,1976.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10996b550>
+563,15181104,"4647 25th St, San Francisco, CA",37749075,-122441235,1.45,False,3.0,2.5,2041.0,sqft,,,1978.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10996b4d0>
+564,15181209,"1001 Diamond St # 1001A, San Francisco, CA",37749461,-122435844,3.1,False,3.0,2.0,2032.0,sqft,1913.0,sqft,1892.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10996b450>
+565,15181250,"4069 25th St, San Francisco, CA",37749628,-122430985,4.1,False,5.0,1.5,1837.0,sqft,2848.0,sqft,1905.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10996b3d0>
+566,15181449,"267 Clipper St, San Francisco, CA",37748821,-122430969,1.73,False,3.0,1.0,1310.0,sqft,2613.0,sqft,1900.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10996b350>
+567,15182002,"1454-1456 Church St, San Francisco, CA",37747482,-122427310,1.51,False,,1.0,1416.0,sqft,1916.0,sqft,1923.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10996b2d0>
+568,15182023,"1381 Sanchez St, San Francisco, CA",37747076,-122428941,2.6,False,4.0,3.0,2000.0,sqft,1999.0,sqft,1900.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10996b250>
+569,15182288,"74 Newburg St, San Francisco, CA",37745818,-122434713,2.25,False,4.0,2.0,1625.0,sqft,1598.0,sqft,1941.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10996b1d0>
+570,15182315,"567 27th St # 3, San Francisco, CA",37746306,-122432752,1.4,False,3.0,2.0,1600.0,sqft,,,1989.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10996b150>
+571,15182629,"164-166 28TH St, San Francisco, CA",37745582,-122426143,0.675,False,,3.0,1775.0,sqft,2850.0,sqft,1905.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10996b0d0>
+572,15182773,"562 28th St, San Francisco, CA",37745064,-122434729,4.35,False,4.0,4.0,3766.0,sqft,2848.0,sqft,1909.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10996b050>
+573,15182794,"647 Duncan St, San Francisco, CA",37745402,-122434331,0.873529,False,2.0,2.0,1400.0,sqft,2850.0,sqft,1938.0,2015,11,13,<built-in method weekday of Timestamp object at 0x109944f50>
+574,15183460,"68 30TH St, San Francisco, CA",37742601,-122422378,1.06,False,,3.0,2800.0,sqft,3049.0,sqft,1908.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109944ed0>
+575,15183723,"1793 Sanchez St, San Francisco, CA",37740271,-122428447,2.26,False,4.0,4.0,2110.0,sqft,3123.0,sqft,1900.0,2015,11,10,<built-in method weekday of Timestamp object at 0x109944e50>
+576,15183874,"126-128 Randall St, San Francisco, CA",37739965,-122426166,1.1,False,5.0,4.0,2430.0,sqft,2500.0,sqft,1986.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109944dd0>
+577,15183908,"1759-1761 Dolores St, San Francisco, CA",37741487,-122423862,1.65,True,,,1820.0,sqft,1306.0,sqft,1910.0,2015,11,12,<built-in method weekday of Timestamp object at 0x109944d50>
+578,15183957,"112 Chenery St, San Francisco, CA",37739540,-122425828,1.68,False,3.0,2.0,1235.0,sqft,1742.0,sqft,1927.0,2015,11,13,<built-in method weekday of Timestamp object at 0x109944cd0>
+579,15184501,"1231 Bosworth St, San Francisco, CA",37735495,-122441225,0.899,False,1.0,1.0,600.0,sqft,2661.0,sqft,1910.0,2015,12,23,<built-in method weekday of Timestamp object at 0x109944c50>
+580,15184555,"382 Surrey St, San Francisco, CA",37735936,-122438508,1.9,False,3.0,2.5,1625.0,sqft,2953.0,sqft,1966.0,2015,12,24,<built-in method weekday of Timestamp object at 0x109944bd0>
+581,15184575,"2576 Diamond St, San Francisco, CA",37737683,-122434960,1.26,False,2.0,2.0,878.0,sqft,2500.0,sqft,1906.0,2015,12,16,<built-in method weekday of Timestamp object at 0x109944b50>
+582,15184648,"2563 Diamond St, San Francisco, CA",37737921,-122434410,1.9,False,3.0,2.0,1885.0,sqft,2500.0,sqft,1950.0,2015,11,30,<built-in method weekday of Timestamp object at 0x109944ad0>
+583,15184744,"2 College Ter, San Francisco, CA",37734448,-122425856,1.13,False,2.0,2.0,1606.0,sqft,1716.0,sqft,1915.0,2015,12,4,<built-in method weekday of Timestamp object at 0x109944a50>
+584,15185002,"3001 Castro St, San Francisco, CA",37735783,-122432356,1.7,False,4.0,3.0,2755.0,sqft,2657.0,sqft,1927.0,2015,12,21,<built-in method weekday of Timestamp object at 0x1099449d0>
+585,15185003,"283 Bemis St, San Francisco, CA",37735807,-122432190,2.15,False,4.0,3.0,2020.0,sqft,2500.0,sqft,1938.0,2015,12,10,<built-in method weekday of Timestamp object at 0x109944950>
+586,15185004,"277 Bemis St, San Francisco, CA",37735850,-122432123,1.15,False,2.0,1.0,950.0,sqft,2495.0,sqft,1956.0,2015,11,20,<built-in method weekday of Timestamp object at 0x1099448d0>
+587,15185372,"2711 Diamond St, San Francisco, CA",37735889,-122434112,0.142,False,,1.0,1022.0,sqft,2012.0,sqft,1900.0,2015,12,14,<built-in method weekday of Timestamp object at 0x109944850>
+588,15185668,"130 Chilton Ave, San Francisco, CA",37733610,-122437073,1.06,False,2.0,1.0,728.0,sqft,2500.0,sqft,1925.0,2015,11,23,<built-in method weekday of Timestamp object at 0x1099447d0>
+589,15185909,"55 Mangels Ave, San Francisco, CA",37732880,-122438822,1.45,False,3.0,2.0,1480.0,sqft,2613.0,sqft,1957.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109944750>
+590,15186111,"106 Circular Ave, San Francisco, CA",37731109,-122438211,0.728,False,2.0,1.0,1064.0,sqft,2178.0,sqft,1941.0,2015,12,4,<built-in method weekday of Timestamp object at 0x1099446d0>
+591,15186139,"163 Monterey Blvd, San Francisco, CA",37731291,-122438902,1.28,False,3.0,2.0,1476.0,sqft,2809.0,sqft,1939.0,2015,12,16,<built-in method weekday of Timestamp object at 0x109944650>
+592,15186444,"80 Danton St, San Francisco, CA",37731080,-122432626,1.61,False,3.0,3.0,2000.0,sqft,2500.0,sqft,1906.0,2015,11,23,<built-in method weekday of Timestamp object at 0x1099445d0>
+593,15186758,"70 Cotter St, San Francisco, CA",37728033,-122434204,0.85,False,3.0,1.0,1290.0,sqft,2613.0,sqft,1909.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109944550>
+594,15186904,"1257 Alemany Blvd, San Francisco, CA",37730019,-122432126,1.06,False,4.0,3.0,2133.0,sqft,2247.0,sqft,1929.0,2015,11,24,<built-in method weekday of Timestamp object at 0x1099444d0>
+595,15186967,"344 Moncada Way, San Francisco, CA",37729763,-122469902,1.42,False,2.0,1.0,1778.0,sqft,5510.0,sqft,1925.0,2015,12,16,<built-in method weekday of Timestamp object at 0x109944450>
+596,15187023,"501 Junipero Serra Blvd, San Francisco, CA",37728731,-122471256,1.7,False,4.0,2.0,2327.0,sqft,9147.0,sqft,1924.0,2015,11,23,<built-in method weekday of Timestamp object at 0x1099443d0>
+597,15187172,"255 Corona St, San Francisco, CA",37726278,-122467069,2.1,False,3.0,3.0,3027.0,sqft,8276.0,sqft,1922.0,2015,11,12,<built-in method weekday of Timestamp object at 0x109944350>
+598,15187751,"1146 Capitol Ave, San Francisco, CA",37722710,-122458890,1.01,False,4.0,4.0,1717.0,sqft,2809.0,sqft,1922.0,2015,12,16,<built-in method weekday of Timestamp object at 0x1099442d0>
+599,15188028,"229 Lee Ave, San Francisco, CA",37722358,-122454450,0.2275,False,,2.0,2298.0,sqft,4316.0,sqft,1905.0,2015,12,7,<built-in method weekday of Timestamp object at 0x109944250>
+600,15188066,"44 Holloway Ave, San Francisco, CA",37722072,-122453855,0.6385,False,2.0,1.0,878.0,sqft,2500.0,sqft,1901.0,2015,11,18,<built-in method weekday of Timestamp object at 0x1099441d0>
+601,15188349,"1988 Alemany Blvd, San Francisco, CA",37720440,-122439690,0.86,False,3.0,1.0,1466.0,sqft,1646.0,sqft,1939.0,2015,12,30,<built-in method weekday of Timestamp object at 0x109944150>
+602,15188382,"1145 Cayuga Ave, San Francisco, CA",37719885,-122441105,1.05,False,3.0,1.0,1590.0,sqft,2178.0,sqft,1941.0,2015,12,30,<built-in method weekday of Timestamp object at 0x1099440d0>
+603,15188390,"1119 Cayuga Ave, San Francisco, CA",37720370,-122440519,0.925,False,,1.0,1188.0,sqft,2448.0,sqft,1939.0,2015,12,4,<built-in method weekday of Timestamp object at 0x109944050>
+604,15188851,"154 Tara St, San Francisco, CA",37720786,-122449193,0.8,False,4.0,3.0,1100.0,sqft,2600.0,sqft,1940.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10994bf50>
+605,15188921,"158 Howth St, San Francisco, CA",37721467,-122450821,0.85,False,4.0,3.0,995.0,sqft,2613.0,sqft,1925.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10994bed0>
+606,15189028,"111 Harold Ave, San Francisco, CA",37720294,-122453327,0.72,False,2.0,1.0,1087.0,sqft,1742.0,sqft,1947.0,2016,1,11,<built-in method weekday of Timestamp object at 0x10994be50>
+607,15189406,"178 Jules Ave, San Francisco, CA",37721438,-122460928,0.8215,False,3.0,1.0,1350.0,sqft,2809.0,sqft,1946.0,2015,12,24,<built-in method weekday of Timestamp object at 0x10994bdd0>
+608,15190222,"414 Shields St, San Francisco, CA",37718115,-122466560,0.835,False,2.0,1.0,781.0,sqft,2495.0,sqft,1946.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10994bd50>
+609,15190654,"549 Grafton Ave, San Francisco, CA",37719852,-122459013,0.78,False,2.0,1.0,1092.0,sqft,2475.0,sqft,1915.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10994bcd0>
+610,15190928,"284 Howth St, San Francisco, CA",37719944,-122451772,0.718,False,2.0,1.0,1280.0,sqft,2247.0,sqft,1930.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10994bc50>
+611,15191017,"229 Tara St, San Francisco, CA",37719518,-122449364,0.89,False,3.0,1.0,2050.0,sqft,2639.0,sqft,1931.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10994bbd0>
+612,15191082,"378 Mount Vernon Ave, San Francisco, CA",37718357,-122447720,0.901,False,2.0,1.0,1210.0,sqft,2199.0,sqft,1939.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10994bb50>
+613,15191102,"267 Niagara Ave, San Francisco, CA",37718471,-122445671,0.8815,False,2.0,1.0,1250.0,sqft,2178.0,sqft,1931.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10994bad0>
+614,15191204,"56 Restani Way, San Francisco, CA",37718088,-122443457,0.81,False,,2.0,1540.0,sqft,2356.0,sqft,1954.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10994ba50>
+615,15191699,"55 Mount Vernon Ave, San Francisco, CA",37715268,-122443871,0.75,False,,1.0,930.0,sqft,1912.0,sqft,1925.0,2015,12,7,<built-in method weekday of Timestamp object at 0x10994b9d0>
+616,15191721,"166 Del Monte St, San Francisco, CA",37715044,-122444755,0.775,False,2.0,1.0,977.0,sqft,3049.0,sqft,1926.0,2016,1,22,<built-in method weekday of Timestamp object at 0x10994b950>
+617,15192245,"268 Thrift St, San Francisco, CA",37717704,-122461487,0.75,False,2.0,1.0,1000.0,sqft,3049.0,sqft,1953.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10994b8d0>
+618,15192331,"265 Thrift St, San Francisco, CA",37717181,-122461318,0.7,False,,2.0,2529.0,sqft,4499.0,sqft,1909.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10994b850>
+619,15192431,"188 Montana St, San Francisco, CA",37716834,-122458657,0.58,False,2.0,1.0,1173.0,sqft,2613.0,sqft,1907.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10994b7d0>
+620,15192647,"2670 San Jose Ave, San Francisco, CA",37714831,-122451887,0.756,False,3.0,1.0,1001.0,sqft,2613.0,sqft,1949.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10994b750>
+621,15192957,"601 Capitol Ave, San Francisco, CA",37715924,-122459257,0.8,False,4.0,2.0,2008.0,sqft,3428.0,sqft,1977.0,2016,1,11,<built-in method weekday of Timestamp object at 0x10994b6d0>
+622,15193738,"400 Head St, San Francisco, CA",37714440,-122464169,0.7,False,2.0,1.0,1162.0,sqft,1742.0,sqft,1946.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10994b650>
+623,15193805,"270 Bright St, San Francisco, CA",37715614,-122463238,0.75,False,2.0,1.0,1010.0,sqft,2500.0,sqft,1928.0,2016,1,8,<built-in method weekday of Timestamp object at 0x10994b5d0>
+624,15193859,"265 Minerva St, San Francisco, CA",37715491,-122461202,0.659,False,2.0,1.5,967.0,sqft,3123.0,sqft,1940.0,2015,11,12,<built-in method weekday of Timestamp object at 0x10994b550>
+625,15194192,"169 Whipple Ave, San Francisco, CA",37711724,-122449278,0.8,False,3.0,1.0,1200.0,sqft,2495.0,sqft,1928.0,2015,11,27,<built-in method weekday of Timestamp object at 0x10994b4d0>
+626,15194725,"38 Sadowa St, San Francisco, CA",37712576,-122455284,0.72,False,3.0,2.5,1360.0,sqft,2250.0,sqft,1910.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10994b450>
+627,15194972,"174 Victoria St, San Francisco, CA",37713859,-122465018,0.72,False,3.0,1.0,984.0,sqft,2495.0,sqft,1940.0,2015,12,9,<built-in method weekday of Timestamp object at 0x10994b3d0>
+628,15195039,"154 Arch St, San Francisco, CA",37713502,-122466810,0.906667,False,5.0,3.0,1900.0,sqft,2613.0,sqft,1940.0,2015,12,24,<built-in method weekday of Timestamp object at 0x10994b350>
+629,15195183,"3916 Alemany Blvd, San Francisco, CA",37711527,-122467755,0.4,False,3.0,2.0,1300.0,sqft,2553.0,sqft,1941.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10994b2d0>
+630,15195221,"124 Saint Charles Ave, San Francisco, CA",37711739,-122469627,0.75,False,3.0,2.0,1305.0,sqft,3497.0,sqft,1938.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10994b250>
+631,15195552,"954 Huron Ave, San Francisco, CA",37709825,-122452818,0.635,False,1.0,1.0,805.0,sqft,2674.0,sqft,1908.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10994b1d0>
+632,15195675,"115 Sickles Ave, San Francisco, CA",37709197,-122453677,0.765,False,3.0,1.0,1750.0,sqft,1999.0,sqft,1913.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10994b150>
+633,15195679,"1088 Huron Ave # 1, San Francisco, CA",37708438,-122454570,0.486,False,1.0,1.0,596.0,sqft,,,1999.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10994b0d0>
+634,15195765,"293 Sagamore St, San Francisco, CA",37711133,-122461813,0.375,False,,3.0,1644.0,sqft,2631.0,sqft,1969.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10994b050>
+635,15195766,"297 Sagamore St, San Francisco, CA",37711162,-122462003,0.375,,,,,,,,,2015,12,4,<built-in method weekday of Timestamp object at 0x109946f50>
+636,15195952,"3089 San Jose Ave, San Francisco, CA",37709566,-122457217,0.625,False,,1.0,1050.0,sqft,1999.0,sqft,1938.0,2015,12,23,<built-in method weekday of Timestamp object at 0x109946ed0>
+637,15196060,"160 Goethe St, San Francisco, CA",37709267,-122459610,0.7,False,,1.0,1460.0,sqft,2495.0,sqft,1918.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109946e50>
+638,15196201,"130 Shakespeare St, San Francisco, CA",37708635,-122462835,1.0,False,7.0,14.0,1308.0,sqft,2500.0,sqft,2015.0,2015,12,23,<built-in method weekday of Timestamp object at 0x109946dd0>
+639,15196282,"33 Santa Cruz Ave # 3, San Francisco, CA",37709136,-122465327,0.83,False,3.0,3.0,1738.0,sqft,2299.0,sqft,1976.0,2015,12,10,<built-in method weekday of Timestamp object at 0x109946d50>
+640,15196397,"2955 21st Ave, San Francisco, CA",37733459,-122477272,1.45,False,3.0,3.0,2225.0,sqft,3920.0,sqft,1932.0,2015,11,16,<built-in method weekday of Timestamp object at 0x109946cd0>
+641,15196408,"2970 22nd Ave, San Francisco, CA",37733225,-122477613,1.9,False,5.0,4.0,2975.0,sqft,4356.0,sqft,1935.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109946c50>
+642,15196651,"3045 22nd Ave, San Francisco, CA",37731749,-122477793,1.17,False,2.0,1.0,1505.0,sqft,3349.0,sqft,1951.0,2015,12,31,<built-in method weekday of Timestamp object at 0x109946bd0>
+643,15196864,"20 Rossmoor Dr, San Francisco, CA",37730314,-122473000,1.45,False,3.0,2.5,2076.0,sqft,3311.0,sqft,1939.0,2015,12,4,<built-in method weekday of Timestamp object at 0x109946b50>
+644,15197241,"312 Stratford Dr, San Francisco, CA",37719559,-122473829,1.05,False,,1.0,1287.0,sqft,4342.0,sqft,1941.0,2015,12,4,<built-in method weekday of Timestamp object at 0x109946ad0>
+645,15197693,"87 Clearfield Dr, San Francisco, CA",37732345,-122491719,1.36,False,3.0,2.0,1386.0,sqft,3184.0,sqft,1951.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109946a50>
+646,15197823,"195 Clearfield Dr, San Francisco, CA",37729773,-122491161,0.675,False,3.0,2.5,1890.0,sqft,3135.0,sqft,1957.0,2015,12,1,<built-in method weekday of Timestamp object at 0x1099469d0>
+647,15197844,"114 Clearfield Dr, San Francisco, CA",37731595,-122491148,1.35,False,3.0,2.0,1790.0,sqft,3136.0,sqft,1951.0,2015,12,31,<built-in method weekday of Timestamp object at 0x109946950>
+648,15197869,"151 Everglade Dr, San Francisco, CA",37731504,-122489116,1.4,False,3.0,3.0,1858.0,sqft,3136.0,sqft,1950.0,2015,12,29,<built-in method weekday of Timestamp object at 0x1099468d0>
+649,15198105,"266 Country Club Dr, San Francisco, CA",37732595,-122496852,1.21,False,3.0,3.5,1466.0,sqft,3262.0,sqft,1952.0,2015,11,10,<built-in method weekday of Timestamp object at 0x109946850>
+650,15198208,"447 Country Club Dr, San Francisco, CA",37730962,-122495345,0.928,False,3.0,1.75,1050.0,sqft,3137.0,sqft,1954.0,2015,12,28,<built-in method weekday of Timestamp object at 0x1099467d0>
+651,15198845,"77 Amber Dr, San Francisco, CA",37745991,-122444872,0.015,False,3.0,3.5,1682.0,sqft,3567.0,sqft,1965.0,2015,12,24,<built-in method weekday of Timestamp object at 0x109946750>
+652,15198984,"5 Red Rock Way # 75, San Francisco, CA",37745980,-122442612,0.9,False,3.0,2.0,1310.0,sqft,,,1964.0,2015,12,18,<built-in method weekday of Timestamp object at 0x1099466d0>
+653,15199198,"215 Red Rock Way APT 306J, San Francisco, CA",37745639,-122442432,0.599,False,1.0,1.0,744.0,sqft,,,1972.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109946650>
+654,15199248,"135 Red Rock Way APT 112L, San Francisco, CA",37746221,-122441968,0.685,False,1.0,1.0,830.0,sqft,,,1972.0,2015,11,12,<built-in method weekday of Timestamp object at 0x1099465d0>
+655,15199271,"135 Red Rock Way APT 311L, San Francisco, CA",37746221,-122441966,0.605,False,1.0,1.0,830.0,sqft,,,1972.0,2015,12,9,<built-in method weekday of Timestamp object at 0x109946550>
+656,15199286,"95 Red Rock Way APT 202M, San Francisco, CA",37746339,-122441520,0.67,False,1.0,1.0,830.0,sqft,,,1972.0,2015,12,30,<built-in method weekday of Timestamp object at 0x1099464d0>
+657,15199299,"95 Red Rock Way APT 303M, San Francisco, CA",37746324,-122441517,0.53,True,,1.0,592.0,sqft,,,1972.0,2016,1,7,<built-in method weekday of Timestamp object at 0x109946450>
+658,15199562,"404 Gold Mine Dr, San Francisco, CA",37739284,-122438555,1.55,False,4.0,3.0,2271.0,sqft,2713.0,sqft,1967.0,2015,11,20,<built-in method weekday of Timestamp object at 0x1099463d0>
+659,15199573,"448 Gold Mine Dr, San Francisco, CA",37739244,-122437100,1.56,False,4.0,3.0,2200.0,sqft,2935.0,sqft,1968.0,2016,1,29,<built-in method weekday of Timestamp object at 0x109946350>
+660,15199947,"179 Topaz Way, San Francisco, CA",37740080,-122437123,2.38,False,4.0,4.5,3692.0,sqft,2821.0,sqft,1973.0,2015,11,23,<built-in method weekday of Timestamp object at 0x1099462d0>
+661,15200088,"2212 Castro St, San Francisco, CA",37743817,-122433688,3.6,False,4.0,4.0,4017.0,sqft,2622.0,sqft,2007.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109946250>
+662,15200247,"43 Everson St, San Francisco, CA",37738321,-122430068,2.35,False,6.0,3.5,4305.0,sqft,5227.0,sqft,1965.0,2015,11,10,<built-in method weekday of Timestamp object at 0x1099461d0>
+663,15200386,"232 Bemis St, San Francisco, CA",37736524,-122431895,1.08,False,2.0,1.0,1000.0,sqft,3497.0,sqft,1904.0,2015,12,22,<built-in method weekday of Timestamp object at 0x109946150>
+664,15200392,"288 Bemis St, San Francisco, CA",37736136,-122432406,1.45,False,2.0,2.0,1263.0,sqft,2613.0,sqft,1908.0,2015,11,16,<built-in method weekday of Timestamp object at 0x1099460d0>
+665,15200453,"5553 Diamond Heights Blvd, San Francisco, CA",37738774,-122436320,1.22,False,3.0,2.5,1890.0,sqft,2622.0,sqft,1969.0,2015,11,18,<built-in method weekday of Timestamp object at 0x109946050>
+666,15200513,"155 Arbor St, San Francisco, CA",37736967,-122437193,1.08,False,3.0,1.0,1550.0,sqft,2400.0,sqft,1937.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109972f50>
+667,19333808,"San Carlos St, Carmel, CA",37762245,-122420046,0.995,False,2.0,1.0,847.0,sqft,4000.0,sqft,1958.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109972ed0>
+668,21698704,"912 Corbett Ave # 2, San Francisco, CA",37752317,-122443923,1.48,False,3.0,2.0,1590.0,sqft,,,1999.0,2016,2,2,<built-in method weekday of Timestamp object at 0x109972e50>
+669,35972021,"1101 Pacific Ave, San Francisco, CA",37795912,-122413603,1.0,False,3.0,2.0,1458.0,sqft,4783.0,sqft,2000.0,2015,12,29,<built-in method weekday of Timestamp object at 0x109972dd0>
+670,35972022,"1101 Pacific Ave APT 302, San Francisco, CA",37795912,-122413603,1.0,False,2.0,2.0,1009.0,sqft,,,2000.0,2015,12,29,<built-in method weekday of Timestamp object at 0x109972d50>
+671,48188598,"2333 Jones St, San Francisco, CA",37802846,-122416772,1.18,False,,,1494.0,sqft,,,1927.0,2015,12,29,<built-in method weekday of Timestamp object at 0x109972cd0>
+672,52266124,"88 King St APT 317, San Francisco, CA",37780630,-122389635,1.16,False,2.0,2.0,1205.0,sqft,,,2000.0,2015,12,15,<built-in method weekday of Timestamp object at 0x109972c50>
+673,52422775,"219 Brannan St UNIT 1B, San Francisco, CA",37782575,-122390364,1.1,False,2.0,2.0,900.0,sqft,,,2000.0,2015,12,23,<built-in method weekday of Timestamp object at 0x109972bd0>
+674,52932794,"150 Grand View Ave, San Francisco, CA",37755505,-122440615,0.0005,,,,,,,,,2015,12,14,<built-in method weekday of Timestamp object at 0x109972b50>
+675,53153325,"10 Carmel St, San Francisco, CA",37761104,-122446788,2.38,False,4.0,5.5,1960.0,sqft,,,1915.0,2015,11,24,<built-in method weekday of Timestamp object at 0x109972ad0>
+676,53153496,"246 2nd St APT 803, San Francisco, CA",37785750,-122397404,1.23,False,2.0,2.0,1097.0,sqft,,,2000.0,2015,11,12,<built-in method weekday of Timestamp object at 0x109972a50>
+677,53153554,"301 Bryant St APT 504, San Francisco, CA",37784512,-122391427,0.1,False,,2.0,1239.0,sqft,,,1998.0,2015,12,1,<built-in method weekday of Timestamp object at 0x1099729d0>
+678,53153575,"88 King St APT 419, San Francisco, CA",37780630,-122389635,1.25,False,2.0,2.0,1115.0,sqft,,,2000.0,2015,11,16,<built-in method weekday of Timestamp object at 0x109972950>
+679,53734143,"2013 Buchanan St, San Francisco, CA",37788841,-122430713,1.99,False,3.0,2.0,2100.0,sqft,2328.0,sqft,1999.0,2015,12,4,<built-in method weekday of Timestamp object at 0x1099728d0>
+680,53734188,"2409 Scott St APT 2, San Francisco, CA",37792297,-122439897,1.32,False,1.0,1.0,1135.0,sqft,,,1904.0,2015,11,10,<built-in method weekday of Timestamp object at 0x109972850>
+681,53734200,"2864 Sacramento St, San Francisco, CA",37789343,-122440047,1.51,False,3.0,2.0,1768.0,sqft,,,1900.0,2015,12,10,<built-in method weekday of Timestamp object at 0x1099727d0>
+682,53734310,"313 2nd Ave APT 6, San Francisco, CA",37782643,-122460428,0.775,False,2.0,1.0,896.0,sqft,3049.0,sqft,1965.0,2015,11,19,<built-in method weekday of Timestamp object at 0x109972750>
+683,54487721,"1800 Bryant St STE 202, San Francisco, CA",37764088,-122410828,0.825,False,1.0,2.0,935.0,sqft,,,2000.0,2016,2,7,<built-in method weekday of Timestamp object at 0x1099726d0>
+684,54854296,"720 Stockton St APT 3, San Francisco, CA",37792578,-122407366,1.25,False,2.0,2.0,886.0,sqft,,,2001.0,2015,11,25,<built-in method weekday of Timestamp object at 0x109972650>
+685,54854510,"164A Parker Ave, San Francisco, CA",37782514,-122454028,1.16,False,2.0,1.0,1152.0,sqft,,,1917.0,2015,11,30,<built-in method weekday of Timestamp object at 0x1099725d0>
+686,54854511,"164B Parker Ave, San Francisco, CA",37782514,-122454028,1.21,False,2.0,1.0,1192.0,sqft,,,1917.0,2015,12,3,<built-in method weekday of Timestamp object at 0x109972550>
+687,55004355,"530 Chestnut St APT 407, San Francisco, CA",37804334,-122412450,1.18,False,2.0,2.0,1208.0,sqft,,,2001.0,2015,12,10,<built-in method weekday of Timestamp object at 0x1099724d0>
+688,58532731,"239 Brannan St UNIT 8C, San Francisco, CA",37782575,-122390364,1.7,False,2.0,2.0,1321.0,sqft,,,2002.0,2015,11,18,<built-in method weekday of Timestamp object at 0x109972450>
+689,58883369,"445 Francisco St APT 304, San Francisco, CA",37804334,-122412450,1.24,False,2.0,2.0,1243.0,sqft,,,2001.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10889a050>
+690,59700133,"557 Birch St, San Francisco, CA",37777827,-122425790,1.57,False,3.0,3.0,1635.0,sqft,1500.0,sqft,2001.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10889a0d0>
+691,59700145,"560 Haight St APT 102, San Francisco, CA",37772335,-122431370,1.18,False,2.0,2.0,1034.0,sqft,,,2001.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10889af50>
+692,59700177,"3583 Sacramento St, San Francisco, CA",37787372,-122451530,0.353,False,3.0,2.0,1420.0,sqft,,,1907.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10889aed0>
+693,59700180,"3316 California St APT 3, San Francisco, CA",37787260,-122449170,1.86,False,4.0,3.0,1779.0,sqft,,,2000.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10824fad0>
+694,59700193,"588 Arguello Blvd, San Francisco, CA",37779630,-122458510,1.21,False,2.0,1.0,1154.0,sqft,,,1940.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10824fa50>
+695,59700239,"1588 Waller St, San Francisco, CA",37768755,-122450275,0.888,False,2.0,1.0,1070.0,sqft,,,1908.0,2015,12,18,<built-in method weekday of Timestamp object at 0x1090744d0>
+696,59700333,"1 Mono St # B, San Francisco, CA",37758336,-122443411,1.08,False,2.0,1.5,1142.0,sqft,,,1968.0,2015,12,11,<built-in method weekday of Timestamp object at 0x109074750>
+697,59718417,"1451 Sanchez St, San Francisco, CA",37745862,-122428786,2.38,False,3.0,3.0,1960.0,sqft,,,2001.0,2015,12,2,<built-in method weekday of Timestamp object at 0x1090746d0>
+698,59779139,"2020 Stockton St, San Francisco, CA",37804563,-122409793,1.9,False,3.0,2.0,1786.0,sqft,,,1952.0,2015,12,7,<built-in method weekday of Timestamp object at 0x109091350>
+699,59779295,"2341 Francisco St, San Francisco, CA",37800533,-122443740,1.57,False,2.0,2.0,1415.0,sqft,,,1927.0,2015,11,16,<built-in method weekday of Timestamp object at 0x1088bc1d0>
+700,59779481,"2515 Lake St, San Francisco, CA",37785432,-122486556,1.56,False,3.0,3.0,2500.0,sqft,,,1936.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10887fd50>
+701,59779608,"1 Mono St # B, San Francisco, CA",37758340,-122443425,1.08,False,,,1142.0,sqft,,,1968.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10887fdd0>
+702,59779633,"1488 Harrison St APT 103, San Francisco, CA",37770933,-122412421,0.9,False,1.0,2.0,1102.0,sqft,,,2001.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10887fe50>
+703,59779666,"425 14th St APT 4, San Francisco, CA",37767836,-122422803,1.5,False,2.0,2.5,1328.0,sqft,,,2001.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10887fed0>
+704,59779827,"761 Tehama St APT 13, San Francisco, CA",37775009,-122411787,0.75,False,1.0,1.5,871.0,sqft,,,2001.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10887ff50>
+705,60825591,"77 Dow Pl APT 500, San Francisco, CA",37784195,-122396605,0.968,False,1.0,1.5,1092.0,sqft,,,2002.0,2016,1,5,<built-in method weekday of Timestamp object at 0x10887f650>
+706,61288341,"710 Masonic Ave, San Francisco, CA",37774719,-122445912,1.18,False,2.0,1.0,1405.0,sqft,,,1914.0,2015,12,4,<built-in method weekday of Timestamp object at 0x1082fc350>
+707,61288364,"439 19th Ave, San Francisco, CA",37779545,-122478580,1.0,False,3.0,2.0,1544.0,sqft,,,2001.0,2015,11,25,<built-in method weekday of Timestamp object at 0x1099723d0>
+708,61288416,"1800 San Jose Ave, San Francisco, CA",37728890,-122440467,0.3351,False,,1.0,695.0,sqft,,,2003.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109972350>
+709,61288454,"77 Dow Pl APT 507, San Francisco, CA",37784195,-122396605,0.95,False,1.0,2.0,1075.0,sqft,,,2002.0,2015,11,10,<built-in method weekday of Timestamp object at 0x1099722d0>
+710,61288494,"400 Alemany Blvd APT 12, San Francisco, CA",37733174,-122414551,0.65,False,2.0,1.5,1048.0,sqft,,,2003.0,2016,2,11,<built-in method weekday of Timestamp object at 0x109972250>
+711,61325028,"901 Post St # 2, San Francisco, CA",37787089,-122416761,0.885,False,3.0,2.0,1207.0,sqft,,,2002.0,2016,2,7,<built-in method weekday of Timestamp object at 0x1099721d0>
+712,61325240,"32 Yukon St, San Francisco, CA",37759138,-122442427,1.23,False,2.0,1.0,1119.0,sqft,,,1949.0,2015,12,2,<built-in method weekday of Timestamp object at 0x109972150>
+713,61325251,"18 Colonial Way APT 2, San Francisco, CA",37728700,-122440609,0.878,False,3.0,2.0,1640.0,sqft,,,2003.0,2016,1,21,<built-in method weekday of Timestamp object at 0x1099720d0>
+714,61325365,"1325 Indiana St UNIT 108, San Francisco, CA",37753680,-122390420,0.89,False,1.0,2.0,1121.0,sqft,,,2002.0,2015,12,1,<built-in method weekday of Timestamp object at 0x109972050>
+715,61325457,"400 Alemany Blvd APT 15, San Francisco, CA",37733174,-122414551,0.7,False,2.0,2.0,1048.0,sqft,,,2003.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10901e050>
+716,63107226,"3981 Alemany Blvd APT 206, San Francisco, CA",37710480,-122467645,0.515,False,1.0,1.0,670.0,sqft,,,2002.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10901e0d0>
+717,63153965,"163 Precita Ave, San Francisco, CA",37747528,-122417059,0.995,False,3.0,2.0,1290.0,sqft,,,1900.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10901e150>
+718,63196600,"2032 Green St # B, San Francisco, CA",37796779,-122432659,0.93,False,,1.0,950.0,sqft,,,1900.0,2015,12,8,<built-in method weekday of Timestamp object at 0x10901e1d0>
+719,63196937,"1265 Masonic Ave # C, San Francisco, CA",37769369,-122445536,1.41,False,2.0,2.0,1596.0,sqft,3453.0,sqft,1904.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10901e250>
+720,63197016,"555 Irving St, San Francisco, CA",37763934,-122463872,1.23,False,2.0,2.0,1229.0,sqft,,,2003.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10901e2d0>
+721,63197063,"4677 18th St, San Francisco, CA",37760155,-122442855,1.57,False,3.0,2.0,1718.0,sqft,,,1905.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10901e350>
+722,63197193,"3345 17th St APT 5, San Francisco, CA",37763146,-122420502,0.875,False,1.0,2.0,878.0,sqft,,,2002.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10901e3d0>
+723,63197318,"765 Market St APT 27B, San Francisco, CA",37786220,-122404310,1.42,False,1.0,1.1,1004.0,sqft,,,2001.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10901e450>
+724,63197354,"765 Market St APT 31H, San Francisco, CA",37786220,-122404310,2.8,False,2.0,3.0,1434.0,sqft,,,2001.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10901e4d0>
+725,63197592,"3021 20th St, San Francisco, CA",37758878,-122411147,1.1,False,1.0,2.0,1267.0,sqft,,,1890.0,2015,12,7,<built-in method weekday of Timestamp object at 0x10901e550>
+726,64969444,"140 S Van Ness Ave UNIT 619, San Francisco, CA",37771585,-122418825,0.98,False,2.0,2.0,1075.0,sqft,,,2002.0,2016,1,21,<built-in method weekday of Timestamp object at 0x10901e5d0>
+727,64969458,"320 Alabama St APT 11, San Francisco, CA",37765164,-122412750,1.6,False,3.0,2.5,1809.0,sqft,,,2003.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10901e650>
+728,64969751,"2412 Harrison St APT 104, San Francisco, CA",37758487,-122412814,1.35,False,2.0,3.0,1723.0,sqft,,,2002.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10901e6d0>
+729,64969822,"140 S Van Ness Ave UNIT 631, San Francisco, CA",37771585,-122418825,0.895,False,2.0,2.0,1075.0,sqft,,,2002.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10901e750>
+730,64969840,"140 S Van Ness Ave UNIT 746, San Francisco, CA",37771585,-122418825,0.906667,False,2.0,2.0,1255.0,sqft,,,2002.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10901e7d0>
+731,64969894,"140 S Van Ness Ave UNIT 1021, San Francisco, CA",37771585,-122418825,1.01,False,2.0,2.0,1160.0,sqft,,,2002.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10901e850>
+732,64969930,"2412 Harrison St APT 109, San Francisco, CA",37758487,-122412814,1.2,False,1.0,2.0,1309.0,sqft,,,2002.0,2015,11,12,<built-in method weekday of Timestamp object at 0x10901e8d0>
+733,64971338,"108 Cervantes Blvd, San Francisco, CA",37804352,-122439281,2.1,False,3.0,,1993.0,sqft,,,1935.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10901e950>
+734,64971339,"3466 Scott St, San Francisco, CA",37802104,-122441277,0.538,False,2.0,1.0,1371.0,sqft,,,1925.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10901e9d0>
+735,64971431,"527 Broderick St, San Francisco, CA",37775169,-122439907,1.82,False,3.0,3.0,1518.0,sqft,,,1900.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10901ea50>
+736,64971857,"1436 Vallejo St, San Francisco, CA",37797200,-122421035,1.21,False,,5.0,4554.0,sqft,1920.0,sqft,1925.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10901ead0>
+737,64972330,"499 33rd Ave APT 101, San Francisco, CA",37779990,-122493690,0.3,False,2.0,2.0,879.0,sqft,,,2004.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10901eb50>
+738,64972332,"499 33rd Ave APT 103, San Francisco, CA",37779990,-122493690,0.4,False,2.0,2.0,1375.0,sqft,,,2004.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10901ebd0>
+739,64972340,"499 33rd Ave APT 305, San Francisco, CA",37779990,-122493690,1.34,False,4.0,,2397.0,sqft,,,2004.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10901ec50>
+740,64972342,"499 33rd Ave APT 310, San Francisco, CA",37779990,-122493690,1.08,False,3.0,,1751.0,sqft,,,2004.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10901ecd0>
+741,64972578,"333 1st St PH 2103, San Francisco, CA",37787029,-122393638,1.03,False,1.0,1.0,713.0,sqft,,,2004.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10901ed50>
+742,64972644,"355 1st St UNIT S909, San Francisco, CA",37787031,-122393642,1.25,False,2.0,2.0,995.0,sqft,,,2004.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10901edd0>
+743,64972682,"355 1st St UNIT 1503, San Francisco, CA",37787029,-122393600,1.12,False,1.0,1.0,795.0,sqft,,,2004.0,2016,1,3,<built-in method weekday of Timestamp object at 0x10901ee50>
+744,64972688,"355 1st St UNIT 1602, San Francisco, CA",37787029,-122393638,1.5,False,2.0,2.0,1239.0,sqft,,,2004.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10901eed0>
+745,64972695,"355 1st St UNIT 1702, San Francisco, CA",37787029,-122393600,1.57,False,2.0,2.0,1166.0,sqft,,,2004.0,2016,1,7,<built-in method weekday of Timestamp object at 0x10901ef50>
+746,64972712,"355 1st St UNIT S1905, San Francisco, CA",37787031,-122393642,0.86,False,1.0,1.0,691.0,sqft,,,2004.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10829f050>
+747,64972881,"1 Crescent Way APT 1402, San Francisco, CA",37710850,-122390182,0.66,False,2.0,2.0,1063.0,sqft,,,2001.0,2015,12,31,<built-in method weekday of Timestamp object at 0x10829f0d0>
+748,64972890,"101 Crescent Way APT 2102, San Francisco, CA",37710918,-122389238,0.488,False,2.0,2.0,1063.0,sqft,,,2001.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10829f150>
+749,67394276,"400 Beale St APT 408, San Francisco, CA",37786910,-122390925,0.699,False,1.0,1.0,694.0,sqft,,,2002.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10829f1d0>
+750,67394607,"200 Townsend St UNIT 45, San Francisco, CA",37778904,-122393325,0.875,False,1.0,2.0,856.0,sqft,,,2003.0,2015,12,7,<built-in method weekday of Timestamp object at 0x10829f250>
+751,67394883,"380 10th St UNIT 27, San Francisco, CA",37771683,-122411809,1.15,False,2.0,2.0,1305.0,sqft,,,2004.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10829f2d0>
+752,67394898,"8300 Oceanview Ter APT 306, San Francisco, CA",37710480,-122467645,0.51,False,1.0,1.0,745.0,sqft,,,2002.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10829f350>
+753,67394949,"1452 Bush St UNIT 1, San Francisco, CA",37788838,-122421268,1.08,False,2.0,2.5,1176.0,sqft,,,2004.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10829f3d0>
+754,67395015,"8400 Oceanview Ter APT 218, San Francisco, CA",37710480,-122467645,0.542,False,1.0,1.0,700.0,sqft,,,2002.0,2015,12,21,<built-in method weekday of Timestamp object at 0x10829f450>
+755,69817329,"955 Excelsior Ave, San Francisco, CA",37722655,-122425573,1.15,False,4.0,4.0,2134.0,sqft,2495.0,sqft,2005.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10829f4d0>
+756,69817812,"9 Lafayette St # 3, San Francisco, CA",37773411,-122417548,0.975,False,2.0,2.0,1215.0,sqft,,,2003.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10829f550>
+757,69817917,"200 Brannan St APT 413, San Francisco, CA",37783594,-122390725,0.995,False,1.0,2.0,1048.0,sqft,,,2004.0,2016,1,4,<built-in method weekday of Timestamp object at 0x10829f5d0>
+758,69817944,"767 Bryant St, San Francisco, CA",37776359,-122401564,0.769,False,1.0,2.0,908.0,sqft,,,2002.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10829f650>
+759,69817953,"767 Bryant St APT 402, San Francisco, CA",37776359,-122401564,0.769,False,,,931.0,sqft,,,2002.0,2015,12,21,<built-in method weekday of Timestamp object at 0x10829f6d0>
+760,69817957,"767 Bryant St APT 407, San Francisco, CA",37776354,-122401570,0.769,False,1.0,2.0,908.0,sqft,,,2002.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10829f750>
+761,69818990,"3 Lupine Ave, San Francisco, CA",37784322,-122449645,1.75,False,3.0,2.0,1700.0,sqft,,,1950.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10829f7d0>
+762,69819284,"501 Beale St UNIT 9H, San Francisco, CA",37786235,-122389068,1.95,False,2.0,2.0,1161.0,sqft,,,2006.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10829f850>
+763,69819412,"250 King St UNIT 410, San Francisco, CA",37777645,-122393430,0.759,False,1.0,1.0,822.0,sqft,,,2004.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10829f8d0>
+764,69819469,"250 King St UNIT 1304, San Francisco, CA",37777645,-122393430,0.645,False,1.0,1.0,587.0,sqft,,,2004.0,2015,11,12,<built-in method weekday of Timestamp object at 0x10829f950>
+765,69819637,"260 King St UNIT 815, San Francisco, CA",37777641,-122393417,0.8,False,1.0,1.0,903.0,sqft,,,2004.0,2016,2,8,<built-in method weekday of Timestamp object at 0x10829f9d0>
+766,69819664,"260 King St UNIT 1205, San Francisco, CA",37777191,-122393394,1.48,False,2.0,2.0,1488.0,sqft,,,2004.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10829fa50>
+767,69819708,"260 King St UNIT 421, San Francisco, CA",37777641,-122393417,0.731,False,1.0,1.0,695.0,sqft,,,2004.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10829fad0>
+768,69819769,"260 King St UNIT 723, San Francisco, CA",37775996,-122394828,1.01,False,2.0,2.0,928.0,sqft,,,2004.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10829fb50>
+769,69819845,"260 King St UNIT 769, San Francisco, CA",37777191,-122393394,0.815,False,1.0,1.0,748.0,sqft,,,2004.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10829fbd0>
+770,69819930,"2311 Scott St APT 1, San Francisco, CA",37791370,-122439704,2.72,False,3.0,2.0,1986.0,sqft,,,1965.0,2015,12,29,<built-in method weekday of Timestamp object at 0x10829fc50>
+771,69820025,"270 Valencia St APT 503, San Francisco, CA",37768520,-122422592,0.89,False,2.0,1.0,747.0,sqft,,,2005.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10829fcd0>
+772,69820026,"270 Valencia St APT 505, San Francisco, CA",37768520,-122422592,0.89,False,1.0,1.0,657.0,sqft,,,2005.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10829fd50>
+773,69820035,"760 Treat Ave # 1, San Francisco, CA",37757970,-122413821,1.53,False,3.0,2.0,1275.0,sqft,,,1900.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10829fdd0>
+774,71713698,"50 Lansing St UNIT 201, San Francisco, CA",37786148,-122394291,1.2,False,2.0,2.0,1202.0,sqft,,,2006.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10829fe50>
+775,72547405,"35 Lakeshore Ct, Richmond, CA",37733787,-122490486,0.26,False,1.0,1.0,549.0,sqft,,,1991.0,2016,1,19,<built-in method weekday of Timestamp object at 0x10829fed0>
+776,72549972,"15 Lakeshore Ct, Richmond, CA",37731563,-122494537,0.349,False,2.0,1.0,869.0,sqft,,,1991.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10829ff50>
+777,72554809,"209 Lakeshore Ct, Richmond, CA",37729995,-122497001,0.23,False,1.0,1.0,549.0,sqft,,,1991.0,2016,1,8,<built-in method weekday of Timestamp object at 0x10829e050>
+778,79841177,"350 Broderick St APT 226, San Francisco, CA",37773649,-122438870,1.09,False,2.0,2.0,928.0,sqft,,,2007.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10829e0d0>
+779,79841585,"38 Belcher St APT 2, San Francisco, CA",37768651,-122430499,1.1,False,2.0,1.0,862.0,sqft,,,,2015,11,20,<built-in method weekday of Timestamp object at 0x10829e150>
+780,79841626,"6542 Fulton St, San Francisco, CA",37771905,-122502038,0.8,False,2.0,1.0,994.0,sqft,,,1937.0,2015,12,8,<built-in method weekday of Timestamp object at 0x10829e1d0>
+781,79843553,"1015 Ashbury St APT 2, San Francisco, CA",37764320,-122446342,1.35,False,2.0,2.0,1252.0,sqft,,,1913.0,2016,2,4,<built-in method weekday of Timestamp object at 0x10829e250>
+782,79843912,"1327 Cabrillo St, San Francisco, CA",37774707,-122472938,1.28,False,3.0,1.0,1755.0,sqft,,,1922.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10829e2d0>
+783,79844263,"555 4th St, San Francisco, CA",37779422,-122396712,0.788,False,1.0,1.0,670.0,sqft,1.0,ac,2006.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10829e350>
+784,79844821,"638 19th St UNIT 10, San Francisco, CA",37762084,-122389007,1.52,False,3.0,2.5,1467.0,sqft,,,2007.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10829e3d0>
+785,79845444,"988 Fulton St APT 326, San Francisco, CA",37778057,-122432510,0.555,False,1.0,1.0,417.0,sqft,,,1999.0,2016,1,28,<built-in method weekday of Timestamp object at 0x10829e450>
+786,79846075,"1562 22nd St, San Francisco, CA",37757671,-122396586,1.67,False,3.0,2.0,2542.0,sqft,,,2006.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10829e4d0>
+787,79846566,"199 Tiffany Ave APT 202, San Francisco, CA",37744274,-122421340,1.19,False,2.0,2.0,1118.0,sqft,,,2004.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10829e550>
+788,79846666,"555 4th St UNIT 513, San Francisco, CA",37779422,-122396712,1.18,False,2.0,2.0,1177.0,sqft,,,2006.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10829e5d0>
+789,79846985,"555 4th St UNIT 728, San Francisco, CA",37779048,-122397178,0.788,False,1.0,1.0,671.0,sqft,,,2006.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10829e650>
+790,80730869,"260 King St UNIT 817, San Francisco, CA",37777191,-122393394,0.75,False,,1.0,759.0,sqft,,,2004.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10829e6d0>
+791,80730989,"2002 3rd St APT 212, San Francisco, CA",37763988,-122389167,1.1,False,2.0,2.0,1358.0,sqft,,,2002.0,2016,1,22,<built-in method weekday of Timestamp object at 0x10829e750>
+792,80731709,"35 Lucerne St # C, San Francisco, CA",37773727,-122401537,0.969,False,,,1446.0,sqft,,,1997.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10829e7d0>
+793,80731986,"59 Rodgers St # B, San Francisco, CA",37775070,-122408775,0.8,False,1.0,1.0,800.0,sqft,,,2000.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10829e850>
+794,80732028,"83 Lafayette St APT 4, San Francisco, CA",37772805,-122416538,0.76,False,1.0,1.0,1008.0,sqft,,,1993.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10829e8d0>
+795,80732173,"2080 3rd St APT 8, San Francisco, CA",37763302,-122389100,0.875,False,1.0,2.0,998.0,sqft,,,1998.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10829e950>
+796,80732939,"125 Gilbert St APT 17, San Francisco, CA",37773223,-122401916,0.875,False,1.0,1.5,1047.0,sqft,,,1996.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10829e9d0>
+797,80734665,"142 Russ St STE 5, San Francisco, CA",37778152,-122407806,1.48,False,2.0,2.0,2198.0,sqft,,,1999.0,2015,12,20,<built-in method weekday of Timestamp object at 0x10829ea50>
+798,80735046,"260 King St UNIT 703, San Francisco, CA",37777191,-122393394,1.27,False,2.0,2.0,1286.0,sqft,,,2004.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10829ead0>
+799,80735111,"188 Minna St APT 28B, San Francisco, CA",37786289,-122401374,2.85,False,2.0,2.5,1740.0,sqft,,,2005.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10829eb50>
+800,80735775,"650 Delancey St APT 203, San Francisco, CA",37782775,-122389686,2.17,False,2.0,2.0,1619.0,sqft,,,1996.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10829ebd0>
+801,80736058,"720 York St UNIT 201, San Francisco, CA",37759831,-122409205,0.9,False,1.0,1.0,867.0,sqft,,,1999.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10829ec50>
+802,80737517,"303 Langton St # 2, San Francisco, CA",37773690,-122404988,0.85,False,2.0,1.5,1220.0,sqft,,,1997.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10829ecd0>
+803,80738064,"761 Tehama St APT 1, San Francisco, CA",37775009,-122411787,0.75,False,2.0,2.0,1401.0,sqft,,,2001.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10829ed50>
+804,80738317,"650 Delancey St APT 109, San Francisco, CA",37782577,-122389991,1.95,False,,2.0,1554.0,sqft,,,1996.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10829edd0>
+805,80738981,"400 Beale St APT 1308, San Francisco, CA",37786910,-122390925,0.00365,False,1.0,1.0,680.0,sqft,,,2002.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10829ee50>
+806,80741376,"1310 Minnesota St # 29, San Francisco, CA",37753700,-122390068,1.12,False,1.0,2.0,1000.0,sqft,,,2002.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10829eed0>
+807,80741391,"340 6th St UNIT 303, San Francisco, CA",37777801,-122405227,0.0057,False,,,2176.0,sqft,4500.0,sqft,1997.0,2015,12,31,<built-in method weekday of Timestamp object at 0x10829ef50>
+808,80742238,"2002 3rd St APT 213, San Francisco, CA",37763988,-122389167,1.1,False,2.0,2.0,1354.0,sqft,,,2002.0,2015,12,29,<built-in method weekday of Timestamp object at 0x10832f050>
+809,80742310,"400 Beale St APT 1407, San Francisco, CA",37786910,-122390925,1.05,False,2.0,2.0,1102.0,sqft,,,2001.0,2015,12,31,<built-in method weekday of Timestamp object at 0x10832f0d0>
+810,80743040,"188 S Park St APT 6, San Francisco, CA",37781016,-122395070,1.48,False,3.0,2.5,1456.0,sqft,,,2002.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10832f150>
+811,80744434,"950 Harrison St UNIT 101, San Francisco, CA",37778388,-122403190,0.98,False,3.0,2.0,1642.0,sqft,,,2000.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10832f1d0>
+812,80745091,"199 New Montgomery St UNIT 1009, San Francisco, CA",37786632,-122399101,0.908,False,1.0,1.0,702.0,sqft,,,2004.0,2016,2,3,<built-in method weekday of Timestamp object at 0x10832f250>
+813,80746381,"400 Beale St APT 2506, San Francisco, CA",37786910,-122390925,1.2,False,2.0,2.0,1215.0,sqft,,,2002.0,2015,12,28,<built-in method weekday of Timestamp object at 0x10832f2d0>
+814,80746693,"142 Russ St APT 4, San Francisco, CA",37778152,-122407806,1.73,False,3.0,2.5,2326.0,sqft,,,1999.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10832f350>
+815,80747397,"175 Russ St APT 14, San Francisco, CA",37778156,-122406990,1.19,False,,,1361.0,sqft,,,2003.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10832f3d0>
+816,80747693,"1050 N Point St APT 1606, San Francisco, CA",37805426,-122424814,1.35,False,2.0,2.0,,,,,1963.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10832f450>
+817,80748857,"999 16th St APT 17, San Francisco, CA",37766197,-122396560,0.82,False,1.0,1.5,1140.0,sqft,,,1998.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10832f4d0>
+818,80749447,"199 New Montgomery St UNIT 1201, San Francisco, CA",37786632,-122399101,1.15,False,2.0,2.0,971.0,sqft,,,2004.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10832f550>
+819,80749465,"16 Jennifer Pl, San Francisco, CA",37780017,-122402328,0.95,False,2.0,,1367.0,sqft,,,2000.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10832f5d0>
+820,80750153,"1099 23rd St APT 1, San Francisco, CA",37755009,-122390599,0.801,False,1.0,2.0,687.0,sqft,,,2000.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10832f650>
+821,80750787,"370 De Haro St # TB3, San Francisco, CA",37765460,-122402137,1.12,False,1.0,2.0,1180.0,sqft,,,1999.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10832f6d0>
+822,80751734,"300 Beale St APT 504, San Francisco, CA",37788139,-122392578,0.75,False,1.0,1.0,754.0,sqft,,,1937.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10832f750>
+823,80752101,"60 Rausch St APT 401, San Francisco, CA",37776125,-122409677,1.88,False,3.0,2.5,1703.0,sqft,,,2002.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10832f7d0>
+824,80755226,"2600 18th St STE 22, San Francisco, CA",37762136,-122408479,1.25,False,2.0,2.0,1662.0,sqft,,,1999.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10832f850>
+825,80755560,"725 Tehama St UNIT 4, San Francisco, CA",37775283,-122411440,1.23,False,2.0,2.0,1599.0,sqft,,,2000.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10832f8d0>
+826,80756614,"1011 23rd St APT 2, San Francisco, CA",37755031,-122390251,0.925,False,2.0,1.5,1223.0,sqft,,,2000.0,2016,1,21,<built-in method weekday of Timestamp object at 0x10832f950>
+827,82785286,"181 Ofarrell St STE 514, San Francisco, CA",37786190,-122407630,0.978,False,1.0,1.5,1080.0,sqft,,,2006.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10832f9d0>
+828,82785479,"750 Van Ness Ave # V704, San Francisco, CA",37782379,-122420166,0.495,True,,1.0,395.0,sqft,,,2008.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10832fa50>
+829,82785514,"1394 Mcallister St, San Francisco, CA",37778463,-122434933,2.1,False,3.0,2.5,2300.0,sqft,,,1890.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10832fad0>
+830,82785630,"753 Baker St, San Francisco, CA",37778031,-122442157,1.2,False,2.0,1.0,1444.0,sqft,,,1900.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10832fb50>
+831,82785876,"1160 Mission St UNIT 904, San Francisco, CA",37778705,-122412635,0.79,False,1.0,1.0,765.0,sqft,,,2008.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10832fbd0>
+832,82785952,"2 Mint Plz STE 401, San Francisco, CA",37783241,-122407350,1.25,False,2.0,2.0,1245.0,sqft,,,2009.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10832fc50>
+833,82785995,"1234 Howard St # 2B3, San Francisco, CA",37775993,-122412506,0.96,False,1.0,1.0,888.0,sqft,,,2007.0,2015,11,23,<built-in method weekday of Timestamp object at 0x10832fcd0>
+834,82786028,"425 1st St UNIT 802, San Francisco, CA",37786041,-122392654,1.34,False,2.0,2.0,1309.0,sqft,,,2008.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10832fd50>
+835,82786211,"310 Townsend St APT 311, San Francisco, CA",37777027,-122395736,0.9,False,1.0,1.0,853.0,sqft,,,2006.0,2015,12,8,<built-in method weekday of Timestamp object at 0x10832fdd0>
+836,82816304,"1264 Noe St, San Francisco, CA",37748729,-122431892,1.25,False,2.0,1.0,1078.0,sqft,,,1910.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10832fe50>
+837,83152921,"177 Townsend St UNIT 527, San Francisco, CA",37778980,-122391754,1.3,False,2.0,2.0,1019.0,sqft,,,2007.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10832fed0>
+838,83153276,"964 Potrero Ave, San Francisco, CA",37756742,-122407035,0.69,False,,1.0,1130.0,sqft,,,1906.0,2015,11,12,<built-in method weekday of Timestamp object at 0x10832ff50>
+839,83154048,"55 Page St APT 415, San Francisco, CA",37773891,-122421875,0.895,False,1.0,1.0,750.0,sqft,,,2008.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10832e050>
+840,83154302,"888 7th St UNIT 308, San Francisco, CA",37770378,-122401062,0.325,False,1.0,1.0,537.0,sqft,,,2008.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10832e0d0>
+841,89228573,"901 Bush St APT 307, San Francisco, CA",37789520,-122412277,0.665,False,1.0,1.0,477.0,sqft,,,1909.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10832e150>
+842,89236680,"1816 Castro St, San Francisco, CA",37747035,-122433868,0.85,False,2.0,1.0,884.0,sqft,,,1918.0,2016,2,2,<built-in method weekday of Timestamp object at 0x10832e1d0>
+843,89236772,"36 Heather Ave, San Francisco, CA",37785161,-122452628,0.81,False,1.0,1.0,906.0,sqft,,,1949.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10832e250>
+844,89236856,"1049 Dolores St APT 4, San Francisco, CA",37752658,-122424819,1.27,False,2.0,1.0,904.0,sqft,,,1960.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10832e2d0>
+845,89237493,"425 1st St UNIT 4905, San Francisco, CA",37786064,-122392173,1.01,False,1.0,1.0,710.0,sqft,,,2008.0,2015,12,31,<built-in method weekday of Timestamp object at 0x10832e350>
+846,89237721,"301 Main St # T28F, San Francisco, CA",37789333,-122391698,2.2,False,2.0,2.0,1323.0,sqft,,,2008.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10832e3d0>
+847,89237766,"451 Kansas St UNIT 448, San Francisco, CA",37764114,-122402984,1.16,False,2.0,2.5,1030.0,sqft,,,2007.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10832e450>
+848,89237920,"122 Maynard St, San Francisco, CA",37729094,-122427690,0.0105,False,5.0,5.0,2700.0,sqft,2750.0,sqft,2009.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10832e4d0>
+849,89237930,"333 Main St # IT8H, San Francisco, CA",37788944,-122391075,0.972,False,1.0,1.0,835.0,sqft,,,2008.0,2015,12,8,<built-in method weekday of Timestamp object at 0x10832e550>
+850,89238065,"338 Spear St UNIT 5J, San Francisco, CA",37789533,-122390371,1.05,False,1.0,1.0,1021.0,sqft,,,2009.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10832e5d0>
+851,89238087,"425 1st St UNIT 4801, San Francisco, CA",37786933,-122393769,0.481,False,1.0,1.0,837.0,sqft,,,2008.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10832e650>
+852,89238407,"631 Folsom St APT 12B, San Francisco, CA",37784713,-122396873,1.27,False,2.0,2.0,1054.0,sqft,,,2009.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10832e6d0>
+853,89238425,"1326 Lyon St, San Francisco, CA",37783218,-122444229,0.945,False,2.0,1.5,1300.0,sqft,,,1906.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10832e750>
+854,89238591,"6 Mint Plz APT 601A, San Francisco, CA",37783080,-122407541,0.84,False,1.0,1.0,606.0,sqft,,,1900.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10832e7d0>
+855,89238700,"1521 Sutter St APT 304, San Francisco, CA",37786731,-122425918,1.09,False,2.0,2.0,1098.0,sqft,,,2008.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10832e850>
+856,89239104,"301 Main St # IT5C, San Francisco, CA",37789333,-122391698,2.3,False,2.0,2.0,1752.0,sqft,,,2008.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10832e8d0>
+857,89239155,"1501 Greenwich St UNIT 403, San Francisco, CA",37800064,-122424682,0.0195,False,2.0,2.0,1115.0,sqft,,,2008.0,2015,12,8,<built-in method weekday of Timestamp object at 0x10832e950>
+858,89239433,"383 Missouri St, San Francisco, CA",37761581,-122396117,1.31,False,2.0,1.0,1625.0,sqft,,,1904.0,2016,1,10,<built-in method weekday of Timestamp object at 0x10832e9d0>
+859,89239580,"690 Market St UNIT 1705, San Francisco, CA",37788246,-122403198,1.05,False,2.0,2.0,1050.0,sqft,,,2007.0,2015,11,23,<built-in method weekday of Timestamp object at 0x10832ea50>
+860,89239642,"349 Frederick St, San Francisco, CA",37766586,-122449058,1.52,False,3.0,2.5,2084.0,sqft,,,1900.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10832ead0>
+861,89239815,"472 12th Ave, San Francisco, CA",37779371,-122470275,1.25,False,2.0,1.0,1508.0,sqft,,,1931.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10832eb50>
+862,89239837,"338 Spear St UNIT 10B, San Francisco, CA",37789533,-122390371,1.48,False,2.0,2.0,1316.0,sqft,,,2009.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10832ebd0>
+863,89239862,"901 Bush St APT 203, San Francisco, CA",37789520,-122412277,0.635,False,,,429.0,sqft,,,1909.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10832ec50>
+864,89240177,"451 Kansas St UNIT 631, San Francisco, CA",37764080,-122403289,1.15,False,2.0,2.0,928.0,sqft,,,2007.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10832ecd0>
+865,89240293,"338 Spear St UNIT 4C, San Francisco, CA",37789533,-122390371,0.949,False,1.0,1.0,799.0,sqft,,,2009.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10832ed50>
+866,89240297,"733 Front St UNIT 509, San Francisco, CA",37798027,-122400093,1.2,False,1.0,1.0,890.0,sqft,,,2007.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10832edd0>
+867,89240348,"338 Spear St UNIT 39A, San Francisco, CA",37789533,-122390371,2.75,False,2.0,2.0,1300.0,sqft,,,2009.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10832ee50>
+868,89240438,"6 Mint Plz APT 702A, San Francisco, CA",37783080,-122407541,2.55,False,3.0,3.0,1670.0,sqft,,,1900.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10832eed0>
+869,89240616,"301 Main St # T23C, San Francisco, CA",37789333,-122391698,1.43,False,1.0,1.0,809.0,sqft,,,2008.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10832ef50>
+870,94976253,"330 Berry St UNIT 506, San Francisco, CA",37773529,-122396743,0.1125,False,2.0,2.0,903.0,sqft,,,2009.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10832d050>
+871,96013386,"4056 18th St, San Francisco, CA",37761173,-122434059,1.23,False,3.0,1.0,1659.0,sqft,,,1901.0,2016,2,3,<built-in method weekday of Timestamp object at 0x10832d0d0>
+872,96018886,"300 Berry St UNIT 1212, San Francisco, CA",37773929,-122396240,1.23,False,2.0,2.0,966.0,sqft,,,2009.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10832d150>
+873,96023008,"397 Valley St, San Francisco, CA",37744121,-122430900,1.12,False,2.0,1.0,931.0,sqft,,,1950.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10832d1d0>
+874,96043590,"300 Berry St UNIT 720, San Francisco, CA",37773929,-122396240,0.72,False,1.0,1.0,659.0,sqft,,,2008.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10832d250>
+875,96048518,"16 Orizaba Ave, San Francisco, CA",37709894,-122462280,1.3,False,6.0,6.0,4136.0,sqft,2613.0,sqft,2010.0,2015,12,9,<built-in method weekday of Timestamp object at 0x10832d2d0>
+876,111710714,"723 Taylor St # 501, San Francisco, CA",37789192,-122412231,0.798,False,1.0,1.0,677.0,sqft,,,2010.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10832d350>
+877,111711124,"2125 Bryant St APT 5, San Francisco, CA",37760113,-122409928,1.38,False,2.0,2.0,1240.0,sqft,,,2009.0,2015,11,17,<built-in method weekday of Timestamp object at 0x10832d3d0>
+878,111711143,"2125 Bryant St APT 117, San Francisco, CA",37760177,-122409790,1.34,False,2.0,2.0,1328.0,sqft,,,2009.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10832d450>
+879,111711144,"2125 Bryant St APT 118, San Francisco, CA",37760113,-122409928,1.45,False,2.0,2.5,1392.0,sqft,,,2009.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10832d4d0>
+880,111926288,"2548 Hyde St, San Francisco, CA",37804429,-122420036,1.53,False,3.0,1.5,1362.0,sqft,,,1908.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10832d550>
+881,111930969,"860 Waller St APT 2, San Francisco, CA",37770488,-122437927,1.23,False,2.0,1.0,,,,,,2015,11,18,<built-in method weekday of Timestamp object at 0x10832d5d0>
+882,111931130,"860 Waller St APT 1, San Francisco, CA",37770488,-122437927,1.28,False,2.0,2.0,1105.0,sqft,,,,2015,12,3,<built-in method weekday of Timestamp object at 0x10832d650>
+883,111932542,"1355 Pacific Ave UNIT 403, San Francisco, CA",37795295,-122417541,1.23,False,1.0,1.0,880.0,sqft,,,2010.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10832d6d0>
+884,111934546,"301 Mission St APT 25B, San Francisco, CA",37790542,-122395919,1.05,False,1.0,1.0,668.0,sqft,,,2009.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10832d750>
+885,114314023,"156 Mary Teresa St, San Francisco, CA",37713792,-122398735,0.8,False,2.0,2.0,1207.0,sqft,,,2008.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10832d7d0>
+886,114317753,"301 Mission St APT 30F, San Francisco, CA",37790542,-122395927,2.4,False,2.0,2.0,1601.0,sqft,,,2009.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10832d850>
+887,114318108,"1442 Grove St # A, San Francisco, CA",37775894,-122440467,0.675,False,1.0,1.0,593.0,sqft,,,1890.0,2015,12,24,<built-in method weekday of Timestamp object at 0x10832d8d0>
+888,115828655,"480 Mission Bay Blvd N UNIT 614, San Francisco, CA",37771155,-122389034,1.0,False,1.0,1.0,928.0,sqft,,,2012.0,2015,12,15,<built-in method weekday of Timestamp object at 0x10832d950>
+889,115828679,"480 Mission Bay Blvd N UNIT 809, San Francisco, CA",37771155,-122389034,1.43,False,2.0,2.0,1261.0,sqft,,,2012.0,2015,12,16,<built-in method weekday of Timestamp object at 0x10832d9d0>
+890,116089863,"435 China Basin St UNIT 619, San Francisco, CA",37771587,-122388458,1.49,False,2.0,2.0,1236.0,sqft,,,2012.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10832da50>
+891,116155848,"435 China Basin St UNIT 439, San Francisco, CA",37771587,-122388458,1.77,False,3.0,2.0,1542.0,sqft,,,2012.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10832dad0>
+892,116156565,"487 Grove St, San Francisco, CA",37777613,-122424469,1.23,False,2.0,1.0,1076.0,sqft,,,1908.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10832db50>
+893,116157065,"356 20th Ave, San Francisco, CA",37781204,-122479389,1.65,False,4.0,3.0,2256.0,sqft,,,2010.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10832dbd0>
+894,116157280,"830 Alabama St # B, San Francisco, CA",37758160,-122411765,1.37,False,3.0,2.0,1853.0,sqft,,,1900.0,2016,1,24,<built-in method weekday of Timestamp object at 0x10832dc50>
+895,116157304,"1480 Golden Gate Ave, San Francisco, CA",37779426,-122434875,1.81,False,4.0,2.5,2151.0,sqft,,,1900.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10832dcd0>
+896,117672217,"1840 Washington St APT 603, San Francisco, CA",37793212,-122423744,1.05,False,1.0,1.0,837.0,sqft,,,2012.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10832dd50>
+897,119584658,"89 Montana St, San Francisco, CA",37716415,-122455688,1.26,False,4.0,4.5,3140.0,sqft,,,2012.0,2015,12,29,<built-in method weekday of Timestamp object at 0x10832ddd0>
+898,119684777,"967 Hayes St, San Francisco, CA",37775645,-122432222,1.95,False,4.0,3.0,3006.0,sqft,,,1885.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10832de50>
+899,119684869,"5900 3rd St UNIT 2219, San Francisco, CA",37725337,-122399307,0.68,False,2.0,2.0,1011.0,sqft,,,2010.0,2015,11,20,<built-in method weekday of Timestamp object at 0x10832ded0>
+900,119685041,"1383 Natoma St, San Francisco, CA",37767116,-122418251,1.1,False,3.0,1.0,1424.0,sqft,,,1909.0,2015,11,18,<built-in method weekday of Timestamp object at 0x10832df50>
+901,119685045,"2828 Polk St, San Francisco, CA",37802829,-122423092,1.65,False,2.0,2.0,1325.0,sqft,,,1941.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10832c050>
+902,119685072,"574 Natoma St APT 302, San Francisco, CA",37779014,-122409446,0.478,True,,1.0,370.0,sqft,,,2012.0,2015,11,12,<built-in method weekday of Timestamp object at 0x10832c0d0>
+903,119685188,"1902A Filbert St, San Francisco, CA",37798831,-122431053,0.95,False,1.0,2.0,1000.0,sqft,,,1920.0,2015,11,12,<built-in method weekday of Timestamp object at 0x10832c150>
+904,119685425,"235 Waller St APT 5, San Francisco, CA",37771232,-122427551,0.615,,,,,,,,,2015,11,12,<built-in method weekday of Timestamp object at 0x10832c1d0>
+905,119685503,"829 Folsom St UNIT 412, San Francisco, CA",37781154,-122401649,0.75,False,,,634.0,sqft,,,2010.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10832c250>
+906,119685526,"1902 Filbert St, San Francisco, CA",37798831,-122431053,0.825,False,1.0,2.0,1000.0,sqft,,,1920.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10832c2d0>
+907,119685556,"5800 3rd St UNIT 1401, San Francisco, CA",37725337,-122399307,0.585,False,1.0,1.0,816.0,sqft,,,2010.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10832c350>
+908,119685619,"23 Rodgers St, San Francisco, CA",37775309,-122409205,0.625,False,1.0,1.0,538.0,sqft,,,1908.0,2015,12,21,<built-in method weekday of Timestamp object at 0x10832c3d0>
+909,119685789,"1268 Dolores St, San Francisco, CA",37749056,-122425024,1.44,False,2.0,2.0,1850.0,sqft,,,2012.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10832c450>
+910,119685912,"977 Guerrero St, San Francisco, CA",37755558,-122422897,2.0,False,2.0,1.0,1440.0,sqft,,,1900.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10832c4d0>
+911,119685946,"281 Clinton Park, San Francisco, CA",37768856,-122426261,1.3,False,3.0,1.0,1532.0,sqft,,,1916.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10832c550>
+912,121336978,"315 Moraga St, San Francisco, CA",37756514,-122466064,1.67,False,3.0,3.0,1942.0,sqft,,,2012.0,2015,11,19,<built-in method weekday of Timestamp object at 0x10832c5d0>
+913,121337574,"315 Arlington St, San Francisco, CA",37736404,-122427276,1.0,False,2.0,1.0,1147.0,sqft,,,1910.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10832c650>
+914,122063856,"1268 Lombard St # 2, San Francisco, CA",37801884,-122422424,3.19,False,3.0,2.0,1860.0,sqft,,,2013.0,2015,12,23,<built-in method weekday of Timestamp object at 0x10832c6d0>
+915,122063937,"724 Masonic Ave, San Francisco, CA",37774445,-122445869,1.28,False,2.0,1.0,1236.0,sqft,,,1912.0,2015,11,13,<built-in method weekday of Timestamp object at 0x10832c750>
+916,122245120,"55 Alvarado St, San Francisco, CA",37754366,-122422347,1.22,False,2.0,1.0,994.0,sqft,,,1906.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10832c7d0>
+917,122246414,"1 Hawthorne St UNIT 22E, San Francisco, CA",37785770,-122398872,1.55,False,2.0,2.0,1241.0,sqft,,,2010.0,2015,12,24,<built-in method weekday of Timestamp object at 0x10832c850>
+918,123174799,"1080 Sutter St APT 1003, San Francisco, CA",37788066,-122418065,0.77,False,2.0,1.0,753.0,sqft,,,2013.0,2015,11,25,<built-in method weekday of Timestamp object at 0x10832c8d0>
+919,123174904,"1080 Sutter St APT 1001, San Francisco, CA",37788066,-122418065,1.45,False,3.0,2.0,1273.0,sqft,,,2014.0,2015,12,18,<built-in method weekday of Timestamp object at 0x10832c950>
+920,123596761,"643 Natoma St, San Francisco, CA",37777526,-122410789,0.875,False,2.0,1.0,830.0,sqft,,,1910.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10832c9d0>
+921,123597223,"1954 Golden Gate Ave, San Francisco, CA",37778246,-122442763,1.1,False,2.0,1.0,1275.0,sqft,,,1895.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10832ca50>
+922,123597388,"667 Shotwell St # A, San Francisco, CA",37757851,-122415629,0.775,False,1.0,1.0,1212.0,sqft,,,1890.0,2016,2,10,<built-in method weekday of Timestamp object at 0x10832cad0>
+923,123597964,"829 Folsom St UNIT 906, San Francisco, CA",37781154,-122401649,0.675,False,,,557.0,sqft,,,2010.0,2015,12,7,<built-in method weekday of Timestamp object at 0x10832cb50>
+924,123598014,"380 14th St APT 507, San Francisco, CA",37768220,-122421779,0.9495,False,2.0,2.0,,,,,2012.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10832cbd0>
+925,124397844,"2200 Market St APT 205, San Francisco, CA",37765724,-122431383,1.32,False,2.0,2.0,1120.0,sqft,,,2014.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10832cc50>
+926,124397860,"2200 Market St APT 202, San Francisco, CA",37765724,-122431383,0.995,False,1.0,1.5,916.0,sqft,,,2014.0,2015,12,8,<built-in method weekday of Timestamp object at 0x10832ccd0>
+927,124426156,"2175 Quesada Ave #V, San Francisco, CA",37738178,-122400512,0.22,,,,,,2495.0,sqft,1900.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10832cd50>
+928,124850278,"8 Octavia St UNIT 401, San Francisco, CA",37772548,-122423362,0.985,False,2.0,2.0,968.0,sqft,,,2014.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10832cdd0>
+929,124852113,"501 Noriega St # V, San Francisco, CA",37754997,-122469024,0.825,,,,,,3201.0,sqft,1900.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10832ce50>
+930,124852223,"534 Leland Ave #V, San Francisco, CA",37714721,-122414497,0.288,,,,,,2495.0,sqft,1900.0,2015,11,12,<built-in method weekday of Timestamp object at 0x10832ced0>
+931,124857832,"298 Bemis St # V, San Francisco, CA",37736217,-122432525,1.45,,,,,,2031.0,sqft,1900.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10832cf50>
+932,124862135,"8 Octavia St, San Francisco, CA",37772548,-122423362,0.6845,False,2.0,2.0,1001.0,sqft,,,2014.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10832b050>
+933,124865970,"255 Woodside Ave, San Francisco, CA",37746208,-122454769,24.9,,,,,,1.1,ac,1900.0,2015,11,16,<built-in method weekday of Timestamp object at 0x10832b0d0>
+934,124891624,"2299 Market St APT 502, San Francisco, CA",37764138,-122433001,0.915,False,1.0,1.0,691.0,sqft,,,2013.0,2015,12,4,<built-in method weekday of Timestamp object at 0x10832b150>
+935,125088462,"748 Innes Ave # 303, San Francisco, CA",37730567,-122372703,0.49,False,1.0,1.0,775.0,sqft,,,2011.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10832b1d0>
+936,125089501,"150 Grand View Ave, San Francisco, CA",37755622,-122440528,0.0005,,,,,,44.0,sqft,1900.0,2015,12,14,<built-in method weekday of Timestamp object at 0x10832b250>
+937,125090873,"1379 29TH Ave #V, San Francisco, CA",37761696,-122487791,1.18,,,,,,188.0,sqft,,2015,12,17,<built-in method weekday of Timestamp object at 0x10832b2d0>
+938,125115962,"1027 Clayton St # V, San Francisco, CA",37763458,-122447425,1.21,,,,,,2247.0,sqft,1900.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10832b350>
+939,125156575,"1915 Diamond St, San Francisco, CA",37742141,-122435111,1.8,False,,1.0,2200.0,sqft,4316.0,sqft,1910.0,2015,12,30,<built-in method weekday of Timestamp object at 0x10832b3d0>
+940,2099751356,"551 Hudson Ave #202, San Francisco, CA",37731700,-122374000,0.6555,False,1.0,1.0,788.0,sqft,,,,2016,2,5,<built-in method weekday of Timestamp object at 0x10832b450>
+941,2099829492,"264 Dore St, San Francisco, CA",37771260,-122409700,2.5,True,,2.0,4000.0,sqft,,,,2016,1,15,<built-in method weekday of Timestamp object at 0x10832b4d0>
+942,2099901370,"1326 Utah St, San Francisco, CA",37752640,-122405600,1.2,False,6.0,5.0,2861.0,sqft,,,,2016,1,15,<built-in method weekday of Timestamp object at 0x10832b550>
+943,2099906047,"718 Long Bridge St #901, San Francisco, CA",37771506,-122394356,1.23,False,2.0,2.0,1200.0,sqft,,,,2016,1,23,<built-in method weekday of Timestamp object at 0x10832b5d0>
+944,2099906560,"72 Townsend #502, San Francisco, CA",37781040,-122390100,1.64,False,2.0,2.0,1000.0,sqft,,,,2015,11,23,<built-in method weekday of Timestamp object at 0x10832b650>
+945,2099925746,"738 Long Bridge St #912, San Francisco, CA",37771790,-122394700,2.0,False,3.0,3.0,1961.0,sqft,,,,2016,1,20,<built-in method weekday of Timestamp object at 0x10832b6d0>
+946,2099928615,"310 Carolina St UNIT 404, San Francisco, CA",37764669,-122400656,1.75,False,2.0,2.5,1243.0,sqft,,,2015.0,2015,12,7,<built-in method weekday of Timestamp object at 0x10832b750>
+947,2099929240,"1323 Cortland Ave, San Francisco, CA",37740030,-122411000,0.55,,,,,,,,,2016,1,20,<built-in method weekday of Timestamp object at 0x10832b7d0>
+948,2099929310,"400 Grove St #101, San Francisco, CA",37777800,-122423000,0.321634,False,1.0,1.0,,,,,,2016,1,20,<built-in method weekday of Timestamp object at 0x10832b850>
+949,2099976986,"639 35th Ave, San Francisco, CA",37776897,-122495582,2.19,False,9.0,6.0,2790.0,sqft,3005.0,sqft,1900.0,2016,1,21,<built-in method weekday of Timestamp object at 0x10832b8d0>
+950,2100170419,"3947 17th Street, San Francisco, CA",37762490,-122433500,1.25,False,2.0,3.0,1250.0,sqft,,,1910.0,2016,2,4,<built-in method weekday of Timestamp object at 0x10832b950>
+951,2100628935,"2261-65 Fulton #2263, San Francisco, CA",37772873,-122453442,0.995,False,2.0,1.0,1420.0,sqft,,,1911.0,2016,1,12,<built-in method weekday of Timestamp object at 0x10832b9d0>
+952,2100643449,"2149 Lyon St APT 4, San Francisco, CA",37790535,-122446099,1.1,False,2.0,1.5,,,,,1907.0,2015,12,27,<built-in method weekday of Timestamp object at 0x10832ba50>
+953,2100646549,"1529 Golden Gate Ave, San Francisco, CA",37778720,-122436600,2.0,False,2.0,2.0,2120.0,sqft,,,1900.0,2016,1,7,<built-in method weekday of Timestamp object at 0x10832bad0>
+954,2100651320,"3330 Clay St # C, San Francisco, CA",37789264,-122447761,1.21,False,2.0,2.0,1283.0,sqft,,,1910.0,2016,1,5,<built-in method weekday of Timestamp object at 0x10832bb50>
+955,2100682649,"520 Natoma St APT 9, San Francisco, CA",37779880,-122408300,0.45,False,1.0,1.0,,,,,1911.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10832bbd0>
+956,2100695464,"532 Lyon St, San Francisco, CA",37775802,-122442710,4.5,False,5.0,5.0,,,3044.0,sqft,1904.0,2015,11,24,<built-in method weekday of Timestamp object at 0x10832bc50>
+957,2100695466,"980 Baker St APT 3, San Francisco, CA",37780437,-122441474,1.75,False,3.0,2.0,1758.0,sqft,,,1961.0,2015,12,22,<built-in method weekday of Timestamp object at 0x10832bcd0>
+958,2100784055,"55 1/2 Lucy St, San Francisco, CA",37729980,-122393157,0.0025,False,2.0,1.0,1000.0,sqft,,,,2015,12,31,<built-in method weekday of Timestamp object at 0x10832bd50>
+959,2100786271,"2149 Lyon St APT 1, San Francisco, CA",37790535,-122446099,0.68,False,2.0,1.0,,,,,1907.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10832bdd0>
+960,2100791455,"130A Langton Street, San Francisco, CA",37776110,-122408270,0.75,False,2.0,1.5,1000.0,sqft,,,1906.0,2015,12,13,<built-in method weekday of Timestamp object at 0x10832be50>
+961,2100830039,"1731 Larkin St APT 3, San Francisco, CA",37793838,-122420013,1.29,False,2.0,2.0,,,,,,2016,2,9,<built-in method weekday of Timestamp object at 0x10832bed0>
+962,2100831587,"164 Parker Ave # B, San Francisco, CA",37782512,-122454025,1.21,False,2.0,1.0,,,,,,2015,12,3,<built-in method weekday of Timestamp object at 0x10832bf50>
+963,2100831588,"164 Parker Ave # A, San Francisco, CA",37782512,-122454025,1.16,False,2.0,1.0,,,,,,2015,11,19,<built-in method weekday of Timestamp object at 0x10832a050>
+964,2100831589,"181 Noe St, San Francisco, CA",37766201,-122433226,1.23,False,3.0,1.0,,,,,,2015,11,22,<built-in method weekday of Timestamp object at 0x10832a0d0>
+965,2100835351,"1676 Newcomb Ave, San Francisco, CA",37736278,-122391098,1.6,,,,,,,,1900.0,2015,12,8,<built-in method weekday of Timestamp object at 0x10832a150>
+966,2100850402,"1915 Diamond St, San Francisco, CA",37742141,-122435111,1.8,False,4.0,3.0,2400.0,sqft,4356.0,sqft,1910.0,2015,12,29,<built-in method weekday of Timestamp object at 0x10832a1d0>
+967,2100861826,"1606 Jones St, San Francisco, CA",37796169,-122414825,2.8,False,,,4035.0,sqft,,,1907.0,2015,12,11,<built-in method weekday of Timestamp object at 0x10832a250>
+968,2100901630,"1890 Jefferson Street #302, San Francisco, CA",37804840,-122442970,1.07,False,2.0,1.0,1018.0,sqft,,,1934.0,2016,2,4,<built-in method weekday of Timestamp object at 0x10832a2d0>
+969,2100902229,"2299 Market St APT 502, San Francisco, CA",37764100,-122433000,0.915,False,1.0,1.0,700.0,sqft,,,2013.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10832a350>
+970,2100992607,"2137 Pine St, San Francisco, CA",37788242,-122430988,1.55,False,4.0,2.5,1632.0,sqft,,,,2016,1,15,<built-in method weekday of Timestamp object at 0x10832a3d0>
+971,2100994004,"409 Miguel St, San Francisco, CA",37736625,-122427008,0.51,False,1.0,1.0,400.0,sqft,,,,2015,12,9,<built-in method weekday of Timestamp object at 0x10832a450>
+972,2101028916,"251 Missouri St, San Francisco, CA",37763202,-122396270,2.45,False,4.0,3.0,2301.0,sqft,,,1900.0,2015,12,17,<built-in method weekday of Timestamp object at 0x10832a4d0>
+973,2101094207,"1650 Florida St, San Francisco, CA",37746898,-122409301,0.97,False,3.0,1.0,,,,,1904.0,2015,11,29,<built-in method weekday of Timestamp object at 0x10832a550>
+974,2101105851,"41 Collingwood St, San Francisco, CA",37761579,-122436123,1.3,False,3.0,1.0,1496.0,sqft,,,1908.0,2015,12,10,<built-in method weekday of Timestamp object at 0x10832a5d0>
+975,2101116542,"2753 Bryant St, San Francisco, CA",37750270,-122408600,1.7,False,9.0,3.0,4005.0,sqft,,,1900.0,2016,1,14,<built-in method weekday of Timestamp object at 0x10832a650>
+976,2101147349,"244 Precita Ave, San Francisco, CA",37747330,-122415110,0.785,False,1.0,1.0,625.0,sqft,,,1908.0,2015,11,26,<built-in method weekday of Timestamp object at 0x10832a6d0>
+977,2101153805,"6 Rossi Ave, San Francisco, CA",37779494,-122456412,1.15,False,3.0,1.0,1912.0,sqft,,,1941.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10832a750>
+978,2101156735,"333 Potrero Ave, San Francisco, CA",37765266,-122407150,1.14,True,,,1776.0,sqft,3746.0,sqft,1905.0,2016,1,5,<built-in method weekday of Timestamp object at 0x10832a7d0>
+979,2101167573,"1340 Union St, San Francisco, CA",37798930,-122421388,1.25,False,2.0,2.0,1108.0,sqft,,,1951.0,2016,1,25,<built-in method weekday of Timestamp object at 0x10832a850>
+980,2101169168,"688 Douglass St, San Francisco, CA",37752803,-122438919,3.15,True,,,3500.0,sqft,2495.0,sqft,1908.0,2015,11,10,<built-in method weekday of Timestamp object at 0x10832a8d0>
+981,2101175813,"414 Linden St, San Francisco, CA",37776218,-122424930,0.835,False,1.0,1.0,,,,,1909.0,2015,12,13,<built-in method weekday of Timestamp object at 0x10832a950>
+982,2101331127,"1408 31st Ave APT 303, San Francisco, CA",37760994,-122489700,0.89,False,2.0,2.0,1424.0,sqft,,,2008.0,2015,12,28,<built-in method weekday of Timestamp object at 0x10832a9d0>
+983,2101505254,"333 Beale St, San Francisco, CA",37788280,-122392100,1.4,False,1.0,1.0,950.0,sqft,,,2015.0,2015,12,3,<built-in method weekday of Timestamp object at 0x10832aa50>
+984,2101588805,"82 Alvarado St, San Francisco, CA",37754504,-122422736,0.75,False,2.0,1.0,,,,,,2015,11,19,<built-in method weekday of Timestamp object at 0x10832aad0>
+985,2101807538,"2619 Sacramento St, San Francisco, CA",37789371,-122436058,2.9,True,,,,,2038.0,sqft,1900.0,2015,12,2,<built-in method weekday of Timestamp object at 0x10832ab50>
+986,2102385068,"129 Central Ave, San Francisco, CA",37770870,-122443840,1.8,False,3.0,2.0,,,,,1905.0,2015,12,1,<built-in method weekday of Timestamp object at 0x10832abd0>
+987,2102906272,"444 Linden St, San Francisco, CA",37776170,-122425300,0.0058,,,,,,,,,2015,12,14,<built-in method weekday of Timestamp object at 0x10832ac50>
+988,2106229715,"2595 38th Ave, San Francisco, CA",37738600,-122496000,1.24,False,3.0,3.0,2414.0,sqft,1306.0,sqft,1943.0,2016,1,19,<built-in method weekday of Timestamp object at 0x10832acd0>
+989,2108411930,"3500 19th St, San Francisco, CA",37760100,-122422000,1.73,False,2.0,2.5,1500.0,sqft,,,2013.0,2015,12,29,<built-in method weekday of Timestamp object at 0x10832ad50>
+990,2108546010,"1738 Lombard St APT 4, San Francisco, CA",37800910,-122430229,1.4,False,2.0,2.0,,,,,2004.0,2016,1,14,<built-in method weekday of Timestamp object at 0x10832add0>
+991,2114498518,"201 Sansome St UNIT 501, San Francisco, CA",37792255,-122401245,0.7575,False,1.0,1.0,658.0,sqft,,,1909.0,2016,1,26,<built-in method weekday of Timestamp object at 0x10832ae50>
+992,2121221385,"925 Larkin St, San Francisco, CA",37786427,-122418222,1.43,False,,,6600.0,sqft,,,1907.0,2015,11,30,<built-in method weekday of Timestamp object at 0x10832aed0>
+993,2121978635,"829 Folsom St UNIT 906, San Francisco, CA",37781429,-122401860,0.675,False,1.0,1.0,557.0,sqft,,,2010.0,2015,12,6,<built-in method weekday of Timestamp object at 0x10832af50>
+994,2122992200,"129 Octavia St, San Francisco, CA",37773192,-122424037,2.75,True,,,3655.0,sqft,,,1883.0,2015,11,20,<built-in method weekday of Timestamp object at 0x108329050>
+995,2124214951,"412 Green St APT A, San Francisco, CA",37800040,-122406100,0.39,True,,1.0,264.0,sqft,,,2012.0,2016,1,15,<built-in method weekday of Timestamp object at 0x1083290d0>
+996,2126960082,"355 1st St UNIT 1905, San Francisco, CA",37787029,-122393638,0.86,False,1.0,1.0,691.0,sqft,,,2004.0,2015,11,20,<built-in method weekday of Timestamp object at 0x108329150>
+997,2128308939,"33 Santa Cruz Ave, San Francisco, CA",37709136,-122465332,0.83,False,3.0,3.0,1738.0,sqft,2299.0,sqft,1976.0,2015,12,10,<built-in method weekday of Timestamp object at 0x1083291d0>
+998,2131957929,"1821 Grant Ave, San Francisco, CA",37803760,-122408531,0.835,False,2.0,2.0,1048.0,sqft,,,1975.0,2015,12,15,<built-in method weekday of Timestamp object at 0x108329250>
+999,2136213970,"1200 Gough St, San Francisco, CA",37784770,-122424100,0.825,False,1.0,1.0,900.0,sqft,,,1966.0,2016,1,10,<built-in method weekday of Timestamp object at 0x1083292d0>
